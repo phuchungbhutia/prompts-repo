@@ -139,9 +139,9 @@ def update_readme(prompts):
         "",
          "### 💡 Tip: If You Update Files Later",
         "",
-        "```powershell",
+        "```",
         "git add .",
-        "git commit -m "Updated prompt and README"",
+        "git commit -m [Update]",
         "git push",
         "```",
         "",
@@ -168,9 +168,9 @@ def update_readme(prompts):
         "",
         "## Indexing in Action",
         "",
-        "![Indexing Script](docs/images/indexing.png)"
+        "![Indexing Script](docs/images/indexing.png)",
         "",
-        "<a href="https://www.flaticon.com/free-icons/layout" title="layout icons">Layout icons created by Freepik - Flaticon</a>"
+        "(https://www.flaticon.com/free-icons/layout)"
     ])
     
     with open('README.md', 'w', encoding='utf-8') as f:

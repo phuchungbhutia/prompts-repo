@@ -52,6 +52,14 @@ Run the indexing script:
 python scripts/update_index.py
 ```
 
+### 💡 Tip: If You Update Files Later
+
+```
+git add .
+git commit -m [Update]
+git push
+```
+
 ## Contributing
 
 1. Add a new prompt in `/prompts/category_name/` using the [template](prompts/template.md).
@@ -76,4 +84,5 @@ MIT License. See [LICENSE](LICENSE) for details.
 ## Indexing in Action
 
 ![Indexing Script](docs/images/indexing.png)
-<a href="https://www.flaticon.com/free-icons/layout" title="layout icons">Layout icons created by Freepik - Flaticon</a>
+
+(https://www.flaticon.com/free-icons/layout)

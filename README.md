@@ -19,9 +19,11 @@ graph TD
     B --> CAT1[content-gen]
     B --> CAT2[deepseel]
     B --> CAT3[gst-audit]
+    B --> CAT4[health-nutrition]
     CAT1[content-gen] --> F11[Blog Post Generator.md]
     CAT2[deepseel] --> F21[2025.04.18.md]
     CAT3[gst-audit] --> F31[GST Data Analysis for Audit.md]
+    CAT4[health-nutrition] --> F41[Create a Comprehensive Healthy Meal Plan Guide.md]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -36,11 +38,13 @@ graph TD
 | content-gen | Prompts for content gen tasks | Blog Post Generator |
 | deepseel | Prompts for deepseel tasks | 2025.04.18 |
 | gst-audit | Prompts for gst audit tasks | GST Data Analysis for Audit |
+| health-nutrition | Prompts for health nutrition tasks | Create a Comprehensive Healthy Meal Plan Guide |
 
 ## Prompts
 
 - [2025.04.18](prompts/deepseek/2025.04.18.md) - Collection of Deepseek prompts
 - [Blog Post Generator](prompts/content-gen/blog-post-generator.md) - Generates outlines and content for blog posts based on given topics
+- [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.
 - [GST Data Analysis for Audit](prompts/gst-audit/gst-data-anaylsis.md) - Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
 
 ## Installation

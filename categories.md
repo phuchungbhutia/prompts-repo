@@ -9,6 +9,7 @@ Prompts are grouped by category below.
 | content-gen | Prompts for content gen tasks | Blog Post Generator |
 | deepseel | Prompts for deepseel tasks | 2025.04.18 |
 | gst-audit | Prompts for gst audit tasks | GST Data Analysis for Audit |
+| health-nutrition | Prompts for health nutrition tasks | Create a Comprehensive Healthy Meal Plan Guide |
 
 ## content-gen
 
@@ -21,3 +22,7 @@ Prompts are grouped by category below.
 ## gst-audit
 
 - [GST Data Analysis for Audit](prompts/gst-audit/gst-data-anaylsis.md) - Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
+
+## health-nutrition
+
+- [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.

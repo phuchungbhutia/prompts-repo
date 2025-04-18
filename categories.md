@@ -7,7 +7,7 @@ Prompts are grouped by category below.
 | Category | Description | Example Prompt |
 |----------|-------------|---------------|
 | content-gen | Prompts for content gen tasks | Blog Post Generator |
-| deepseel | Prompts for deepseel tasks | 2025.04.18 |
+| deepseek | Prompts for deepseek tasks | 2025.04.18 |
 | gst-audit | Prompts for gst audit tasks | GST Data Analysis for Audit |
 | health-nutrition | Prompts for health nutrition tasks | Create a Comprehensive Healthy Meal Plan Guide |
 
@@ -15,7 +15,7 @@ Prompts are grouped by category below.
 
 - [Blog Post Generator](prompts/content-gen/blog-post-generator.md) - Generates outlines and content for blog posts based on given topics
 
-## deepseel
+## deepseek
 
 - [2025.04.18](prompts/deepseek/2025.04.18.md) - Collection of Deepseek prompts
 

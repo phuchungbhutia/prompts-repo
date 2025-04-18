@@ -17,11 +17,11 @@ graph TD
     A --> D[.github/workflows]
     A --> E[docs/images]
     B --> CAT1[content-gen]
-    B --> CAT2[deepseel]
+    B --> CAT2[deepseek]
     B --> CAT3[gst-audit]
     B --> CAT4[health-nutrition]
     CAT1[content-gen] --> F11[Blog Post Generator.md]
-    CAT2[deepseel] --> F21[2025.04.18.md]
+    CAT2[deepseek] --> F21[2025.04.18.md]
     CAT3[gst-audit] --> F31[GST Data Analysis for Audit.md]
     CAT4[health-nutrition] --> F41[Create a Comprehensive Healthy Meal Plan Guide.md]
     C --> S[update_index.py]
@@ -36,7 +36,7 @@ graph TD
 | Category     | Description                              | Example Prompt              |
 |--------------|------------------------------------------|-----------------------------|
 | content-gen | Prompts for content gen tasks | Blog Post Generator |
-| deepseel | Prompts for deepseel tasks | 2025.04.18 |
+| deepseek | Prompts for deepseek tasks | 2025.04.18 |
 | gst-audit | Prompts for gst audit tasks | GST Data Analysis for Audit |
 | health-nutrition | Prompts for health nutrition tasks | Create a Comprehensive Healthy Meal Plan Guide |
 

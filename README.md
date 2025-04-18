@@ -35,10 +35,10 @@ graph TD
 
 | Category     | Description                              | Example Prompt              |
 |--------------|------------------------------------------|-----------------------------|
-| content-gen | Prompts for content gen tasks | Blog Post Generator |
-| deepseek | Prompts for deepseek tasks | 2025.04.18 |
-| gst-audit | Prompts for gst audit tasks | GST Data Analysis for Audit |
-| health-nutrition | Prompts for health nutrition tasks | Create a Comprehensive Healthy Meal Plan Guide |
+| content-gen | Prompts for content gen  | Blog Post Generator |
+| deepseek | Prompts for deepseek  | 2025.04.18 |
+| gst-audit | Prompts for gst audit  | GST Data Analysis for Audit |
+| health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
 
 ## Prompts
 

@@ -112,7 +112,7 @@ def update_readme(prompts):
     
     for category in sorted(categories.keys()):
         example = categories[category][0]['title']
-        content.append(f"| {category} | Prompts for {category.replace('-', ' ')} tasks | {example} |")
+        content.append(f"| {category} | Prompts for {category.replace('-', ' ')}  | {example} |")
     
     content.extend([
         "",
@@ -197,7 +197,7 @@ def update_categories(prompts):
     
     for category in sorted(categories.keys()):
         example = categories[category][0]['title']
-        content.append(f"| {category} | Prompts for {category.replace('-', ' ')} tasks | {example} |")
+        content.append(f"| {category} | Prompts for {category.replace('-', ' ')}  | {example} |")
     
     content.append("")
     for category, cat_prompts in sorted(categories.items()):

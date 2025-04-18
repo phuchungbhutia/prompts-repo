@@ -17,9 +17,11 @@ graph TD
     A --> D[.github/workflows]
     A --> E[docs/images]
     B --> CAT1[content-gen]
-    B --> CAT2[gst-audit]
+    B --> CAT2[deepseel]
+    B --> CAT3[gst-audit]
     CAT1[content-gen] --> F11[Blog Post Generator.md]
-    CAT2[gst-audit] --> F21[GST Data Analysis for Audit.md]
+    CAT2[deepseel] --> F21[2025.04.18.md]
+    CAT3[gst-audit] --> F31[GST Data Analysis for Audit.md]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -32,10 +34,12 @@ graph TD
 | Category     | Description                              | Example Prompt              |
 |--------------|------------------------------------------|-----------------------------|
 | content-gen | Prompts for content gen tasks | Blog Post Generator |
+| deepseel | Prompts for deepseel tasks | 2025.04.18 |
 | gst-audit | Prompts for gst audit tasks | GST Data Analysis for Audit |
 
 ## Prompts
 
+- [2025.04.18](prompts/deepseek/2025.04.18.md) - Collection of Deepseek prompts
 - [Blog Post Generator](prompts/content-gen/blog-post-generator.md) - Generates outlines and content for blog posts based on given topics
 - [GST Data Analysis for Audit](prompts/gst-audit/gst-data-anaylsis.md) - Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
 

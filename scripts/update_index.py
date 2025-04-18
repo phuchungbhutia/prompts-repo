@@ -169,6 +169,7 @@ def update_readme(prompts):
         "## Indexing in Action",
         "",
         "![Indexing Script](docs/images/indexing.png)"
+        "",
         "<a href="https://www.flaticon.com/free-icons/layout" title="layout icons">Layout icons created by Freepik - Flaticon</a>"
     ])
     

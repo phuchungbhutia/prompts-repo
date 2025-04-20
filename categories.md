@@ -6,12 +6,17 @@ Prompts are grouped by category below.
 
 | Category | Description | Example Prompt |
 |----------|-------------|---------------|
+| Android App Development, OCR, AI Tools | Prompts for Android App Development, OCR, AI Tools  | Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR |
 | App Development | Prompts for App Development  | Cross-Platform Audit App Development Plan |
 | content-gen | Prompts for content gen  | Blog Post Generator |
 | deepseek | Prompts for deepseek  | 2025.04.18 |
 | gst-audit | Prompts for gst audit  | GST Data Analysis for Audit |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
 | learning | Prompts for learning  | 10 Powerful AI-Based Learning Techniques |
+
+## Android App Development, OCR, AI Tools
+
+- [Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR](prompts/app-development/camscanner-app.md) - Build an advanced Android camera document scanning app with smart features, OCR, AI-enhanced image processing, and optimized performance.
 
 ## App Development
 

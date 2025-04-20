@@ -16,18 +16,20 @@ graph TD
     A --> C[scripts]
     A --> D[.github/workflows]
     A --> E[docs/images]
-    B --> CAT1[App Development]
-    B --> CAT2[content-gen]
-    B --> CAT3[deepseek]
-    B --> CAT4[gst-audit]
-    B --> CAT5[health-nutrition]
-    B --> CAT6[learning]
-    CAT1[App Development] --> F11[Cross-Platform Audit App Development Plan.md]
-    CAT2[content-gen] --> F21[Blog Post Generator.md]
-    CAT3[deepseek] --> F31[2025.04.18.md]
-    CAT4[gst-audit] --> F41[GST Data Analysis for Audit.md]
-    CAT5[health-nutrition] --> F51[Create a Comprehensive Healthy Meal Plan Guide.md]
-    CAT6[learning] --> F61[10 Powerful AI-Based Learning Techniques.md]
+    B --> CAT1[Android App Development, OCR, AI Tools]
+    B --> CAT2[App Development]
+    B --> CAT3[content-gen]
+    B --> CAT4[deepseek]
+    B --> CAT5[gst-audit]
+    B --> CAT6[health-nutrition]
+    B --> CAT7[learning]
+    CAT1[Android App Development, OCR, AI Tools] --> F11[Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR.md]
+    CAT2[App Development] --> F21[Cross-Platform Audit App Development Plan.md]
+    CAT3[content-gen] --> F31[Blog Post Generator.md]
+    CAT4[deepseek] --> F41[2025.04.18.md]
+    CAT5[gst-audit] --> F51[GST Data Analysis for Audit.md]
+    CAT6[health-nutrition] --> F61[Create a Comprehensive Healthy Meal Plan Guide.md]
+    CAT7[learning] --> F71[10 Powerful AI-Based Learning Techniques.md]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -39,6 +41,7 @@ graph TD
 
 | Category     | Description                              | Example Prompt              |
 |--------------|------------------------------------------|-----------------------------|
+| Android App Development, OCR, AI Tools | Prompts for Android App Development, OCR, AI Tools  | Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR |
 | App Development | Prompts for App Development  | Cross-Platform Audit App Development Plan |
 | content-gen | Prompts for content gen  | Blog Post Generator |
 | deepseek | Prompts for deepseek  | 2025.04.18 |
@@ -54,6 +57,7 @@ graph TD
 - [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.
 - [Cross-Platform Audit App Development Plan](prompts/app-development/audit-app.md) - Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
 - [GST Data Analysis for Audit](prompts/gst-audit/gst-data-anaylsis.md) - Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
+- [Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR](prompts/app-development/camscanner-app.md) - Build an advanced Android camera document scanning app with smart features, OCR, AI-enhanced image processing, and optimized performance.
 
 ## Installation
 

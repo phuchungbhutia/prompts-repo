@@ -88,5 +88,3 @@ I want to build a cross-platform app for auditors to **record observations (text
 - Copy and paste the prompt into ChatGPT to get a detailed step-by-step development plan.
 - Use the output as a blueprint for planning your app development process.
 
-## Example Output
-[See generated response above or in a separate markdown file in the `responses/` folder of the repo.]

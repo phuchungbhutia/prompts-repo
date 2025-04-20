@@ -11,6 +11,7 @@ Prompts are grouped by category below.
 | deepseek | Prompts for deepseek  | 2025.04.18 |
 | gst-audit | Prompts for gst audit  | GST Data Analysis for Audit |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
+| learning | Prompts for learning  | 10 Powerful AI-Based Learning Techniques |
 
 ## App Development
 
@@ -31,3 +32,7 @@ Prompts are grouped by category below.
 ## health-nutrition
 
 - [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.
+
+## learning
+
+- [10 Powerful AI-Based Learning Techniques](prompts/learning/ai-based-learning.md) - Master any topic faster with these 10 optimized prompt templates designed to enhance understanding, retention, and motivation.

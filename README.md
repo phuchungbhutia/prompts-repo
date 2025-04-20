@@ -21,11 +21,13 @@ graph TD
     B --> CAT3[deepseek]
     B --> CAT4[gst-audit]
     B --> CAT5[health-nutrition]
+    B --> CAT6[learning]
     CAT1[App Development] --> F11[Cross-Platform Audit App Development Plan.md]
     CAT2[content-gen] --> F21[Blog Post Generator.md]
     CAT3[deepseek] --> F31[2025.04.18.md]
     CAT4[gst-audit] --> F41[GST Data Analysis for Audit.md]
     CAT5[health-nutrition] --> F51[Create a Comprehensive Healthy Meal Plan Guide.md]
+    CAT6[learning] --> F61[10 Powerful AI-Based Learning Techniques.md]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -42,9 +44,11 @@ graph TD
 | deepseek | Prompts for deepseek  | 2025.04.18 |
 | gst-audit | Prompts for gst audit  | GST Data Analysis for Audit |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
+| learning | Prompts for learning  | 10 Powerful AI-Based Learning Techniques |
 
 ## Prompts
 
+- [10 Powerful AI-Based Learning Techniques](prompts/learning/ai-based-learning.md) - Master any topic faster with these 10 optimized prompt templates designed to enhance understanding, retention, and motivation.
 - [2025.04.18](prompts/deepseek/2025.04.18.md) - Collection of Deepseek prompts
 - [Blog Post Generator](prompts/content-gen/blog-post-generator.md) - Generates outlines and content for blog posts based on given topics
 - [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.

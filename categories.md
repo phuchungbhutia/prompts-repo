@@ -6,10 +6,15 @@ Prompts are grouped by category below.
 
 | Category | Description | Example Prompt |
 |----------|-------------|---------------|
+| App Development | Prompts for App Development  | Cross-Platform Audit App Development Plan |
 | content-gen | Prompts for content gen  | Blog Post Generator |
 | deepseek | Prompts for deepseek  | 2025.04.18 |
 | gst-audit | Prompts for gst audit  | GST Data Analysis for Audit |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
+
+## App Development
+
+- [Cross-Platform Audit App Development Plan](prompts/app-development/audit-app.md) - Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
 
 ## content-gen
 

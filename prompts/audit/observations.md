@@ -1,7 +1,9 @@
+---
 title: Audit Observations
-category: Observations
+category: Audit
 tags: [audit, nagar panchayat, streetlight, procurement, expenditure, asset management, control weakness]  
 description: Prompt for Writing Audit Observations
+---
 
 **Prompt Used for Generating this Audit Observation:**  
 Write a series of concise audit reports in the style of a local fund auditor reviewing projects undertaken by local bodies like Gram Panchayat (GP), Zilla Parishad (ZP), Nagar Panchayat (NP), and Municipality.  

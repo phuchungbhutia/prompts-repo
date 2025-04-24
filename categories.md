@@ -12,6 +12,7 @@ Prompts are grouped by category below.
 | App Development | Prompts for App Development  | Cross-Platform Audit App Development Plan |
 | Business | Prompts for Business  | 9 ChatGPT Prompts to Find Profitable Market Opportunities |
 | Career Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
+| Learning with AI | Prompts for Learning with AI  | Use AI to Learn Anything Faster |
 | Prompt Engineering | Prompts for Prompt Engineering  | DeepSeek AI Prompt Hacks Cheat Sheet |
 | Strategy & Productivity | Prompts for Strategy & Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | content-gen | Prompts for content gen  | Blog Post Generator |
@@ -45,6 +46,10 @@ Prompts are grouped by category below.
 ## Career Tips
 
 - [Mastering Common Interview Questions with ChatGPT](prompts/Career-Tips/Interview.md) - Learn how to master the most common interview questions using ChatGPT, with examples, prompts, pros, cons, and limitations for each. Perfect for job seekers who want to prepare smarter and faster.
+
+## Learning with AI
+
+- [Use AI to Learn Anything Faster](prompts/AITools/learn-faster.md) - A practical guide on how to leverage AI tools like ChatGPT to supercharge your learning using proven techniques like simplification, analogies, quizzes, mind maps, and more.
 
 ## Prompt Engineering
 

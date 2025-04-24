@@ -22,13 +22,14 @@ graph TD
     B --> CAT4[App Development]
     B --> CAT5[Business]
     B --> CAT6[Career Tips]
-    B --> CAT7[Prompt Engineering]
-    B --> CAT8[Strategy & Productivity]
-    B --> CAT9[content-gen]
-    B --> CAT10[deepseek]
-    B --> CAT11[gst-audit]
-    B --> CAT12[health-nutrition]
-    B --> CAT13[learning]
+    B --> CAT7[Learning with AI]
+    B --> CAT8[Prompt Engineering]
+    B --> CAT9[Strategy & Productivity]
+    B --> CAT10[content-gen]
+    B --> CAT11[deepseek]
+    B --> CAT12[gst-audit]
+    B --> CAT13[health-nutrition]
+    B --> CAT14[learning]
     CAT1[AI Prompt Engineering] --> F11[ChatGPT Prompting Frameworks Explained.md]
     CAT2[AI Tools] --> F21[12 Must-Know ChatGPT Prompt Techniques.md]
     CAT2[AI Tools] --> F22[Boost Productivity with These Powerful ChatGPT Prompts.md]
@@ -37,13 +38,14 @@ graph TD
     CAT4[App Development] --> F41[Cross-Platform Audit App Development Plan.md]
     CAT5[Business] --> F51[9 ChatGPT Prompts to Find Profitable Market Opportunities.md]
     CAT6[Career Tips] --> F61[Mastering Common Interview Questions with ChatGPT.md]
-    CAT7[Prompt Engineering] --> F71[DeepSeek AI Prompt Hacks Cheat Sheet.md]
-    CAT8[Strategy & Productivity] --> F81[5 Problem-Solving Method Prompts for Founders & CEOs.md]
-    CAT9[content-gen] --> F91[Blog Post Generator.md]
-    CAT10[deepseek] --> F101[2025.04.18.md]
-    CAT11[gst-audit] --> F111[GST Data Analysis for Audit.md]
-    CAT12[health-nutrition] --> F121[Create a Comprehensive Healthy Meal Plan Guide.md]
-    CAT13[learning] --> F131[10 Powerful AI-Based Learning Techniques.md]
+    CAT7[Learning with AI] --> F71[Use AI to Learn Anything Faster.md]
+    CAT8[Prompt Engineering] --> F81[DeepSeek AI Prompt Hacks Cheat Sheet.md]
+    CAT9[Strategy & Productivity] --> F91[5 Problem-Solving Method Prompts for Founders & CEOs.md]
+    CAT10[content-gen] --> F101[Blog Post Generator.md]
+    CAT11[deepseek] --> F111[2025.04.18.md]
+    CAT12[gst-audit] --> F121[GST Data Analysis for Audit.md]
+    CAT13[health-nutrition] --> F131[Create a Comprehensive Healthy Meal Plan Guide.md]
+    CAT14[learning] --> F141[10 Powerful AI-Based Learning Techniques.md]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -61,6 +63,7 @@ graph TD
 | App Development | Prompts for App Development  | Cross-Platform Audit App Development Plan |
 | Business | Prompts for Business  | 9 ChatGPT Prompts to Find Profitable Market Opportunities |
 | Career Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
+| Learning with AI | Prompts for Learning with AI  | Use AI to Learn Anything Faster |
 | Prompt Engineering | Prompts for Prompt Engineering  | DeepSeek AI Prompt Hacks Cheat Sheet |
 | Strategy & Productivity | Prompts for Strategy & Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | content-gen | Prompts for content gen  | Blog Post Generator |
@@ -86,6 +89,7 @@ graph TD
 - [Mastering Common Interview Questions with ChatGPT](prompts/Career-Tips/Interview.md) - Learn how to master the most common interview questions using ChatGPT, with examples, prompts, pros, cons, and limitations for each. Perfect for job seekers who want to prepare smarter and faster.
 - [Problem Solving Using Mental Models](prompts/AITools/Problem-Solving.md) - Learn how to use ChatGPT more effectively by applying 9 powerful mental models for problem solving. Each framework includes 3 practical examples to guide your strategy, planning, and execution.
 - [Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR](prompts/app-development/camscanner-app.md) - Build an advanced Android camera document scanning app with smart features, OCR, AI-enhanced image processing, and optimized performance.
+- [Use AI to Learn Anything Faster](prompts/AITools/learn-faster.md) - A practical guide on how to leverage AI tools like ChatGPT to supercharge your learning using proven techniques like simplification, analogies, quizzes, mind maps, and more.
 
 ## Installation
 

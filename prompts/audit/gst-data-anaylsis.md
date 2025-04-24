@@ -1,6 +1,6 @@
 ---
 title: GST Data Analysis for Audit
-category: gst-audit
+category: Audit
 description: Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
 ---
 

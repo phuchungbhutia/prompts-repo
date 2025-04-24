@@ -107,7 +107,7 @@ python scripts/update_index.py
 ### 💡 Tip: Run the indexing script from Local Drive C in Windows:
 
 ```powershell
-cd C:\Projects\prompts-repo
+cd C:/Projects/prompts-repo
 python scripts/update_index.py
 ```
 ### 💡 Tip: To Update Files

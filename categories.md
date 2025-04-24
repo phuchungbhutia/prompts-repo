@@ -8,6 +8,7 @@ Prompts are grouped by category below.
 |----------|-------------|---------------|
 | AI Prompt Engineering | Prompts for AI Prompt Engineering  | ChatGPT Prompting Frameworks Explained |
 | AI Tools | Prompts for AI Tools  | 12 Must-Know ChatGPT Prompt Techniques |
+| Academic Writing | Prompts for Academic Writing  | Ethical AI Use in Academic Writing – Prompts & Guide |
 | Android App Development, OCR, AI Tools | Prompts for Android App Development, OCR, AI Tools  | Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR |
 | App Development | Prompts for App Development  | Cross-Platform Audit App Development Plan |
 | Audit | Prompts for Audit  | Audit Observations |
@@ -32,6 +33,10 @@ Prompts are grouped by category below.
 - [12 Must-Know ChatGPT Prompt Techniques](prompts/AITools/chatgpt.md) - Learn how to use 12 powerful ChatGPT prompt techniques with 36 ready-to-use examples for better results in learning, creativity, productivity, and problem-solving.
 - [Boost Productivity with These Powerful ChatGPT Prompts](prompts/AITools/productivity.md) - Learn how to maximize your productivity in 2025 using ChatGPT prompts. This blog breaks down the structure, examples, and best practices to make ChatGPT your ultimate task partner.
 - [Problem Solving Using Mental Models](prompts/AITools/Problem-Solving.md) - Learn how to use ChatGPT more effectively by applying 9 powerful mental models for problem solving. Each framework includes 3 practical examples to guide your strategy, planning, and execution.
+
+## Academic Writing
+
+- [Ethical AI Use in Academic Writing – Prompts & Guide](prompts/AITools/academics.md) - A complete guide and prompt collection for using AI tools ethically in academic writing. Includes detailed steps, do’s and don’ts, and professional prompt templates.
 
 ## Android App Development, OCR, AI Tools
 

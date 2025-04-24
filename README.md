@@ -18,38 +18,40 @@ graph TD
     A --> E[docs/images]
     B --> CAT1[AI Prompt Engineering]
     B --> CAT2[AI Tools]
-    B --> CAT3[Android App Development, OCR, AI Tools]
-    B --> CAT4[App Development]
-    B --> CAT5[Audit]
-    B --> CAT6[Business]
-    B --> CAT7[Career Tips]
-    B --> CAT8[Learning Techniques]
-    B --> CAT9[Learning with AI]
-    B --> CAT10[Prompt Engineering]
-    B --> CAT11[Strategy & Productivity]
-    B --> CAT12[content-gen]
-    B --> CAT13[deepseek]
-    B --> CAT14[health-nutrition]
-    B --> CAT15[learning]
+    B --> CAT3[Academic Writing]
+    B --> CAT4[Android App Development, OCR, AI Tools]
+    B --> CAT5[App Development]
+    B --> CAT6[Audit]
+    B --> CAT7[Business]
+    B --> CAT8[Career Tips]
+    B --> CAT9[Learning Techniques]
+    B --> CAT10[Learning with AI]
+    B --> CAT11[Prompt Engineering]
+    B --> CAT12[Strategy & Productivity]
+    B --> CAT13[content-gen]
+    B --> CAT14[deepseek]
+    B --> CAT15[health-nutrition]
+    B --> CAT16[learning]
     CAT1[AI Prompt Engineering] --> F11[ChatGPT Prompting Frameworks Explained.md]
     CAT1[AI Prompt Engineering] --> F12[Grok 3 Prompting Master Cheat Sheet.md]
     CAT2[AI Tools] --> F21[12 Must-Know ChatGPT Prompt Techniques.md]
     CAT2[AI Tools] --> F22[Boost Productivity with These Powerful ChatGPT Prompts.md]
     CAT2[AI Tools] --> F23[Problem Solving Using Mental Models.md]
-    CAT3[Android App Development, OCR, AI Tools] --> F31[Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR.md]
-    CAT4[App Development] --> F41[Cross-Platform Audit App Development Plan.md]
-    CAT5[Audit] --> F51[Audit Observations.md]
-    CAT5[Audit] --> F52[GST Data Analysis for Audit.md]
-    CAT6[Business] --> F61[9 ChatGPT Prompts to Find Profitable Market Opportunities.md]
-    CAT7[Career Tips] --> F71[Mastering Common Interview Questions with ChatGPT.md]
-    CAT8[Learning Techniques] --> F81[Learn Anything 5x Faster with These 9 Proven Methods.md]
-    CAT9[Learning with AI] --> F91[Use AI to Learn Anything Faster.md]
-    CAT10[Prompt Engineering] --> F101[DeepSeek AI Prompt Hacks Cheat Sheet.md]
-    CAT11[Strategy & Productivity] --> F111[5 Problem-Solving Method Prompts for Founders & CEOs.md]
-    CAT12[content-gen] --> F121[Blog Post Generator.md]
-    CAT13[deepseek] --> F131[2025.04.18.md]
-    CAT14[health-nutrition] --> F141[Create a Comprehensive Healthy Meal Plan Guide.md]
-    CAT15[learning] --> F151[10 Powerful AI-Based Learning Techniques.md]
+    CAT3[Academic Writing] --> F31[Ethical AI Use in Academic Writing – Prompts & Guide.md]
+    CAT4[Android App Development, OCR, AI Tools] --> F41[Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR.md]
+    CAT5[App Development] --> F51[Cross-Platform Audit App Development Plan.md]
+    CAT6[Audit] --> F61[Audit Observations.md]
+    CAT6[Audit] --> F62[GST Data Analysis for Audit.md]
+    CAT7[Business] --> F71[9 ChatGPT Prompts to Find Profitable Market Opportunities.md]
+    CAT8[Career Tips] --> F81[Mastering Common Interview Questions with ChatGPT.md]
+    CAT9[Learning Techniques] --> F91[Learn Anything 5x Faster with These 9 Proven Methods.md]
+    CAT10[Learning with AI] --> F101[Use AI to Learn Anything Faster.md]
+    CAT11[Prompt Engineering] --> F111[DeepSeek AI Prompt Hacks Cheat Sheet.md]
+    CAT12[Strategy & Productivity] --> F121[5 Problem-Solving Method Prompts for Founders & CEOs.md]
+    CAT13[content-gen] --> F131[Blog Post Generator.md]
+    CAT14[deepseek] --> F141[2025.04.18.md]
+    CAT15[health-nutrition] --> F151[Create a Comprehensive Healthy Meal Plan Guide.md]
+    CAT16[learning] --> F161[10 Powerful AI-Based Learning Techniques.md]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -63,6 +65,7 @@ graph TD
 |--------------|------------------------------------------|-----------------------------|
 | AI Prompt Engineering | Prompts for AI Prompt Engineering  | ChatGPT Prompting Frameworks Explained |
 | AI Tools | Prompts for AI Tools  | 12 Must-Know ChatGPT Prompt Techniques |
+| Academic Writing | Prompts for Academic Writing  | Ethical AI Use in Academic Writing – Prompts & Guide |
 | Android App Development, OCR, AI Tools | Prompts for Android App Development, OCR, AI Tools  | Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR |
 | App Development | Prompts for App Development  | Cross-Platform Audit App Development Plan |
 | Audit | Prompts for Audit  | Audit Observations |
@@ -91,6 +94,7 @@ graph TD
 - [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.
 - [Cross-Platform Audit App Development Plan](prompts/app-development/audit-app.md) - Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
 - [DeepSeek AI Prompt Hacks Cheat Sheet](prompts/AITools/deepseek.md) - A comprehensive cheat sheet of DeepSeek AI prompt hacks with categorized examples to help you create powerful AI-generated content, resumes, code, educational material, and more.
+- [Ethical AI Use in Academic Writing – Prompts & Guide](prompts/AITools/academics.md) - A complete guide and prompt collection for using AI tools ethically in academic writing. Includes detailed steps, do’s and don’ts, and professional prompt templates.
 - [Grok 3 Prompting Master Cheat Sheet](prompts/AITools/grok.md) - Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.
 - [GST Data Analysis for Audit](prompts/audit/gst-data-anaylsis.md) - Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
 - [Learn Anything 5x Faster with These 9 Proven Methods](prompts/learning/learning-techniques.md) - A complete guide from beginner to expert on how to learn faster using 9 cognitive science-based frameworks. Includes explanations, use cases, and 27 actionable prompts.

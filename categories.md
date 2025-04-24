@@ -10,6 +10,7 @@ Prompts are grouped by category below.
 | AI Tools | Prompts for AI Tools  | 12 Must-Know ChatGPT Prompt Techniques |
 | Android App Development, OCR, AI Tools | Prompts for Android App Development, OCR, AI Tools  | Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR |
 | App Development | Prompts for App Development  | Cross-Platform Audit App Development Plan |
+| Audit | Prompts for Audit  | Audit Observations |
 | Business | Prompts for Business  | 9 ChatGPT Prompts to Find Profitable Market Opportunities |
 | Career Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
 | Learning with AI | Prompts for Learning with AI  | Use AI to Learn Anything Faster |
@@ -17,7 +18,6 @@ Prompts are grouped by category below.
 | Strategy & Productivity | Prompts for Strategy & Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | content-gen | Prompts for content gen  | Blog Post Generator |
 | deepseek | Prompts for deepseek  | 2025.04.18 |
-| gst-audit | Prompts for gst audit  | GST Data Analysis for Audit |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
 | learning | Prompts for learning  | 10 Powerful AI-Based Learning Techniques |
 
@@ -38,6 +38,11 @@ Prompts are grouped by category below.
 ## App Development
 
 - [Cross-Platform Audit App Development Plan](prompts/app-development/audit-app.md) - Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
+
+## Audit
+
+- [Audit Observations](prompts/audit/observations.md) - Prompt for Writing Audit Observations
+- [GST Data Analysis for Audit](prompts/audit/gst-data-anaylsis.md) - Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
 
 ## Business
 
@@ -66,10 +71,6 @@ Prompts are grouped by category below.
 ## deepseek
 
 - [2025.04.18](prompts/deepseek/2025.04.18.md) - Collection of Deepseek prompts
-
-## gst-audit
-
-- [GST Data Analysis for Audit](prompts/audit/gst-data-anaylsis.md) - Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
 
 ## health-nutrition
 

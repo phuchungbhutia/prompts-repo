@@ -20,14 +20,14 @@ graph TD
     B --> CAT2[AI Tools]
     B --> CAT3[Android App Development, OCR, AI Tools]
     B --> CAT4[App Development]
-    B --> CAT5[Business]
-    B --> CAT6[Career Tips]
-    B --> CAT7[Learning with AI]
-    B --> CAT8[Prompt Engineering]
-    B --> CAT9[Strategy & Productivity]
-    B --> CAT10[content-gen]
-    B --> CAT11[deepseek]
-    B --> CAT12[gst-audit]
+    B --> CAT5[Audit]
+    B --> CAT6[Business]
+    B --> CAT7[Career Tips]
+    B --> CAT8[Learning with AI]
+    B --> CAT9[Prompt Engineering]
+    B --> CAT10[Strategy & Productivity]
+    B --> CAT11[content-gen]
+    B --> CAT12[deepseek]
     B --> CAT13[health-nutrition]
     B --> CAT14[learning]
     CAT1[AI Prompt Engineering] --> F11[ChatGPT Prompting Frameworks Explained.md]
@@ -36,14 +36,15 @@ graph TD
     CAT2[AI Tools] --> F23[Problem Solving Using Mental Models.md]
     CAT3[Android App Development, OCR, AI Tools] --> F31[Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR.md]
     CAT4[App Development] --> F41[Cross-Platform Audit App Development Plan.md]
-    CAT5[Business] --> F51[9 ChatGPT Prompts to Find Profitable Market Opportunities.md]
-    CAT6[Career Tips] --> F61[Mastering Common Interview Questions with ChatGPT.md]
-    CAT7[Learning with AI] --> F71[Use AI to Learn Anything Faster.md]
-    CAT8[Prompt Engineering] --> F81[DeepSeek AI Prompt Hacks Cheat Sheet.md]
-    CAT9[Strategy & Productivity] --> F91[5 Problem-Solving Method Prompts for Founders & CEOs.md]
-    CAT10[content-gen] --> F101[Blog Post Generator.md]
-    CAT11[deepseek] --> F111[2025.04.18.md]
-    CAT12[gst-audit] --> F121[GST Data Analysis for Audit.md]
+    CAT5[Audit] --> F51[Audit Observations.md]
+    CAT5[Audit] --> F52[GST Data Analysis for Audit.md]
+    CAT6[Business] --> F61[9 ChatGPT Prompts to Find Profitable Market Opportunities.md]
+    CAT7[Career Tips] --> F71[Mastering Common Interview Questions with ChatGPT.md]
+    CAT8[Learning with AI] --> F81[Use AI to Learn Anything Faster.md]
+    CAT9[Prompt Engineering] --> F91[DeepSeek AI Prompt Hacks Cheat Sheet.md]
+    CAT10[Strategy & Productivity] --> F101[5 Problem-Solving Method Prompts for Founders & CEOs.md]
+    CAT11[content-gen] --> F111[Blog Post Generator.md]
+    CAT12[deepseek] --> F121[2025.04.18.md]
     CAT13[health-nutrition] --> F131[Create a Comprehensive Healthy Meal Plan Guide.md]
     CAT14[learning] --> F141[10 Powerful AI-Based Learning Techniques.md]
     C --> S[update_index.py]
@@ -61,6 +62,7 @@ graph TD
 | AI Tools | Prompts for AI Tools  | 12 Must-Know ChatGPT Prompt Techniques |
 | Android App Development, OCR, AI Tools | Prompts for Android App Development, OCR, AI Tools  | Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR |
 | App Development | Prompts for App Development  | Cross-Platform Audit App Development Plan |
+| Audit | Prompts for Audit  | Audit Observations |
 | Business | Prompts for Business  | 9 ChatGPT Prompts to Find Profitable Market Opportunities |
 | Career Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
 | Learning with AI | Prompts for Learning with AI  | Use AI to Learn Anything Faster |
@@ -68,7 +70,6 @@ graph TD
 | Strategy & Productivity | Prompts for Strategy & Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | content-gen | Prompts for content gen  | Blog Post Generator |
 | deepseek | Prompts for deepseek  | 2025.04.18 |
-| gst-audit | Prompts for gst audit  | GST Data Analysis for Audit |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
 | learning | Prompts for learning  | 10 Powerful AI-Based Learning Techniques |
 
@@ -79,6 +80,7 @@ graph TD
 - [2025.04.18](prompts/deepseek/2025.04.18.md) - Collection of Deepseek prompts
 - [5 Problem-Solving Method Prompts for Founders & CEOs](prompts/AITools/5tools.md) - Practical ChatGPT prompts tailored for five essential problem-solving methods used by founders and CEOs—Pre-Mortem, 5 Whys, Decision Tree, SWOT, and Impact vs Effort Matrix.
 - [9 ChatGPT Prompts to Find Profitable Market Opportunities](prompts/Business/Market.md) - Discover 9 powerful ChatGPT prompts to uncover hidden market opportunities, along with 3 real-world examples for each to help spark your next venture.
+- [Audit Observations](prompts/audit/observations.md) - Prompt for Writing Audit Observations
 - [Blog Post Generator](prompts/content-gen/blog-post-generator.md) - Generates outlines and content for blog posts based on given topics
 - [Boost Productivity with These Powerful ChatGPT Prompts](prompts/AITools/productivity.md) - Learn how to maximize your productivity in 2025 using ChatGPT prompts. This blog breaks down the structure, examples, and best practices to make ChatGPT your ultimate task partner.
 - [ChatGPT Prompting Frameworks Explained](prompts/AITools/frameworks.md) - Learn how to unlock the full potential of ChatGPT using four powerful prompting frameworks—RTF, BAB, CAR, and TARG. Includes examples, use cases, pros, cons, and limitations.

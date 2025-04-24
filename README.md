@@ -22,12 +22,13 @@ graph TD
     B --> CAT4[App Development]
     B --> CAT5[Business]
     B --> CAT6[Career Tips]
-    B --> CAT7[Strategy & Productivity]
-    B --> CAT8[content-gen]
-    B --> CAT9[deepseek]
-    B --> CAT10[gst-audit]
-    B --> CAT11[health-nutrition]
-    B --> CAT12[learning]
+    B --> CAT7[Prompt Engineering]
+    B --> CAT8[Strategy & Productivity]
+    B --> CAT9[content-gen]
+    B --> CAT10[deepseek]
+    B --> CAT11[gst-audit]
+    B --> CAT12[health-nutrition]
+    B --> CAT13[learning]
     CAT1[AI Prompt Engineering] --> F11[ChatGPT Prompting Frameworks Explained.md]
     CAT2[AI Tools] --> F21[12 Must-Know ChatGPT Prompt Techniques.md]
     CAT2[AI Tools] --> F22[Boost Productivity with These Powerful ChatGPT Prompts.md]
@@ -36,12 +37,13 @@ graph TD
     CAT4[App Development] --> F41[Cross-Platform Audit App Development Plan.md]
     CAT5[Business] --> F51[9 ChatGPT Prompts to Find Profitable Market Opportunities.md]
     CAT6[Career Tips] --> F61[Mastering Common Interview Questions with ChatGPT.md]
-    CAT7[Strategy & Productivity] --> F71[5 Problem-Solving Method Prompts for Founders & CEOs.md]
-    CAT8[content-gen] --> F81[Blog Post Generator.md]
-    CAT9[deepseek] --> F91[2025.04.18.md]
-    CAT10[gst-audit] --> F101[GST Data Analysis for Audit.md]
-    CAT11[health-nutrition] --> F111[Create a Comprehensive Healthy Meal Plan Guide.md]
-    CAT12[learning] --> F121[10 Powerful AI-Based Learning Techniques.md]
+    CAT7[Prompt Engineering] --> F71[DeepSeek AI Prompt Hacks Cheat Sheet.md]
+    CAT8[Strategy & Productivity] --> F81[5 Problem-Solving Method Prompts for Founders & CEOs.md]
+    CAT9[content-gen] --> F91[Blog Post Generator.md]
+    CAT10[deepseek] --> F101[2025.04.18.md]
+    CAT11[gst-audit] --> F111[GST Data Analysis for Audit.md]
+    CAT12[health-nutrition] --> F121[Create a Comprehensive Healthy Meal Plan Guide.md]
+    CAT13[learning] --> F131[10 Powerful AI-Based Learning Techniques.md]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -59,6 +61,7 @@ graph TD
 | App Development | Prompts for App Development  | Cross-Platform Audit App Development Plan |
 | Business | Prompts for Business  | 9 ChatGPT Prompts to Find Profitable Market Opportunities |
 | Career Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
+| Prompt Engineering | Prompts for Prompt Engineering  | DeepSeek AI Prompt Hacks Cheat Sheet |
 | Strategy & Productivity | Prompts for Strategy & Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | content-gen | Prompts for content gen  | Blog Post Generator |
 | deepseek | Prompts for deepseek  | 2025.04.18 |
@@ -78,6 +81,7 @@ graph TD
 - [ChatGPT Prompting Frameworks Explained](prompts/AITools/frameworks.md) - Learn how to unlock the full potential of ChatGPT using four powerful prompting frameworks—RTF, BAB, CAR, and TARG. Includes examples, use cases, pros, cons, and limitations.
 - [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.
 - [Cross-Platform Audit App Development Plan](prompts/app-development/audit-app.md) - Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
+- [DeepSeek AI Prompt Hacks Cheat Sheet](prompts/AITools/deepseek.md) - A comprehensive cheat sheet of DeepSeek AI prompt hacks with categorized examples to help you create powerful AI-generated content, resumes, code, educational material, and more.
 - [GST Data Analysis for Audit](prompts/gst-audit/gst-data-anaylsis.md) - Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
 - [Mastering Common Interview Questions with ChatGPT](prompts/Career-Tips/Interview.md) - Learn how to master the most common interview questions using ChatGPT, with examples, prompts, pros, cons, and limitations for each. Perfect for job seekers who want to prepare smarter and faster.
 - [Problem Solving Using Mental Models](prompts/AITools/Problem-Solving.md) - Learn how to use ChatGPT more effectively by applying 9 powerful mental models for problem solving. Each framework includes 3 practical examples to guide your strategy, planning, and execution.

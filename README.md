@@ -32,6 +32,7 @@ graph TD
     B --> CAT14[health-nutrition]
     B --> CAT15[learning]
     CAT1[AI Prompt Engineering] --> F11[ChatGPT Prompting Frameworks Explained.md]
+    CAT1[AI Prompt Engineering] --> F12[Grok 3 Prompting Master Cheat Sheet.md]
     CAT2[AI Tools] --> F21[12 Must-Know ChatGPT Prompt Techniques.md]
     CAT2[AI Tools] --> F22[Boost Productivity with These Powerful ChatGPT Prompts.md]
     CAT2[AI Tools] --> F23[Problem Solving Using Mental Models.md]
@@ -90,6 +91,7 @@ graph TD
 - [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.
 - [Cross-Platform Audit App Development Plan](prompts/app-development/audit-app.md) - Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
 - [DeepSeek AI Prompt Hacks Cheat Sheet](prompts/AITools/deepseek.md) - A comprehensive cheat sheet of DeepSeek AI prompt hacks with categorized examples to help you create powerful AI-generated content, resumes, code, educational material, and more.
+- [Grok 3 Prompting Master Cheat Sheet](prompts/AITools/grok.md) - Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.
 - [GST Data Analysis for Audit](prompts/audit/gst-data-anaylsis.md) - Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
 - [Learn Anything 5x Faster with These 9 Proven Methods](prompts/learning/learning-techniques.md) - A complete guide from beginner to expert on how to learn faster using 9 cognitive science-based frameworks. Includes explanations, use cases, and 27 actionable prompts.
 - [Mastering Common Interview Questions with ChatGPT](prompts/Career-Tips/Interview.md) - Learn how to master the most common interview questions using ChatGPT, with examples, prompts, pros, cons, and limitations for each. Perfect for job seekers who want to prepare smarter and faster.

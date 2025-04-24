@@ -28,7 +28,7 @@ graph TD
     B --> CAT10[Learning with AI]
     B --> CAT11[Prompt Engineering]
     B --> CAT12[Strategy & Productivity]
-    B --> CAT13[content-gen]
+    B --> CAT13[content generation]
     B --> CAT14[deepseek]
     B --> CAT15[health-nutrition]
     B --> CAT16[learning]
@@ -36,7 +36,8 @@ graph TD
     CAT1[AI Prompt Engineering] --> F12[Grok 3 Prompting Master Cheat Sheet.md]
     CAT2[AI Tools] --> F21[12 Must-Know ChatGPT Prompt Techniques.md]
     CAT2[AI Tools] --> F22[Boost Productivity with These Powerful ChatGPT Prompts.md]
-    CAT2[AI Tools] --> F23[Problem Solving Using Mental Models.md]
+    CAT2[AI Tools] --> F23[DeepSeek Cheat Sheet - AI Prompts for Skill Building, Business & Productivity.md]
+    CAT2[AI Tools] --> F24[Problem Solving Using Mental Models.md]
     CAT3[Academic Writing] --> F31[Ethical AI Use in Academic Writing – Prompts & Guide.md]
     CAT4[Android App Development, OCR, AI Tools] --> F41[Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR.md]
     CAT5[App Development] --> F51[Cross-Platform Audit App Development Plan.md]
@@ -48,7 +49,7 @@ graph TD
     CAT10[Learning with AI] --> F101[Use AI to Learn Anything Faster.md]
     CAT11[Prompt Engineering] --> F111[DeepSeek AI Prompt Hacks Cheat Sheet.md]
     CAT12[Strategy & Productivity] --> F121[5 Problem-Solving Method Prompts for Founders & CEOs.md]
-    CAT13[content-gen] --> F131[Blog Post Generator.md]
+    CAT13[content generation] --> F131[Blog Post Generator.md]
     CAT14[deepseek] --> F141[2025.04.18.md]
     CAT15[health-nutrition] --> F151[Create a Comprehensive Healthy Meal Plan Guide.md]
     CAT16[learning] --> F161[10 Powerful AI-Based Learning Techniques.md]
@@ -75,7 +76,7 @@ graph TD
 | Learning with AI | Prompts for Learning with AI  | Use AI to Learn Anything Faster |
 | Prompt Engineering | Prompts for Prompt Engineering  | DeepSeek AI Prompt Hacks Cheat Sheet |
 | Strategy & Productivity | Prompts for Strategy & Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
-| content-gen | Prompts for content gen  | Blog Post Generator |
+| content generation | Prompts for content generation  | Blog Post Generator |
 | deepseek | Prompts for deepseek  | 2025.04.18 |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
 | learning | Prompts for learning  | 10 Powerful AI-Based Learning Techniques |
@@ -88,13 +89,14 @@ graph TD
 - [5 Problem-Solving Method Prompts for Founders & CEOs](prompts/AITools/5tools.md) - Practical ChatGPT prompts tailored for five essential problem-solving methods used by founders and CEOs—Pre-Mortem, 5 Whys, Decision Tree, SWOT, and Impact vs Effort Matrix.
 - [9 ChatGPT Prompts to Find Profitable Market Opportunities](prompts/Business/Market.md) - Discover 9 powerful ChatGPT prompts to uncover hidden market opportunities, along with 3 real-world examples for each to help spark your next venture.
 - [Audit Observations](prompts/audit/observations.md) - Prompt for Writing Audit Observations
-- [Blog Post Generator](prompts/content-gen/blog-post-generator.md) - Generates outlines and content for blog posts based on given topics
+- [Blog Post Generator](prompts/content-generator/blog-post-generator.md) - Generates outlines and content for blog posts based on given topics
 - [Boost Productivity with These Powerful ChatGPT Prompts](prompts/AITools/productivity.md) - Learn how to maximize your productivity in 2025 using ChatGPT prompts. This blog breaks down the structure, examples, and best practices to make ChatGPT your ultimate task partner.
 - [ChatGPT Prompting Frameworks Explained](prompts/AITools/frameworks.md) - Learn how to unlock the full potential of ChatGPT using four powerful prompting frameworks—RTF, BAB, CAR, and TARG. Includes examples, use cases, pros, cons, and limitations.
 - [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.
 - [Cross-Platform Audit App Development Plan](prompts/app-development/audit-app.md) - Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
 - [DeepSeek AI Prompt Hacks Cheat Sheet](prompts/AITools/deepseek.md) - A comprehensive cheat sheet of DeepSeek AI prompt hacks with categorized examples to help you create powerful AI-generated content, resumes, code, educational material, and more.
-- [Ethical AI Use in Academic Writing – Prompts & Guide](prompts/AITools/academics.md) - A complete guide and prompt collection for using AI tools ethically in academic writing. Includes detailed steps, do’s and don’ts, and professional prompt templates.
+- [DeepSeek Cheat Sheet - AI Prompts for Skill Building, Business & Productivity](prompts/AITools/deepseek2.md) - A detailed guide to using DeepSeek AI for skill development, business consulting, content creation, writing improvement, productivity, and more—featuring ready-to-use prompts and examples.
+- [Ethical AI Use in Academic Writing – Prompts & Guide](prompts/Academics/academics.md) - A complete guide and prompt collection for using AI tools ethically in academic writing. Includes detailed steps, do’s and don’ts, and professional prompt templates.
 - [Grok 3 Prompting Master Cheat Sheet](prompts/AITools/grok.md) - Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.
 - [GST Data Analysis for Audit](prompts/audit/gst-data-anaylsis.md) - Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
 - [Learn Anything 5x Faster with These 9 Proven Methods](prompts/learning/learning-techniques.md) - A complete guide from beginner to expert on how to learn faster using 9 cognitive science-based frameworks. Includes explanations, use cases, and 27 actionable prompts.

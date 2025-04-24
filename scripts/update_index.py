@@ -145,6 +145,7 @@ def update_readme(prompts):
         "```",
         "### 💡 Tip: To Update Files",
         "```",
+        "python scripts/update_index.py",
         "git add .",
         "git commit -m [Update]",
         "git push",

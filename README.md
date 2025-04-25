@@ -53,10 +53,11 @@ graph TD
     CAT9[Learning] --> F94[Use AI to Learn Anything Faster.md]
     CAT10[Marketing] --> F101[Comprehensive Marketing and Content Prompt Guide.md]
     CAT11[Productivity] --> F111[5 Problem-Solving Method Prompts for Founders & CEOs.md]
-    CAT11[Productivity] --> F112[Builder-to-Brand Gameplan - Brutal Focus Roadmap.md]
-    CAT11[Productivity] --> F113[ChatGPT Prompt Frameworks for Effective Task Structuring.md]
-    CAT11[Productivity] --> F114[Formula for Crafting Effective ChatGPT Prompts.md]
-    CAT11[Productivity] --> F115[Maximizing ChatGPT with Structured Prompts Across Applications.md]
+    CAT11[Productivity] --> F112[Boosting Productivity with ChatGPT.md]
+    CAT11[Productivity] --> F113[Builder-to-Brand Gameplan - Brutal Focus Roadmap.md]
+    CAT11[Productivity] --> F114[ChatGPT Prompt Frameworks for Effective Task Structuring.md]
+    CAT11[Productivity] --> F115[Formula for Crafting Effective ChatGPT Prompts.md]
+    CAT11[Productivity] --> F116[Maximizing ChatGPT with Structured Prompts Across Applications.md]
     CAT12[Programming] --> F121[10 Useful ChatGPT Prompts for Developers.md]
     CAT12[Programming] --> F122[15 Must-Have ChatGPT Prompts for Developers.md]
     CAT12[Programming] --> F123[50 Prompts for Extracting Text from PDF Tables Using Excel, Power Query, and Python.md]
@@ -126,6 +127,7 @@ graph TD
 - [Audit Observations](prompts/audit/observations.md) - Prompt for Writing Audit Observations
 - [Blog Post Generator](prompts/content-generator/blog-post-generator.md) - Generates outlines and content for blog posts based on given topics
 - [Boost Productivity with These Powerful ChatGPT Prompts](prompts/AITools/productivity.md) - Learn how to maximize your productivity in 2025 using ChatGPT prompts. This blog breaks down the structure, examples, and best practices to make ChatGPT your ultimate task partner.
+- [Boosting Productivity with ChatGPT](prompts/Productivity/productivity-chatgpt.md) - A curated collection of prompts and strategies to optimize productivity using ChatGPT for professionals, students, and entrepreneurs.
 - [Builder-to-Brand Gameplan - Brutal Focus Roadmap](prompts/Productivity/productivity.md) - A comprehensive 4-stage roadmap designed to align your multi-talented brain with ruthless execution, helping you transition from a "Builder" to a memorable "Brand." This plan ensures clarity, focus, and scalable growth.
 - [ChatGPT Cheat Sheet - Crafting Effective Prompts](prompts/AITools/chatgpt-cheatsheet.md) - A detailed guide on using structured prompts to maximize ChatGPT’s potential across various domains, including content creation, coding, sales, marketing, and personal career development.
 - [ChatGPT for Marketing](prompts/AITools/marketing.md) - A comprehensive guide to using ChatGPT for 10 powerful marketing tasks—from campaign planning to SEO content ideas—complete with optimized prompts, use cases, and real-world examples.

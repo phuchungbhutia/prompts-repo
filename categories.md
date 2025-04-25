@@ -12,7 +12,7 @@ Prompts are grouped by category below.
 | Career-Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
 | Content-Creation | Prompts for Content Creation  | 18 ChatGPT Prompts for Content Creation |
 | Content-Generation | Prompts for Content Generation  | Comprehensive Guide to Creating an eBook from Online Sources |
-| Content-generation | Prompts for Content generation  | 18 ChatGPT Prompts for User Experience (UX) |
+| Content-generation | Prompts for Content generation  | 18 ChatGPT Prompts for User Experience |
 | Data-Analysis | Prompts for Data Analysis  | Example Prompts for Data Analysis with ChatGPT |
 | Education | Prompts for Education  | ChatGPT Prompts for Learning and Development |
 | Excel | Prompts for Excel  | Master Excel with DeepSeek |
@@ -61,7 +61,7 @@ Prompts are grouped by category below.
 
 ## Content-generation
 
-- [18 ChatGPT Prompts for User Experience (UX)](prompts/content-generator/ux.md) - A curated set of prompts to enhance user experience design and research efforts for applications, websites, and platforms.
+- [18 ChatGPT Prompts for User Experience](prompts/content-generator/ux.md) - A curated set of prompts to enhance user experience design and research efforts for applications, websites, and platforms.
 
 ## Data-Analysis
 

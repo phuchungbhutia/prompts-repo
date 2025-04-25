@@ -50,7 +50,7 @@ graph TD
     CAT5[Content-Creation] --> F51[18 ChatGPT Prompts for Content Creation.md]
     CAT5[Content-Creation] --> F52[Prompts for Crafting Human-Like SEO Content.md]
     CAT6[Content-Generation] --> F61[Comprehensive Guide to Creating an eBook from Online Sources.md]
-    CAT7[Content-generation] --> F71[18 ChatGPT Prompts for User Experience (UX).md]
+    CAT7[Content-generation] --> F71[18 ChatGPT Prompts for User Experience.md]
     CAT8[Data-Analysis] --> F81[Example Prompts for Data Analysis with ChatGPT.md]
     CAT8[Data-Analysis] --> F82[Prompts for Research Data Analysis.md]
     CAT9[Education] --> F91[ChatGPT Prompts for Learning and Development.md]
@@ -131,7 +131,7 @@ graph TD
 | Career-Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
 | Content-Creation | Prompts for Content Creation  | 18 ChatGPT Prompts for Content Creation |
 | Content-Generation | Prompts for Content Generation  | Comprehensive Guide to Creating an eBook from Online Sources |
-| Content-generation | Prompts for Content generation  | 18 ChatGPT Prompts for User Experience (UX) |
+| Content-generation | Prompts for Content generation  | 18 ChatGPT Prompts for User Experience |
 | Data-Analysis | Prompts for Data Analysis  | Example Prompts for Data Analysis with ChatGPT |
 | Education | Prompts for Education  | ChatGPT Prompts for Learning and Development |
 | Excel | Prompts for Excel  | Master Excel with DeepSeek |
@@ -162,7 +162,7 @@ graph TD
 - [18 ChatGPT Prompts for Digital Marketing](prompts/Business/digital-marketing.md) - A curated collection of prompts to assist digital marketers in creating content for multiple platforms, from social media posts to email sequences.
 - [18 ChatGPT Prompts for SEO](prompts/content-generator/seos.md) - A set of advanced prompts to streamline SEO tasks, from meta descriptions to content gap analysis and keyword research.
 - [18 ChatGPT Prompts for Social Media Marketing](prompts/content-generator/social-media.md) - A collection of expert prompts for creating engaging social media content across platforms and formats.
-- [18 ChatGPT Prompts for User Experience (UX)](prompts/content-generator/ux.md) - A curated set of prompts to enhance user experience design and research efforts for applications, websites, and platforms.
+- [18 ChatGPT Prompts for User Experience](prompts/content-generator/ux.md) - A curated set of prompts to enhance user experience design and research efforts for applications, websites, and platforms.
 - [2025.04.18](prompts/deepseek/2025.04.18.md) - Collection of Deepseek prompts
 - [5 Problem-Solving Method Prompts for Founders & CEOs](prompts/AITools/5tools.md) - Practical ChatGPT prompts for applying five strategic problem-solving frameworks—Pre-Mortem, 5 Whys, Decision Tree, SWOT, and Impact vs Effort Matrix.
 - [50 Prompts for Extracting Text from PDF Tables Using Excel, Power Query, and Python](prompts/app-development/data-extraction.md) - A comprehensive guide with 50 prompts to extract text from tables in multiple PDF files using Excel, Power Query, and Python. This includes formula-based, automated, and code-driven approaches for handling complex data structures.

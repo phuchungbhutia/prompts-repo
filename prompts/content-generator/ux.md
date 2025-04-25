@@ -1,5 +1,5 @@
 ---
-title: 18 ChatGPT Prompts for User Experience (UX)
+title: 18 ChatGPT Prompts for User Experience
 category: Content-generation
 description: A curated set of prompts to enhance user experience design and research efforts for applications, websites, and platforms.
 ---

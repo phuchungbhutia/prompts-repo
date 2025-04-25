@@ -1,6 +1,6 @@
 ---
 title: ChatGPT Prompting Frameworks Explained
-category: AI Prompt Engineering
+category: Prompting
 tags: [ChatGPT, prompt design, AI productivity, frameworks, GPT prompts]
 description: Learn how to unlock the full potential of ChatGPT using four powerful prompting frameworks—RTF, BAB, CAR, and TARG. Includes examples, use cases, pros, cons, and limitations.
 ---

@@ -1,6 +1,6 @@
 ---
 title: 12 Must-Know ChatGPT Prompt Techniques
-category: AI Tools
+category: Prompting
 tags: [ChatGPT, Prompt Engineering, AI Tips, Productivity, Writing]
 description: Learn how to use 12 powerful ChatGPT prompt techniques with 36 ready-to-use examples for better results in learning, creativity, productivity, and problem-solving.
 ---

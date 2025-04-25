@@ -1,6 +1,6 @@
 ---
 title: DeepSeek AI Prompt Hacks Cheat Sheet
-category: Prompt Engineering
+category: Prompting
 tags: [AI prompts, productivity, writing, resume, sales, development, education, content creation, DeepSeek, ChatGPT]
 description: A comprehensive cheat sheet of DeepSeek AI prompt hacks with categorized examples to help you create powerful AI-generated content, resumes, code, educational material, and more.
 ---

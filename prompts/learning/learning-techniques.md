@@ -1,6 +1,6 @@
 ---
 title: Learn Anything 5x Faster with These 9 Proven Methods
-category: Learning Techniques
+category: Learning
 tags: [learning, productivity, study techniques, spaced repetition, mind maps, dual coding, Feynman technique]
 description: A complete guide from beginner to expert on how to learn faster using 9 cognitive science-based frameworks. Includes explanations, use cases, and 27 actionable prompts.
 ---

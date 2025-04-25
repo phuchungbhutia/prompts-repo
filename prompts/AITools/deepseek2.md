@@ -1,6 +1,6 @@
 ---
 title: DeepSeek Cheat Sheet - AI Prompts for Skill Building, Business & Productivity
-category: AI Tools
+category: Prompting
 tags: [DeepSeek, AI Prompts, Productivity, Business AI, Learning Roadmap, Content Creation]
 description: A detailed guide to using DeepSeek AI for skill development, business consulting, content creation, writing improvement, productivity, and more—featuring ready-to-use prompts and examples.
 ---

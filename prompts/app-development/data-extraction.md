@@ -1,23 +1,17 @@
-## Title: 50 Prompts for Extracting Text from PDF Tables Using Excel, Power Query, and Python
+---
+title: 50 Prompts for Extracting Text from PDF Tables Using Excel, Power Query, and Python
+category: Programming
+description: A comprehensive guide with 50 prompts to extract text from tables in multiple PDF files using Excel, Power Query, and Python. This includes formula-based, automated, and code-driven approaches for handling complex data structures.
+---
 
-### Category:
-- Programming
+## 🔧 Prompt
 
-### Tags:
-- Power Query
-- VBA Macros
-- Python Scripts
-- Excel Automation
-- Data Cleaning
-
-### Description:
-A comprehensive guide with 50 prompts to extract text from tables in multiple PDF files using Excel, Power Query, and Python. This includes formula-based, automated, and code-driven approaches for handling complex data structures.
+This guide provides 50 different prompts to help you automate and simplify the extraction of text from PDF tables using Excel, Power Query, and Python. These prompts cover methods for handling complex data, automating the extraction process, and cleaning the extracted data.
 
 ---
 
-### Body of Information:
+### 1. Extracting Text from PDF Tables Using Power Query
 
-#### Section 1: Extracting Text from PDF Tables Using Power Query
 | **Prompt** | **Usage** | **Example** |
 |------------|----------|------------|
 | "How can I extract table data from multiple PDFs into Excel using Power Query?" | Automate data extraction from PDFs. | Import **invoices** and extract **amounts**. |
@@ -28,7 +22,8 @@ A comprehensive guide with 50 prompts to extract text from tables in multiple PD
 
 ---
 
-#### Section 2: Extracting Text from PDF Tables Using VBA
+### 2. Extracting Text from PDF Tables Using VBA
+
 | **Prompt** | **Usage** | **Example** |
 |------------|----------|------------|
 | "Generate VBA code to extract tables from a PDF and store them in Excel." | Extract table data automatically. | Extract **invoice numbers & dates**. |
@@ -39,7 +34,8 @@ A comprehensive guide with 50 prompts to extract text from tables in multiple PD
 
 ---
 
-#### Section 3: Extracting PDF Data Using Python (Integrated with Excel)
+### 3. Extracting PDF Data Using Python (Integrated with Excel)
+
 | **Prompt** | **Usage** | **Example** |
 |------------|----------|------------|
 | "Generate a Python script to extract tables from a PDF and export them to Excel." | Extract tabular data automatically. | Extract **GST invoices** into Excel. |
@@ -50,7 +46,8 @@ A comprehensive guide with 50 prompts to extract text from tables in multiple PD
 
 ---
 
-#### Section 4: Extracting Key Data Fields from PDF Tables
+### 4. Extracting Key Data Fields from PDF Tables
+
 | **Prompt** | **Usage** | **Example** |
 |------------|----------|------------|
 | "How can I extract invoice numbers from tables inside PDFs?" | Extract structured **invoice data**. | Get **Invoice No: 1001** from PDFs. |
@@ -61,7 +58,8 @@ A comprehensive guide with 50 prompts to extract text from tables in multiple PD
 
 ---
 
-#### Section 5: Handling Complex Table Structures in PDFs
+### 5. Handling Complex Table Structures in PDFs
+
 | **Prompt** | **Usage** | **Example** |
 |------------|----------|------------|
 | "How do I extract multi-line table data from a PDF and store it in Excel?" | Extract **tables with line breaks**. | Extract **order details with multiple products**. |
@@ -72,7 +70,8 @@ A comprehensive guide with 50 prompts to extract text from tables in multiple PD
 
 ---
 
-#### Section 6: Cleaning and Formatting Extracted PDF Data in Excel
+### 6. Cleaning and Formatting Extracted PDF Data in Excel
+
 | **Prompt** | **Usage** | **Example** |
 |------------|----------|------------|
 | "Generate an Excel formula to remove unwanted characters from extracted PDF text." | Clean up extracted **data noise**. | Remove `? / # &` from text. |
@@ -83,7 +82,8 @@ A comprehensive guide with 50 prompts to extract text from tables in multiple PD
 
 ---
 
-#### Section 7: Automating the Process of Extracting PDF Table Data into Excel
+### 7. Automating the Process of Extracting PDF Table Data into Excel
+
 | **Prompt** | **Usage** | **Example** |
 |------------|----------|------------|
 | "Write a macro to automate the process of importing PDF tables into Excel." | Automate **bulk PDF imports**. | Auto-import **monthly invoices**. |
@@ -94,7 +94,8 @@ A comprehensive guide with 50 prompts to extract text from tables in multiple PD
 
 ---
 
-#### Section 8: Debugging & Troubleshooting Issues in PDF Extraction
+### 8. Debugging & Troubleshooting Issues in PDF Extraction
+
 | **Prompt** | **Usage** | **Example** |
 |------------|----------|------------|
 | "Why is my extracted PDF table misaligned in Excel?" | Fix **table alignment issues**. | Adjust column **widths and spacing**. |
@@ -106,10 +107,9 @@ A comprehensive guide with 50 prompts to extract text from tables in multiple PD
 ---
 
 ### Next Steps:
+
 1. Choose your preferred approach:  
    - **Python scripts**, **Power Query formulas**, or **VBA macros**?  
 2. Select the automation focus:  
    - Invoice extraction, data validation, or report generation?  
 3. Request additional guidance or scripts tailored to your use case.
-
----

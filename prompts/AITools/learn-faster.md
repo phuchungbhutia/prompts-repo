@@ -1,6 +1,6 @@
 ---
 title: Use AI to Learn Anything Faster
-category: Learning with AI
+category: Learning
 tags: [AI learning, productivity, study hacks, ChatGPT prompts, learning tools]
 description: A practical guide on how to leverage AI tools like ChatGPT to supercharge your learning using proven techniques like simplification, analogies, quizzes, mind maps, and more.
 ---

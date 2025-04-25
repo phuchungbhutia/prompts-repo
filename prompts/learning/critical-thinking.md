@@ -1,23 +1,16 @@
-## Title: Critical Thinking Prompt Template
-
-### Category:
-- Learning
-
-### Tags:
-- Critical Thinking
-- Problem Solving
-- Creativity
-- Analysis
-- Reflection
-
-### Description:
-This template guides users in developing deeper understanding and applying higher-order thinking to analyze, evaluate, and create ideas based on specific topics. Organized into six distinct levels of thought, each section is designed to enhance learning and intellectual engagement.
-
+---
+title: Critical Thinking Prompt Template
+category: Learning
+tags:
+  - Critical Thinking
+  - Problem Solving
+  - Creativity
+  - Analysis
+  - Reflection
+description: This template guides users in developing deeper understanding and applying higher-order thinking to analyze, evaluate, and create ideas based on specific topics. Organized into six distinct levels of thought, each section is designed to enhance learning and intellectual engagement.
 ---
 
-### Body of Information:
-
-#### 1. REMEMBER
+## 💭 1. REMEMBER
 - **Prompt:**  
   > List and define the key terms or concepts related to [TOPIC].
 - **Example:**  
@@ -25,7 +18,7 @@ This template guides users in developing deeper understanding and applying highe
 
 ---
 
-#### 2. UNDERSTAND
+## 💭 2. UNDERSTAND
 - **Prompt:**  
   > Summarize the main idea of [TOPIC] in your own words.
 - **Example:**  
@@ -33,7 +26,7 @@ This template guides users in developing deeper understanding and applying highe
 
 ---
 
-#### 3. APPLY
+## 💭 3. APPLY
 - **Prompt:**  
   > Apply [TOPIC] to a real-world scenario or problem.
 - **Example:**  
@@ -41,7 +34,7 @@ This template guides users in developing deeper understanding and applying highe
 
 ---
 
-#### 4. ANALYZE
+## 💭 4. ANALYZE
 - **Prompt:**  
   > Break down the components of [TOPIC] and show how they interrelate.
 - **Example:**  
@@ -49,7 +42,7 @@ This template guides users in developing deeper understanding and applying highe
 
 ---
 
-#### 5. EVALUATE
+## 💭 5. EVALUATE
 - **Prompt:**  
   > Critically assess the strengths and weaknesses of [ARGUMENT or METHOD].
 - **Example:**  
@@ -57,7 +50,7 @@ This template guides users in developing deeper understanding and applying highe
 
 ---
 
-#### 6. CREATE
+## 💭 6. CREATE
 - **Prompt:**  
   > Combine ideas from [TOPIC] with other knowledge to generate a new solution or perspective.
 - **Example:**  
@@ -65,7 +58,7 @@ This template guides users in developing deeper understanding and applying highe
 
 ---
 
-### Format:
+## Format:
 - **Topic:** [Insert topic]  
 - **Chosen Level(s):** [Remember / Understand / Apply / Analyze / Evaluate / Create]  
 - **Your Response:**  

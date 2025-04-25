@@ -16,43 +16,56 @@ graph TD
     A --> C[scripts]
     A --> D[.github/workflows]
     A --> E[docs/images]
-    B --> CAT1[AI Prompt Engineering]
-    B --> CAT2[AI Tools]
-    B --> CAT3[Academic Writing]
-    B --> CAT4[Android App Development, OCR, AI Tools]
-    B --> CAT5[App Development]
-    B --> CAT6[Audit]
-    B --> CAT7[Business]
-    B --> CAT8[Career Tips]
-    B --> CAT9[Learning Techniques]
-    B --> CAT10[Learning with AI]
-    B --> CAT11[Prompt Engineering]
-    B --> CAT12[Strategy & Productivity]
-    B --> CAT13[content generation]
-    B --> CAT14[deepseek]
-    B --> CAT15[health-nutrition]
-    B --> CAT16[learning]
-    CAT1[AI Prompt Engineering] --> F11[ChatGPT Prompting Frameworks Explained.md]
-    CAT1[AI Prompt Engineering] --> F12[Grok 3 Prompting Master Cheat Sheet.md]
-    CAT2[AI Tools] --> F21[12 Must-Know ChatGPT Prompt Techniques.md]
-    CAT2[AI Tools] --> F22[Boost Productivity with These Powerful ChatGPT Prompts.md]
-    CAT2[AI Tools] --> F23[DeepSeek Cheat Sheet - AI Prompts for Skill Building, Business & Productivity.md]
-    CAT2[AI Tools] --> F24[Problem Solving Using Mental Models.md]
-    CAT3[Academic Writing] --> F31[Ethical AI Use in Academic Writing – Prompts & Guide.md]
-    CAT4[Android App Development, OCR, AI Tools] --> F41[Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR.md]
-    CAT5[App Development] --> F51[Cross-Platform Audit App Development Plan.md]
-    CAT6[Audit] --> F61[Audit Observations.md]
-    CAT6[Audit] --> F62[GST Data Analysis for Audit.md]
-    CAT7[Business] --> F71[9 ChatGPT Prompts to Find Profitable Market Opportunities.md]
-    CAT8[Career Tips] --> F81[Mastering Common Interview Questions with ChatGPT.md]
-    CAT9[Learning Techniques] --> F91[Learn Anything 5x Faster with These 9 Proven Methods.md]
-    CAT10[Learning with AI] --> F101[Use AI to Learn Anything Faster.md]
-    CAT11[Prompt Engineering] --> F111[DeepSeek AI Prompt Hacks Cheat Sheet.md]
-    CAT12[Strategy & Productivity] --> F121[5 Problem-Solving Method Prompts for Founders & CEOs.md]
-    CAT13[content generation] --> F131[Blog Post Generator.md]
-    CAT14[deepseek] --> F141[2025.04.18.md]
-    CAT15[health-nutrition] --> F151[Create a Comprehensive Healthy Meal Plan Guide.md]
-    CAT16[learning] --> F161[10 Powerful AI-Based Learning Techniques.md]
+    B --> CAT1[AI-Tools]
+    B --> CAT2[Audit]
+    B --> CAT3[Business]
+    B --> CAT4[Career Tips]
+    B --> CAT5[Content-Generation]
+    B --> CAT6[Data-Analysis]
+    B --> CAT7[Learning]
+    B --> CAT8[Productivity]
+    B --> CAT9[Programming]
+    B --> CAT10[Prompting]
+    B --> CAT11[content-generation]
+    B --> CAT12[deepseek]
+    B --> CAT13[health-nutrition]
+    B --> CAT14[learning]
+    CAT1[AI-Tools] --> F11[Boost Productivity with These Powerful ChatGPT Prompts.md]
+    CAT1[AI-Tools] --> F12[Problem Solving Using Mental Models.md]
+    CAT2[Audit] --> F21[Audit Observations.md]
+    CAT2[Audit] --> F22[ChatGPT Prompts for Building a GST Audit Tool.md]
+    CAT2[Audit] --> F23[GST Data Analysis for Audit.md]
+    CAT3[Business] --> F31[9 ChatGPT Prompts to Find Profitable Market Opportunities.md]
+    CAT4[Career Tips] --> F41[Mastering Common Interview Questions with ChatGPT.md]
+    CAT5[Content-Generation] --> F51[Comprehensive Guide to Creating an eBook from Online Sources.md]
+    CAT6[Data-Analysis] --> F61[Example Prompts for Data Analysis with ChatGPT.md]
+    CAT6[Data-Analysis] --> F62[Prompts for Research Data Analysis.md]
+    CAT7[Learning] --> F71[10 Powerful AI-Based Learning Techniques for Mastering Any Topic.md]
+    CAT7[Learning] --> F72[Critical Thinking Prompt Template.md]
+    CAT7[Learning] --> F73[Learn Anything 5x Faster with These 9 Proven Methods.md]
+    CAT7[Learning] --> F74[Use AI to Learn Anything Faster.md]
+    CAT8[Productivity] --> F81[Builder-to-Brand Gameplan - Brutal Focus Roadmap.md]
+    CAT8[Productivity] --> F82[ChatGPT Prompt Frameworks for Effective Task Structuring.md]
+    CAT8[Productivity] --> F83[Formula for Crafting Effective ChatGPT Prompts.md]
+    CAT8[Productivity] --> F84[Maximizing ChatGPT with Structured Prompts Across Applications.md]
+    CAT9[Programming] --> F91[10 Useful ChatGPT Prompts for Developers.md]
+    CAT9[Programming] --> F92[15 Must-Have ChatGPT Prompts for Developers.md]
+    CAT9[Programming] --> F93[50 Prompts for Extracting Text from PDF Tables Using Excel, Power Query, and Python.md]
+    CAT9[Programming] --> F94[Cross-Platform Audit App Development Plan.md]
+    CAT9[Programming] --> F95[Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR.md]
+    CAT10[Prompting] --> F101[12 Must-Know ChatGPT Prompt Techniques.md]
+    CAT10[Prompting] --> F102[ChatGPT Cheat Sheet - Crafting Effective Prompts.md]
+    CAT10[Prompting] --> F103[ChatGPT Prompt Cheatsheet for Various Use Cases.md]
+    CAT10[Prompting] --> F104[ChatGPT Prompt Guide for Structured Usage.md]
+    CAT10[Prompting] --> F105[ChatGPT Prompting Frameworks Explained.md]
+    CAT10[Prompting] --> F106[Cheat Sheet for Crafting Effective ChatGPT Prompts.md]
+    CAT10[Prompting] --> F107[DeepSeek AI Prompt Hacks Cheat Sheet.md]
+    CAT10[Prompting] --> F108[DeepSeek Cheat Sheet - AI Prompts for Skill Building, Business & Productivity.md]
+    CAT10[Prompting] --> F109[Grok 3 Prompting Master Cheat Sheet.md]
+    CAT11[content-generation] --> F111[Blog Post Generator.md]
+    CAT12[deepseek] --> F121[2025.04.18.md]
+    CAT13[health-nutrition] --> F131[Create a Comprehensive Healthy Meal Plan Guide.md]
+    CAT14[learning] --> F141[10 Powerful AI-Based Learning Techniques.md]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -64,19 +77,17 @@ graph TD
 
 | Category     | Description                              | Example Prompt              |
 |--------------|------------------------------------------|-----------------------------|
-| AI Prompt Engineering | Prompts for AI Prompt Engineering  | ChatGPT Prompting Frameworks Explained |
-| AI Tools | Prompts for AI Tools  | 12 Must-Know ChatGPT Prompt Techniques |
-| Academic Writing | Prompts for Academic Writing  | Ethical AI Use in Academic Writing – Prompts & Guide |
-| Android App Development, OCR, AI Tools | Prompts for Android App Development, OCR, AI Tools  | Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR |
-| App Development | Prompts for App Development  | Cross-Platform Audit App Development Plan |
+| AI-Tools | Prompts for AI Tools  | Boost Productivity with These Powerful ChatGPT Prompts |
 | Audit | Prompts for Audit  | Audit Observations |
 | Business | Prompts for Business  | 9 ChatGPT Prompts to Find Profitable Market Opportunities |
 | Career Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
-| Learning Techniques | Prompts for Learning Techniques  | Learn Anything 5x Faster with These 9 Proven Methods |
-| Learning with AI | Prompts for Learning with AI  | Use AI to Learn Anything Faster |
-| Prompt Engineering | Prompts for Prompt Engineering  | DeepSeek AI Prompt Hacks Cheat Sheet |
-| Strategy & Productivity | Prompts for Strategy & Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
-| content generation | Prompts for content generation  | Blog Post Generator |
+| Content-Generation | Prompts for Content Generation  | Comprehensive Guide to Creating an eBook from Online Sources |
+| Data-Analysis | Prompts for Data Analysis  | Example Prompts for Data Analysis with ChatGPT |
+| Learning | Prompts for Learning  | 10 Powerful AI-Based Learning Techniques for Mastering Any Topic |
+| Productivity | Prompts for Productivity  | Builder-to-Brand Gameplan - Brutal Focus Roadmap |
+| Programming | Prompts for Programming  | 10 Useful ChatGPT Prompts for Developers |
+| Prompting | Prompts for Prompting  | 12 Must-Know ChatGPT Prompt Techniques |
+| content-generation | Prompts for content generation  | Blog Post Generator |
 | deepseek | Prompts for deepseek  | 2025.04.18 |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
 | learning | Prompts for learning  | 10 Powerful AI-Based Learning Techniques |
@@ -84,24 +95,39 @@ graph TD
 ## Prompts
 
 - [10 Powerful AI-Based Learning Techniques](prompts/learning/ai-based-learning.md) - Master any topic faster with these 10 optimized prompt templates designed to enhance understanding, retention, and motivation.
+- [10 Powerful AI-Based Learning Techniques for Mastering Any Topic](prompts/learning/ai-learning.md) - This guide explains 10 AI-based learning techniques to make mastering any topic faster and easier. Each technique includes use cases, examples, prompt templates, and optimized prompts for direct implementation.
+- [10 Useful ChatGPT Prompts for Developers](prompts/app-development/software-development2.md) - A detailed guide to 10 essential ChatGPT prompts designed to assist developers in various aspects of software development, including coding, debugging, API design, database management, and learning best practices.
 - [12 Must-Know ChatGPT Prompt Techniques](prompts/AITools/chatgpt.md) - Learn how to use 12 powerful ChatGPT prompt techniques with 36 ready-to-use examples for better results in learning, creativity, productivity, and problem-solving.
+- [15 Must-Have ChatGPT Prompts for Developers](prompts/app-development/software-development.md) - A collection of essential ChatGPT prompts to improve developer efficiency and productivity.
 - [2025.04.18](prompts/deepseek/2025.04.18.md) - Collection of Deepseek prompts
-- [5 Problem-Solving Method Prompts for Founders & CEOs](prompts/AITools/5tools.md) - Practical ChatGPT prompts tailored for five essential problem-solving methods used by founders and CEOs—Pre-Mortem, 5 Whys, Decision Tree, SWOT, and Impact vs Effort Matrix.
+- [50 Prompts for Extracting Text from PDF Tables Using Excel, Power Query, and Python](prompts/app-development/data-extraction.md) - A comprehensive guide with 50 prompts to extract text from tables in multiple PDF files using Excel, Power Query, and Python. This includes formula-based, automated, and code-driven approaches for handling complex data structures.
 - [9 ChatGPT Prompts to Find Profitable Market Opportunities](prompts/Business/Market.md) - Discover 9 powerful ChatGPT prompts to uncover hidden market opportunities, along with 3 real-world examples for each to help spark your next venture.
 - [Audit Observations](prompts/audit/observations.md) - Prompt for Writing Audit Observations
 - [Blog Post Generator](prompts/content-generator/blog-post-generator.md) - Generates outlines and content for blog posts based on given topics
 - [Boost Productivity with These Powerful ChatGPT Prompts](prompts/AITools/productivity.md) - Learn how to maximize your productivity in 2025 using ChatGPT prompts. This blog breaks down the structure, examples, and best practices to make ChatGPT your ultimate task partner.
+- [Builder-to-Brand Gameplan - Brutal Focus Roadmap](prompts/Productivity/productivity.md) - A comprehensive 4-stage roadmap designed to align your multi-talented brain with ruthless execution, helping you transition from a "Builder" to a memorable "Brand." This plan ensures clarity, focus, and scalable growth.
+- [ChatGPT Cheat Sheet - Crafting Effective Prompts](prompts/AITools/chatgpt-cheatsheet.md) - A detailed guide on using structured prompts to maximize ChatGPT’s potential across various domains, including content creation, coding, sales, marketing, and personal career development.
+- [ChatGPT Prompt Cheatsheet for Various Use Cases](prompts/AITools/chagpt2.md) - This cheatsheet provides beginner-friendly ChatGPT prompts to explain, learn, brainstorm, and solve problems across multiple use cases.
+- [ChatGPT Prompt Frameworks for Effective Task Structuring](prompts/Productivity/prompt-framework.md) - This document outlines five structured frameworks to craft ChatGPT prompts for effective task execution. Each framework is explained with its structure, purpose, and practical examples for various use cases like business, content creation, education, and personal growth.
+- [ChatGPT Prompt Guide for Structured Usage](prompts/AITools/chatgpt3.md) - This guide provides a comprehensive explanation and examples of structured prompts to use ChatGPT effectively. It covers various roles, techniques, and use cases to help users optimize their interactions and generate precise responses.
 - [ChatGPT Prompting Frameworks Explained](prompts/AITools/frameworks.md) - Learn how to unlock the full potential of ChatGPT using four powerful prompting frameworks—RTF, BAB, CAR, and TARG. Includes examples, use cases, pros, cons, and limitations.
+- [ChatGPT Prompts for Building a GST Audit Tool](prompts/audit/gst-audit-tool.md) - Leverage ChatGPT to create tailored prompts for automating GST audit processes, analyzing data, detecting revenue leakages, and streamlining reporting. These prompts are categorized for different aspects of the development process.
+- [Cheat Sheet for Crafting Effective ChatGPT Prompts](prompts/AITools/chatgpt4.md) - This cheat sheet provides a structured approach to writing effective ChatGPT prompts using roles, tasks, formats, linked prompting, and prompt priming techniques. Enhance precision, clarity, and actionable responses through these frameworks.
+- [Comprehensive Guide to Creating an eBook from Online Sources](prompts/content-generator/ebook.md) - This document provides a clear process for creating an engaging eBook by extracting information from a specified web URL. It focuses on structuring content, targeting specific audiences, and implementing cohesive design elements to ensure a seamless reading experience.
 - [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.
+- [Critical Thinking Prompt Template](prompts/learning/critical-thinking.md) - This template guides users in developing deeper understanding and applying higher-order thinking to analyze, evaluate, and create ideas based on specific topics. Organized into six distinct levels of thought, each section is designed to enhance learning and intellectual engagement.
 - [Cross-Platform Audit App Development Plan](prompts/app-development/audit-app.md) - Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
 - [DeepSeek AI Prompt Hacks Cheat Sheet](prompts/AITools/deepseek.md) - A comprehensive cheat sheet of DeepSeek AI prompt hacks with categorized examples to help you create powerful AI-generated content, resumes, code, educational material, and more.
 - [DeepSeek Cheat Sheet - AI Prompts for Skill Building, Business & Productivity](prompts/AITools/deepseek2.md) - A detailed guide to using DeepSeek AI for skill development, business consulting, content creation, writing improvement, productivity, and more—featuring ready-to-use prompts and examples.
-- [Ethical AI Use in Academic Writing – Prompts & Guide](prompts/Academics/academics.md) - A complete guide and prompt collection for using AI tools ethically in academic writing. Includes detailed steps, do’s and don’ts, and professional prompt templates.
+- [Example Prompts for Data Analysis with ChatGPT](prompts/Data-analysis/chatgpt-data-analysis.md) - This document presents example prompts for utilizing ChatGPT to analyze research data effectively. Each prompt is tailored to specific data-related tasks, ensuring thorough and structured analysis.
+- [Formula for Crafting Effective ChatGPT Prompts](prompts/Productivity/chatgpt.md) - This document outlines a comprehensive formula for creating effective and precise ChatGPT prompts. By using structured components like roles, tasks, context, examples, and constraints, users can achieve highly relevant and actionable outputs.
 - [Grok 3 Prompting Master Cheat Sheet](prompts/AITools/grok.md) - Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.
 - [GST Data Analysis for Audit](prompts/audit/gst-data-anaylsis.md) - Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence
 - [Learn Anything 5x Faster with These 9 Proven Methods](prompts/learning/learning-techniques.md) - A complete guide from beginner to expert on how to learn faster using 9 cognitive science-based frameworks. Includes explanations, use cases, and 27 actionable prompts.
 - [Mastering Common Interview Questions with ChatGPT](prompts/Career-Tips/Interview.md) - Learn how to master the most common interview questions using ChatGPT, with examples, prompts, pros, cons, and limitations for each. Perfect for job seekers who want to prepare smarter and faster.
+- [Maximizing ChatGPT with Structured Prompts Across Applications](prompts/Productivity/produtivity2.md) - A guide that categorizes and explains structured prompts for utilizing ChatGPT effectively. Includes examples and uses for business, content creation, learning, and personal development.
 - [Problem Solving Using Mental Models](prompts/AITools/Problem-Solving.md) - Learn how to use ChatGPT more effectively by applying 9 powerful mental models for problem solving. Each framework includes 3 practical examples to guide your strategy, planning, and execution.
+- [Prompts for Research Data Analysis](prompts/Data-analysis/data-analysis-research.md) - This document provides example prompts for utilizing ChatGPT to analyze research data effectively. Each prompt is tailored to specific data-related tasks, ensuring thorough and structured analysis.
 - [Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR](prompts/app-development/camscanner-app.md) - Build an advanced Android camera document scanning app with smart features, OCR, AI-enhanced image processing, and optimized performance.
 - [Use AI to Learn Anything Faster](prompts/AITools/learn-faster.md) - A practical guide on how to leverage AI tools like ChatGPT to supercharge your learning using proven techniques like simplification, analogies, quizzes, mind maps, and more.
 

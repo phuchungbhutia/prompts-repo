@@ -1,26 +1,19 @@
-## Title: Builder-to-Brand Gameplan - Brutal Focus Roadmap
-
-### Category:
-- Productivity
-
-### Tags:
-- Focus Strategy
-- Branding
-- High Performance
-- Execution
-
-### Description:
-A comprehensive 4-stage roadmap designed to align your multi-talented brain with ruthless execution, helping you transition from a "Builder" to a memorable "Brand." This plan ensures clarity, focus, and scalable growth.
-
+---
+title: Builder-to-Brand Gameplan - Brutal Focus Roadmap
+category: Productivity
+tags:
+  - Focus Strategy
+  - Branding
+  - High Performance
+  - Execution
+description: A comprehensive 4-stage roadmap designed to align your multi-talented brain with ruthless execution, helping you transition from a "Builder" to a memorable "Brand." This plan ensures clarity, focus, and scalable growth.
 ---
 
-### Body of Information:
-
-#### Stage 1: Identity Lockdown (Clarity over Chaos)
+## Stage 1: Identity Lockdown (Clarity over Chaos)
 - **Objective:** Pick ONE thing to be known for.  
 - **Explanation:** While being multi-talented is great, your brand needs a clear, memorable *hook* that resonates with your audience.
 
-##### Actions:
+### Actions:
 1. **Choose Your Core:**  
    - Examples:  
      - Audit Alchemist  
@@ -37,11 +30,11 @@ A comprehensive 4-stage roadmap designed to align your multi-talented brain with
 
 ---
 
-#### Stage 2: Project Brutality (Finish or Kill It)
+## Stage 2: Project Brutality (Finish or Kill It)
 - **Objective:** Finish something meaningful. Stop juggling incomplete projects.  
 - **Explanation:** Out of the many projects you've started, focus on one high-impact task and finish it within 30 days.
 
-##### Actions:
+### Actions:
 1. **List Your Top 5 Active Projects:**  
    Examples: Apps, ebooks, vlogs, courses, etc.
 
@@ -60,11 +53,11 @@ A comprehensive 4-stage roadmap designed to align your multi-talented brain with
 
 ---
 
-#### Stage 3: Growth Engine (Input → Output)
+## Stage 3: Growth Engine (Input → Output)
 - **Objective:** Build a system that transforms your learnings into public content consistently.  
 - **Explanation:** Your high-input brain gathers valuable information. The key is turning this into **visible output.**
 
-##### Actions:
+### Actions:
 1. **Use the Learning Loop:**
    1. Learn something valuable (e.g., Power Query, an AI tool, or an audit hack).  
    2. Create a short Instagram post, tweet, or YouTube video.  
@@ -75,31 +68,31 @@ A comprehensive 4-stage roadmap designed to align your multi-talented brain with
 
 ---
 
-#### Stage 4: Brand Flywheel (Automate & Expand)
+## Stage 4: Brand Flywheel (Automate & Expand)
 - **Objective:** Scale your efforts and convert attention into authority.  
 - **Explanation:** Once consistent content is live, it’s time to repurpose and expand your brand.
 
-##### Actions:
-1. Repurpose Your Top-Performing Content:  
+### Actions:
+1. **Repurpose Your Top-Performing Content:**  
    - Convert posts into ebooks, tools, or mini-courses.  
    - Example: Turn "Audit Alchemist" tips into a downloadable guide.
 
-2. Offer Real Value:  
+2. **Offer Real Value:**  
    - Share templates, swipe files, 1:1 consultations, or live workshops.
 
-3. Automate Your Backend:
+3. **Automate Your Backend:**
    - Use tools like Notion, Zapier, Airtable, Google Sheets, and ChatGPT for operations.
 
 ---
 
-#### Optional Bonus: Hardcore Habits (Daily Stack)
+## Optional Bonus: Hardcore Habits (Daily Stack)
 - **Objective:** Build performance-enhancing habits that align with your goals.  
 - **Daily Loop Example:**
   - **Morning:** Read one high-impact idea or tool.  
   - **Midday:** Create or execute (code, write, design, record).  
   - **Evening:** Share or reflect publicly (blog post, Instagram post, tweet).
 
-##### Notes:
+### Notes:
 - Timebox tasks.  
 - Avoid multitasking.  
 - Stay consistent.

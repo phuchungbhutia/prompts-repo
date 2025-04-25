@@ -1,6 +1,6 @@
 ---
 title: Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR
-category: Android App Development, OCR, AI Tools
+category: Programming
 description: Build an advanced Android camera document scanning app with smart features, OCR, AI-enhanced image processing, and optimized performance.
 ---
 

@@ -1,23 +1,16 @@
-## Title: ChatGPT Prompt Frameworks for Effective Task Structuring
-
-### Category:
-- Productivity
-
-### Tags:
-- R-T-F Framework
-- T-A-G Framework
-- B-A-B Framework
-- C-A-R-E Framework
-- R-I-S-E Framework
-
-### Description:
-This document outlines five structured frameworks to craft ChatGPT prompts for effective task execution. Each framework is explained with its structure, purpose, and practical examples for various use cases like business, content creation, education, and personal growth.
-
+---
+title: ChatGPT Prompt Frameworks for Effective Task Structuring
+category: Productivity
+tags:
+  - R-T-F Framework
+  - T-A-G Framework
+  - B-A-B Framework
+  - C-A-R-E Framework
+  - R-I-S-E Framework
+description: This document outlines five structured frameworks to craft ChatGPT prompts for effective task execution. Each framework is explained with its structure, purpose, and practical examples for various use cases like business, content creation, education, and personal growth.
 ---
 
-### Body of Information:
-
-#### 1. R-T-F (Role - Task - Format)
+## 1. R-T-F (Role - Task - Format)
 - **Purpose:** Generate responses by specifying a role, task, and desired format.
 - **Structure:**  
   - Act as a [ROLE]  
@@ -31,7 +24,7 @@ This document outlines five structured frameworks to craft ChatGPT prompts for e
 
 ---
 
-#### 2. T-A-G (Task - Action - Goal)
+## 2. T-A-G (Task - Action - Goal)
 - **Purpose:** Ensure ChatGPT understands a task, the action needed, and the ultimate goal.
 - **Structure:**  
   - Define [TASK]  
@@ -45,7 +38,7 @@ This document outlines five structured frameworks to craft ChatGPT prompts for e
 
 ---
 
-#### 3. B-A-B (Before - After - Bridge)
+## 3. B-A-B (Before - After - Bridge)
 - **Purpose:** Craft problem-solving prompts by addressing a situation before, after, and a solution in between.
 - **Structure:**  
   - Explain the problem [BEFORE]  
@@ -59,7 +52,7 @@ This document outlines five structured frameworks to craft ChatGPT prompts for e
 
 ---
 
-#### 4. C-A-R-E (Context - Action - Result - Example)
+## 4. C-A-R-E (Context - Action - Result - Example)
 - **Purpose:** Guide ChatGPT to provide detailed insights using context, action, result, and examples.
 - **Structure:**  
   - Give the [CONTEXT]  
@@ -74,7 +67,7 @@ This document outlines five structured frameworks to craft ChatGPT prompts for e
 
 ---
 
-#### 5. R-I-S-E (Role - Input - Steps - Expectation)
+## 5. R-I-S-E (Role - Input - Steps - Expectation)
 - **Purpose:** Structure responses when seeking step-by-step guidance.
 - **Structure:**  
   - Specify the [ROLE]  

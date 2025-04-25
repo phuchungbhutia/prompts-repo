@@ -1,5 +1,5 @@
 title: ChatGPT for Marketing
-category: AI Prompts
+category: Prompting
 tags: [chatgpt, marketing, ai tools, content creation, email marketing, seo, social media, branding]
 description: A comprehensive guide to using ChatGPT for 10 powerful marketing tasks—from campaign planning to SEO content ideas—complete with optimized prompts, use cases, and real-world examples.
 ---

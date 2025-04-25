@@ -1,6 +1,6 @@
 ---
 title: Blog Post Generator
-category: content generation
+category: content-generation
 description: Generates outlines and content for blog posts based on given topics
 ---
 

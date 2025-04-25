@@ -1,6 +1,6 @@
 ---
 title: Grok 3 Prompting Master Cheat Sheet
-category: AI Prompt Engineering
+category: Prompting
 tags: [Grok 3, prompts, productivity, AI tools, cheat sheet]
 description: Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Problem Solving Using Mental Models
-category: AI Tools
+category: AI-Tools
 tags: ["ChatGPT", "Problem Solving", "Mental Models", "Productivity", "Coaching"]
 description: "Learn how to use ChatGPT more effectively by applying 9 powerful mental models for problem solving. Each framework includes 3 practical examples to guide your strategy, planning, and execution."
 cover_image: "/images/problem-solving-prompts.png"

@@ -1,113 +1,71 @@
-## Title: 10 Useful ChatGPT Prompts for Developers
+--- 
+title: 10 Useful ChatGPT Prompts for Developers 
+category: Programming
+description: A detailed guide to 10 essential ChatGPT prompts designed to assist developers in various aspects of software development, including coding, debugging, API design, database management, and learning best practices. 
+--- 
 
-### Category:
-- Software Development
+## 🔧 Prompt
 
-### Tags:
-- API Design
-- Debugging
-- Code Optimization
-- Regular Expressions
-- Best Practices
+1. **Writing New Logic**  
+   > "As a Python developer, write a program to validate the information in the following forms [insert form data]."
 
-### Description:
-A detailed guide to 10 essential ChatGPT prompts designed to assist developers in various aspects of software development, including coding, debugging, API design, database management, and learning best practices.
+2. **API & Architecture Specification**  
+   > "Design a REST API for user authentication and profile management, including resource model & endpoint structure."
 
----
+3. **API Implementation**  
+   > "Implement the REST API for a task management app using Node.js and MongoDB, including routing & error handling."
 
-### Body of Information:
+4. **Testing Short Snippets of Code**  
+   > "Act as a Python interpreter and execute this code: print('Hello, world!'). Show only the output."
 
-#### 1. Writing New Logic
-- **Usage:** Helps developers generate new logic for their code.
-- **Example Prompt:**  
-  > "As a Python developer, write a program to validate the information in the following forms [insert form data]."
-- **Scenario:**  
-  If you are building a form validation function, this prompt generates Python code for input validation.
+5. **Resolution of Bugs & Errors in Code**  
+   > "Debug this Node.js app with Express and MongoDB to fix 'Cannot read property of undefined'."
 
----
+6. **Optimization of Existing Code**  
+   > "Optimize the following JavaScript code to improve runtime and reduce memory usage."
 
-#### 2. API & Architecture Specification
-- **Usage:** Guides developers in designing APIs with structured endpoints and resource models.
-- **Example Prompt:**  
-  > "Design a REST API for user authentication and profile management, including resource model & endpoint structure."
-- **Scenario:**  
-  Use this to draft specifications for user authentication systems.
+7. **For Database Management**  
+   > "Write an SQL query to retrieve all users who placed orders in the last month from the users and orders tables."
 
----
+8. **Crafting Regular Expressions**  
+   > "Generate a regex to validate email addresses in the format user@example.com."
 
-#### 3. API Implementation
-- **Usage:** Helps in implementing APIs using specific frameworks and programming languages.
-- **Example Prompt:**  
-  > "Implement the REST API for a task management app using Node.js and MongoDB, including routing & error handling."
-- **Scenario:**  
-  When building a task management app, this can assist with routing and error handling.
+9. **Learning Coding Best Practices**  
+   > "Outline best practices for securing a Django web app, including authentication and data validation."
 
----
+10. **Generating New Project Ideas**  
+    > "Generate project ideas for a delivery app using Python, including real-time tracking and user feedback."
 
-#### 4. Testing Short Snippets of Code
-- **Usage:** Allows developers to test small code snippets and see their output.
-- **Example Prompt:**  
-  > "Act as a Python interpreter and execute this code: print('Hello, world!'). Show only the output."
-- **Scenario:**  
-  Quickly test and validate code snippets without an IDE.
+--- 
+
+## 🧩 Inputs
+
+- `form_data`: The data that needs to be validated (e.g., form fields, user input).
+- `API_name`: The name of the API for which you need a specification or implementation.
+- `code_snippet`: A small piece of code that needs to be executed or debugged.
+- `project_type`: The type of software project or idea to be generated.
+- `database_tables`: Database tables involved in the query.
 
 ---
 
-#### 5. Resolution of Bugs & Errors in Code
-- **Usage:** Debugs code by identifying and fixing errors.
-- **Example Prompt:**  
-  > "Debug this Node.js app with Express and MongoDB to fix 'Cannot read property of undefined'."
-- **Scenario:**  
-  Useful for resolving errors and improving project performance.
+## ⚙️ Constraints
+
+- Code must follow the best practices for the specific language (e.g., Python, JavaScript).
+- If debugging, provide the full error message or the scenario where the error occurs.
+- For API-related tasks, ensure that the API follows standard RESTful design principles.
+- Ensure that SQL queries are optimized and return the correct dataset.
 
 ---
 
-#### 6. Optimization of Existing Code
-- **Usage:** Improves performance and efficiency of code.
-- **Example Prompt:**  
-  > "Optimize the following JavaScript code to improve runtime and reduce memory usage."
-- **Scenario:**  
-  Use this to optimize slow or inefficient code.
+## 📋 Output Format
 
----
-
-#### 7. For Database Management
-- **Usage:** Helps in writing SQL queries for retrieving data based on specific criteria.
-- **Example Prompt:**  
-  > "Write an SQL query to retrieve all users who placed orders in the last month from the users and orders tables."
-- **Scenario:**  
-  Generate queries to extract meaningful insights from your database.
-
----
-
-#### 8. Crafting Regular Expressions
-- **Usage:** Generates regex patterns for specific text matching needs.
-- **Example Prompt:**  
-  > "Generate a regex to validate email addresses in the format user@example.com."
-- **Scenario:**  
-  Use for tasks like form validation or data extraction.
-
----
-
-#### 9. Learning Coding Best Practices
-- **Usage:** Provides best practices for writing efficient and secure code.
-- **Example Prompt:**  
-  > "Outline best practices for securing a Django web app, including authentication and data validation."
-- **Scenario:**  
-  Learn and apply industry standards for secure development.
-
----
-
-#### 10. Generating New Project Ideas
-- **Usage:** Generates ideas for new software projects.
-- **Example Prompt:**  
-  > "Generate project ideas for a delivery app using Python, including real-time tracking and user feedback."
-- **Scenario:**  
-  Brainstorm innovative project concepts for startups.
-
----
-
-### Conclusion:
-These prompts serve as a valuable toolkit for developers to enhance productivity, streamline processes, and solve coding challenges effectively. Tailor these prompts to your specific project needs to maximize their impact.
-
----
+```markdown
+### Writing New Logic
+- Description: Generates logic for validating form data.
+- Example:
+```python
+def validate_form_data(data):
+    if not data.get('email'):
+        return "Email is required"
+    # Additional validation logic
+    return "Form data is valid"

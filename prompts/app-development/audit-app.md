@@ -1,6 +1,6 @@
 ---
 title: Cross-Platform Audit App Development Plan
-category: App Development
+category: Programming
 description: Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
 ---
 

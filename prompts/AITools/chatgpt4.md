@@ -1,23 +1,14 @@
-## Title: Cheat Sheet for Crafting Effective ChatGPT Prompts
-
-### Category:
-- AI Prompt
-
-### Tags:
-- Roles
-- Tasks
-- Formats
-- Linked Prompting
-- Prompt Priming
-
-### Description:
-This cheat sheet provides a structured approach to writing effective ChatGPT prompts using roles, tasks, formats, linked prompting, and prompt priming techniques. Enhance precision, clarity, and actionable responses through these frameworks.
-
+---
+title: Cheat Sheet for Crafting Effective ChatGPT Prompts
+category: Prompting
+description: This cheat sheet provides a structured approach to writing effective ChatGPT prompts using roles, tasks, formats, linked prompting, and prompt priming techniques. Enhance precision, clarity, and actionable responses through these frameworks.
 ---
 
-### Body of Information:
+## 🔧 Prompt
 
-#### 1. Basic Prompt Structure
+This cheat sheet introduces key techniques for crafting structured and effective prompts, enabling more precise and actionable responses from ChatGPT.
+
+### 1. Basic Prompt Structure
 - **Structure:**  
   *"Acting as a [ROLE] perform [TASK] in [FORMAT]"*  
 - **Purpose:**  
@@ -27,7 +18,7 @@ This cheat sheet provides a structured approach to writing effective ChatGPT pro
 
 ---
 
-#### 2. Acting as a [ROLE]
+### 2. Acting as a [ROLE]
 - **Purpose:**  
   Define the expertise or persona ChatGPT should assume while answering.  
 - **Example:**  
@@ -35,7 +26,7 @@ This cheat sheet provides a structured approach to writing effective ChatGPT pro
 
 ---
 
-#### 3. Creating a [TASK]
+### 3. Creating a [TASK]
 - **Purpose:**  
   Specify the exact action or deliverable required from ChatGPT.  
 - **Example:**  
@@ -43,7 +34,7 @@ This cheat sheet provides a structured approach to writing effective ChatGPT pro
 
 ---
 
-#### 4. Showing as [FORMAT]
+### 4. Showing as [FORMAT]
 - **Purpose:**  
   Define the output structure for ChatGPT’s response (e.g., table, list, summary, HTML).  
 - **Example:**  
@@ -51,7 +42,7 @@ This cheat sheet provides a structured approach to writing effective ChatGPT pro
 
 ---
 
-#### 5. Linked Prompting (Step-by-Step Refinement)
+### 5. Linked Prompting (Step-by-Step Refinement)
 - **Purpose:**  
   Break down broad tasks into smaller, linked steps for refined outputs.  
 - **Workflow Example:**  
@@ -63,7 +54,7 @@ This cheat sheet provides a structured approach to writing effective ChatGPT pro
 
 ---
 
-#### 6. Prompt Priming (Different Levels of Detail)
+### 6. Prompt Priming (Different Levels of Detail)
 - **Purpose:**  
   Control the depth and specificity of ChatGPT’s responses based on the level of priming.  
 - **Example:**  
@@ -79,7 +70,7 @@ This cheat sheet provides a structured approach to writing effective ChatGPT pro
 
 ---
 
-#### 7. ChatGPT for Business Owners
+### 7. ChatGPT for Business Owners
 - **Purpose:**  
   Use AI to assist with marketing strategies, content creation, and business planning.  
 - **Example Prompts:**  
@@ -88,7 +79,32 @@ This cheat sheet provides a structured approach to writing effective ChatGPT pro
 
 ---
 
-### Final Thoughts:
-By utilizing roles, tasks, formats, linked prompting, and priming, ChatGPT can deliver **precise, well-structured, and actionable responses**. Experiment with these techniques to enhance your productivity.
+## 🧩 Inputs
+
+- `role`: The specific persona or role ChatGPT should assume (e.g., financial analyst, marketer, designer).
+- `task`: The deliverable or action required from ChatGPT (e.g., create an email sequence, generate a report).
+- `format`: The desired output structure (e.g., table, bullet points, essay).
+- `level of detail`: Priming technique to control the depth of the response (e.g., zero, single, multiple).
 
 ---
+
+## ⚙️ Constraints
+
+- Be clear about the role, task, and format to guide the response effectively.
+- Use linked prompting for complex tasks to ensure organized outputs.
+- Control response specificity through priming techniques for more targeted results.
+
+---
+
+## 📋 Output Format
+```markdown
+### Prompt Use Case: [Use Case Title]
+
+**Prompt:**  
+"[Paste prompt here]"
+
+**Example Response:**  
+- [Summary or bullet-point sample of ChatGPT's answer]
+
+**Purpose:**  
+[What this prompt helps with]

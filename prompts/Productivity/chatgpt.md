@@ -1,23 +1,16 @@
-## Title: Formula for Crafting Effective ChatGPT Prompts
-
-### Category:
-- Productivity
-
-### Tags:
-- ChatGPT Prompts
-- Task Structuring
-- AI Writing Assistant
-- Examples
-- Format Guide
-
-### Description:
-This document outlines a comprehensive formula for creating effective and precise ChatGPT prompts. By using structured components like roles, tasks, context, examples, and constraints, users can achieve highly relevant and actionable outputs.
-
+---
+title: Formula for Crafting Effective ChatGPT Prompts
+category: Productivity
+tags:
+  - ChatGPT Prompts
+  - Task Structuring
+  - AI Writing Assistant
+  - Examples
+  - Format Guide
+description: This document outlines a comprehensive formula for creating effective and precise ChatGPT prompts. By using structured components like roles, tasks, context, examples, and constraints, users can achieve highly relevant and actionable outputs.
 ---
 
-### Body of Information:
-
-#### Formula for the Perfect Prompt:
+## Formula for the Perfect Prompt:
 1. **Role**: Assign a role to ChatGPT, specifying the expertise or persona you want it to take on.
    - *Example:* You are a data analyst proficient in Python.
 
@@ -35,7 +28,7 @@ This document outlines a comprehensive formula for creating effective and precis
 
 ---
 
-#### Example 1: Career Coaching Prompt
+## Example 1: Career Coaching Prompt
 - **Role**: You are an experienced career coach.
 - **Action**: Provide suggestions to improve my LinkedIn profile.
 - **Context**: I am seeking job opportunities in the tech industry, particularly in roles related to AI and software development.
@@ -46,7 +39,7 @@ This document outlines a comprehensive formula for creating effective and precis
 
 ---
 
-#### Example 2: Nutrition Guidance Prompt
+## Example 2: Nutrition Guidance Prompt
 - **Role**: You are a friendly nutritionist.
 - **Action**: Design a weekly meal plan for someone looking to build muscle.
 - **Context**: I am a beginner in fitness and prefer simple recipes with accessible ingredients.
@@ -57,7 +50,7 @@ This document outlines a comprehensive formula for creating effective and precis
 
 ---
 
-#### Prompt Generator Template:
+## Prompt Generator Template:
 ```markdown
 Role: [Describe the persona or expertise you want ChatGPT to assume.]
 
@@ -68,4 +61,3 @@ Context: [Provide background information or a brief description of the situation
 Examples: [List example responses or desired outputs, if applicable.]
 
 Constraints and Formatting: [Outline any rules, such as language clarity or output structure.]
-```

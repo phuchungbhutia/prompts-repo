@@ -1,23 +1,14 @@
-## Title: ChatGPT Cheat Sheet: Crafting Effective Prompts
-
-### Category:
-- AI Prompt
-
-### Tags:
-- Beginner-friendly Prompts
-- Sales and Marketing
-- Developer Help
-- Resume Building
-- Education
-
-### Description:
-A detailed guide on using structured prompts to maximize ChatGPT’s potential across various domains, including content creation, coding, sales, marketing, and personal career development.
-
+---
+title: ChatGPT Cheat Sheet - Crafting Effective Prompts
+category: Prompting
+description: A detailed guide on using structured prompts to maximize ChatGPT’s potential across various domains, including content creation, coding, sales, marketing, and personal career development.
 ---
 
-### Body of Information:
+## 🔧 Prompt
 
-#### 1. Explain Like I'm a Beginner
+This cheat sheet covers a range of prompts designed to help users leverage ChatGPT for better productivity, skill development, and task optimization across different domains.
+
+### 1. Explain Like I'm a Beginner
 - **Prompt:**  
   > "Explain [topic] in simple terms. Explain to me as if I'm a beginner."
 - **Explanation:**  
@@ -31,7 +22,7 @@ A detailed guide on using structured prompts to maximize ChatGPT’s potential a
 
 ---
 
-#### 2. Define ChatGPT Role
+### 2. Define ChatGPT Role
 - **Prompt:**  
   > "Act as a [role]" (e.g., *Act as a lawyer, Act as an Excel sheet, Act as a cybersecurity advisor.*)
 - **Explanation:**  
@@ -45,7 +36,7 @@ A detailed guide on using structured prompts to maximize ChatGPT’s potential a
 
 ---
 
-#### 3. Prompts for Sales
+### 3. Prompts for Sales
 - **Prompts:**
   - "How can I improve my sales pitch to better connect with potential clients?"
   - "What are some effective strategies for overcoming objections during a sales conversation?"
@@ -61,7 +52,7 @@ A detailed guide on using structured prompts to maximize ChatGPT’s potential a
 
 ---
 
-#### 4. Prompts for Marketers
+### 4. Prompts for Marketers
 - **Prompts:**  
   - "Can you provide ideas for blog posts about [topic]?"
   - "How can I create a compelling promotional email for my company?"
@@ -79,7 +70,7 @@ A detailed guide on using structured prompts to maximize ChatGPT’s potential a
 
 ---
 
-#### 5. Prompts for Developers
+### 5. Prompts for Developers
 - **Prompts:**  
   - "Develop an architecture and code for a secure login system."
   - "Help me find mistakes in the following code snippet."
@@ -96,7 +87,7 @@ A detailed guide on using structured prompts to maximize ChatGPT’s potential a
 
 ---
 
-#### 6. Prompt for a Job Position Summary
+### 6. Prompt for a Job Position Summary
 - **Prompt:**  
   > "Create a summary that showcases my skills and experience for a job application (e.g., programming languages, software, etc.)."
 - **Explanation:**  
@@ -111,5 +102,35 @@ A detailed guide on using structured prompts to maximize ChatGPT’s potential a
 
 ---
 
-### Final Thoughts:
-This cheat sheet outlines powerful prompts to enhance productivity, learn new skills, and optimize workflows across industries. Ready to craft your own customized prompt for a specific task?
+## 🧩 Inputs
+
+- `topic`: The subject or concept the user wants to explore or understand.
+- `role`: The specific role ChatGPT is supposed to assume (e.g., lawyer, developer).
+- `sales_challenge`: The sales-related issue or question.
+- `marketing_strategy`: The marketing strategy or content being worked on.
+- `developer_task`: The coding or technical problem to solve.
+- `job_summary`: The user’s career background and skills to highlight.
+
+---
+
+## ⚙️ Constraints
+
+- Language should be clear and jargon-free for beginners.
+- Outputs should provide practical, actionable advice.
+- Structured responses (e.g., lists, paragraphs, or examples) are preferred.
+- Customizable for different industries or expertise areas.
+
+---
+
+## 📋 Output Format
+```markdown
+### Prompt Use Case: [Use Case Title]
+
+**Prompt:**  
+"[Paste prompt here]"
+
+**Example Response:**  
+- [Summary or bullet-point sample of ChatGPT's answer]
+
+**Purpose:**  
+[What this prompt helps with]

@@ -1,6 +1,6 @@
 ---
 title: Boost Productivity with These Powerful ChatGPT Prompts
-category: AI Tools
+category: AI-Tools
 tags: [ChatGPT, Productivity, Prompts, AI Tools, Automation, Content Creation]
 description: Learn how to maximize your productivity in 2025 using ChatGPT prompts. This blog breaks down the structure, examples, and best practices to make ChatGPT your ultimate task partner.
 ---

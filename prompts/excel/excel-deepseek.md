@@ -1,7 +1,10 @@
+---
 title: Master Excel with DeepSeek
 category: Excel  
 tags: [Excel, Productivity, Data Analysis, VBA, Power Query, Dashboards, Automation]  
 description: Discover 10 advanced Excel prompts designed to help you master dashboards, automation, data filtering, array formulas, Solver, and more. Ideal for professionals looking to boost productivity with Excel.  
+
+---
 
 ## 1. Create a Dynamic Dashboard in Excel  
 **Prompt:**  

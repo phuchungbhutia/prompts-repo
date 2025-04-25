@@ -1,3 +1,4 @@
+---
 title: ChatGPT for Marketing
 category: Prompting
 tags: [chatgpt, marketing, ai tools, content creation, email marketing, seo, social media, branding]

@@ -1,11 +1,14 @@
+---
 title: ChatGPT Prompt Frameworks – Full Guide with Examples  
 category: Prompting  
 tags: [ChatGPT, AI Prompts, Prompt Engineering, Productivity, Marketing, Content Strategy]  
 description: Learn to master ChatGPT using 5 powerful prompt frameworks—R-T-F, T-A-G, B-A-B, C-A-R-E, and R-I-S-E. Each structure includes explanations, ideal use cases, and real-world prompt examples for getting actionable, relevant outputs from ChatGPT.  
 
+---
+
 ## ChatGPT Prompt Frameworks – Full Guide with Examples
 
-Want better, sharper responses from ChatGPT? These **5 prompt frameworks** help you structure your queries for **clear, useful, and goal-oriented outputs**.
+Want better, sharper responses from ChatGPT? These **5 prompt frameworks** help you structure your queries for **clear, useful and goal-oriented outputs**.
 
 ---
 

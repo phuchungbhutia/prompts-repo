@@ -1,6 +1,4 @@
-Here’s your input converted into the structured **Markdown prompt format** you’re using for your content collection:
-
-```markdown
+---
 title: Thesis Outline – 7 Chapters with Detailed Elements  
 category: academic-writing  
 description: This guide breaks down a typical thesis structure into 7 chapters with detailed sub-elements, examples, purposes, and practical uses. Ideal for students planning and writing academic theses.

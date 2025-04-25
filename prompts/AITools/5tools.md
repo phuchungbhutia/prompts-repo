@@ -1,3 +1,4 @@
+---
 title: 5 Problem-Solving Method Prompts for Founders & CEOs
 category: Productivity
 description: Practical ChatGPT prompts for applying five strategic problem-solving frameworks—Pre-Mortem, 5 Whys, Decision Tree, SWOT, and Impact vs Effort Matrix.

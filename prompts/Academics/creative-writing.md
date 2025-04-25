@@ -1,3 +1,4 @@
+---
 title: Imaginative Creative Writing Prompts  
 category: creative-writing  
 description: A collection of 20 imaginative prompts to spark creativity, world-building, and futuristic storytelling.

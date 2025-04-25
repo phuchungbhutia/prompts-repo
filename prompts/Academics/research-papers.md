@@ -1,3 +1,4 @@
+---
 title: Generate Research Papers  
 category: academic-writing  
 description: A structured prompt for generating comprehensive research papers using provided content. Includes sections for literature review, findings, case studies, and recommendations—complete with citations and future exploration paths.

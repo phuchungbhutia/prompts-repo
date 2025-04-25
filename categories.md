@@ -25,7 +25,6 @@ Prompts are grouped by category below.
 | Writing | Prompts for Writing  | 18 ChatGPT Prompts for SEO |
 | academic-writing | Prompts for academic writing  | Ethical AI Use in Academic Writing – Prompts & Guide |
 | content-generation | Prompts for content generation  | Blog Post Generator |
-| content-generator | Prompts for content generator  | youtube-script |
 | creative-writing | Prompts for creative writing  | Imaginative Creative Writing Prompts |
 | deepseek | Prompts for deepseek  | 2025.04.18 |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
@@ -53,6 +52,7 @@ Prompts are grouped by category below.
 ## Content-Creation
 
 - [18 ChatGPT Prompts for Content Creation](prompts/content-generator/content-creation.md) - A versatile collection of ChatGPT prompts to help create compelling content for blogs, videos, emails, and more.
+- [AI-Powered YouTube Video Script Generator](prompts/content-generator/youtube-script.md) - This prompt is designed for content creators, marketers, and YouTubers who want to generate engaging and well-structured scripts for YouTube videos using AI.
 - [Prompts for Crafting Human-Like SEO Content](prompts/content-generator/seo.md) - A detailed prompt template guiding the creation of engaging, human-like SEO articles that balance technical precision and emotional relatability.
 
 ## Content-Generation
@@ -156,10 +156,6 @@ Prompts are grouped by category below.
 ## content-generation
 
 - [Blog Post Generator](prompts/content-generator/blog-post-generator.md) - Generates outlines and content for blog posts based on given topics
-
-## content-generator
-
-- [youtube-script](prompts/content-generator/youtube-script.md) - 
 
 ## creative-writing
 

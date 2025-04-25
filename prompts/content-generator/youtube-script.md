@@ -1,7 +1,7 @@
 ---
-Title: AI-Powered YouTube Video Script Generator
-Category: Content-Creation
-Description: This prompt is designed for content creators, marketers, and YouTubers who want to generate engaging and well-structured scripts for YouTube videos using AI. 
+title: AI-Powered YouTube Video Script Generator
+category: Content-Creation
+description: This prompt is designed for content creators, marketers, and YouTubers who want to generate engaging and well-structured scripts for YouTube videos using AI. 
 
 ---
 

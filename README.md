@@ -35,11 +35,10 @@ graph TD
     B --> CAT17[Writing]
     B --> CAT18[academic-writing]
     B --> CAT19[content-generation]
-    B --> CAT20[content-generator]
-    B --> CAT21[creative-writing]
-    B --> CAT22[deepseek]
-    B --> CAT23[health-nutrition]
-    B --> CAT24[learning]
+    B --> CAT20[creative-writing]
+    B --> CAT21[deepseek]
+    B --> CAT22[health-nutrition]
+    B --> CAT23[learning]
     CAT1[AI-Tools] --> F11[Boost Productivity with These Powerful ChatGPT Prompts.md]
     CAT1[AI-Tools] --> F12[Problem Solving Using Mental Models.md]
     CAT2[Audit] --> F21[Audit Observations.md]
@@ -48,7 +47,8 @@ graph TD
     CAT3[Business] --> F31[9 ChatGPT Prompts to Find Profitable Market Opportunities.md]
     CAT4[Career-Tips] --> F41[Mastering Common Interview Questions with ChatGPT.md]
     CAT5[Content-Creation] --> F51[18 ChatGPT Prompts for Content Creation.md]
-    CAT5[Content-Creation] --> F52[Prompts for Crafting Human-Like SEO Content.md]
+    CAT5[Content-Creation] --> F52[AI-Powered YouTube Video Script Generator.md]
+    CAT5[Content-Creation] --> F53[Prompts for Crafting Human-Like SEO Content.md]
     CAT6[Content-Generation] --> F61[Comprehensive Guide to Creating an eBook from Online Sources.md]
     CAT7[Content-generation] --> F71[18 ChatGPT Prompts for User Experience.md]
     CAT8[Data-Analysis] --> F81[Example Prompts for Data Analysis with ChatGPT.md]
@@ -109,11 +109,10 @@ graph TD
     CAT18[academic-writing] --> F182[Generate Research Papers.md]
     CAT18[academic-writing] --> F183[Thesis Outline – 7 Chapters with Detailed Elements.md]
     CAT19[content-generation] --> F191[Blog Post Generator.md]
-    CAT20[content-generator] --> F201[youtube-script.md]
-    CAT21[creative-writing] --> F211[Imaginative Creative Writing Prompts.md]
-    CAT22[deepseek] --> F221[2025.04.18.md]
-    CAT23[health-nutrition] --> F231[Create a Comprehensive Healthy Meal Plan Guide.md]
-    CAT24[learning] --> F241[10 Powerful AI-Based Learning Techniques.md]
+    CAT20[creative-writing] --> F201[Imaginative Creative Writing Prompts.md]
+    CAT21[deepseek] --> F211[2025.04.18.md]
+    CAT22[health-nutrition] --> F221[Create a Comprehensive Healthy Meal Plan Guide.md]
+    CAT23[learning] --> F231[10 Powerful AI-Based Learning Techniques.md]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -144,7 +143,6 @@ graph TD
 | Writing | Prompts for Writing  | 18 ChatGPT Prompts for SEO |
 | academic-writing | Prompts for academic writing  | Ethical AI Use in Academic Writing – Prompts & Guide |
 | content-generation | Prompts for content generation  | Blog Post Generator |
-| content-generator | Prompts for content generator  | youtube-script |
 | creative-writing | Prompts for creative writing  | Imaginative Creative Writing Prompts |
 | deepseek | Prompts for deepseek  | 2025.04.18 |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
@@ -167,6 +165,7 @@ graph TD
 - [5 Problem-Solving Method Prompts for Founders & CEOs](prompts/AITools/5tools.md) - Practical ChatGPT prompts for applying five strategic problem-solving frameworks—Pre-Mortem, 5 Whys, Decision Tree, SWOT, and Impact vs Effort Matrix.
 - [50 Prompts for Extracting Text from PDF Tables Using Excel, Power Query, and Python](prompts/app-development/data-extraction.md) - A comprehensive guide with 50 prompts to extract text from tables in multiple PDF files using Excel, Power Query, and Python. This includes formula-based, automated, and code-driven approaches for handling complex data structures.
 - [9 ChatGPT Prompts to Find Profitable Market Opportunities](prompts/Business/Market.md) - Discover 9 powerful ChatGPT prompts to uncover hidden market opportunities, along with 3 real-world examples for each to help spark your next venture.
+- [AI-Powered YouTube Video Script Generator](prompts/content-generator/youtube-script.md) - This prompt is designed for content creators, marketers, and YouTubers who want to generate engaging and well-structured scripts for YouTube videos using AI.
 - [Audit Observations](prompts/audit/observations.md) - Prompt for Writing Audit Observations
 - [Blog Post Generator](prompts/content-generator/blog-post-generator.md) - Generates outlines and content for blog posts based on given topics
 - [Boost Productivity with These Powerful ChatGPT Prompts](prompts/AITools/productivity.md) - Learn how to maximize your productivity in 2025 using ChatGPT prompts. This blog breaks down the structure, examples, and best practices to make ChatGPT your ultimate task partner.
@@ -225,7 +224,6 @@ graph TD
 - [Thesis Outline – 7 Chapters with Detailed Elements](prompts/Academics/research-academics.md) - This guide breaks down a typical thesis structure into 7 chapters with detailed sub-elements, examples, purposes, and practical uses. Ideal for students planning and writing academic theses.
 - [Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR](prompts/app-development/camscanner-app.md) - Build an advanced Android camera document scanning app with smart features, OCR, AI-enhanced image processing, and optimized performance.
 - [Use AI to Learn Anything Faster](prompts/AITools/learn-faster.md) - A practical guide on how to leverage AI tools like ChatGPT to supercharge your learning using proven techniques like simplification, analogies, quizzes, mind maps, and more.
-- [youtube-script](prompts/content-generator/youtube-script.md) - 
 
 ## Installation
 

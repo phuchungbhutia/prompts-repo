@@ -20,6 +20,7 @@ Prompts are grouped by category below.
 | Productivity | Prompts for Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | Programming | Prompts for Programming  | 10 Useful ChatGPT Prompts for Developers |
 | Prompting | Prompts for Prompting  | 12 Must-Know ChatGPT Prompt Techniques |
+| Writing | Prompts for Writing  | ChatGPT Prompts for Producing Your Ebook Manuscript |
 | academic-writing | Prompts for academic writing  | Ethical AI Use in Academic Writing – Prompts & Guide |
 | content-generation | Prompts for content generation  | Blog Post Generator |
 | creative-writing | Prompts for creative writing  | Imaginative Creative Writing Prompts |
@@ -111,6 +112,15 @@ Prompts are grouped by category below.
 - [DeepSeek AI Prompt Hacks Cheat Sheet](prompts/AITools/deepseek.md) - A comprehensive cheat sheet of DeepSeek AI prompt hacks with categorized examples to help you create powerful AI-generated content, resumes, code, educational material, and more.
 - [DeepSeek Cheat Sheet - AI Prompts for Skill Building, Business & Productivity](prompts/AITools/deepseek2.md) - A detailed guide to using DeepSeek AI for skill development, business consulting, content creation, writing improvement, productivity, and more—featuring ready-to-use prompts and examples.
 - [Grok 3 Prompting Master Cheat Sheet](prompts/AITools/grok.md) - Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.
+
+## Writing
+
+- [ChatGPT Prompts for Producing Your Ebook Manuscript](prompts/content-generator/manuscript.md) - A comprehensive guide to using ChatGPT for crafting an engaging and market-ready ebook, covering everything from back cover descriptions to manuscript creation and graphics.
+- [ChatGPT Prompts for Writing a Book](prompts/content-generator/book-writer.md) - A detailed collection of ChatGPT prompts to assist authors in various stages of book writing, from outlining to character development and marketing strategies.
+- [ChatGPT Prompts for Writing an Ebook](prompts/content-generator/ebooks.md) - A versatile collection of prompts that guide authors through the ebook writing process, from ideation to proofreading and marketing.
+- [Comprehensive Prompt Guide for Authors](prompts/content-generator/ebook-writer.md) - A versatile collection of prompts tailored for authors to enhance book outlining, character development, plot troubleshooting, and more.
+- [eBook Writing Prompts That Sell](prompts/content-generator/ebooks-that-sell.md) - A set of tailored prompts to create captivating eBook titles, effective structures, and engaging chapters that resonate with readers.
+- [Prompts to Write a Nonfiction Ebook](prompts/content-generator/non-fiction.md) - A collection of prompts to guide authors in every stage of nonfiction ebook creation, from ideation to marketing.
 
 ## academic-writing
 

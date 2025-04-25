@@ -9,7 +9,7 @@ Prompts are grouped by category below.
 | AI-Tools | Prompts for AI Tools  | Boost Productivity with These Powerful ChatGPT Prompts |
 | Audit | Prompts for Audit  | Audit Observations |
 | Business | Prompts for Business  | 9 ChatGPT Prompts to Find Profitable Market Opportunities |
-| Career Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
+| Career-Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
 | Content-Generation | Prompts for Content Generation  | Comprehensive Guide to Creating an eBook from Online Sources |
 | Data-Analysis | Prompts for Data Analysis  | Example Prompts for Data Analysis with ChatGPT |
 | Learning | Prompts for Learning  | 10 Powerful AI-Based Learning Techniques for Mastering Any Topic |
@@ -36,7 +36,7 @@ Prompts are grouped by category below.
 
 - [9 ChatGPT Prompts to Find Profitable Market Opportunities](prompts/Business/Market.md) - Discover 9 powerful ChatGPT prompts to uncover hidden market opportunities, along with 3 real-world examples for each to help spark your next venture.
 
-## Career Tips
+## Career-Tips
 
 - [Mastering Common Interview Questions with ChatGPT](prompts/Career-Tips/Interview.md) - Learn how to master the most common interview questions using ChatGPT, with examples, prompts, pros, cons, and limitations for each. Perfect for job seekers who want to prepare smarter and faster.
 

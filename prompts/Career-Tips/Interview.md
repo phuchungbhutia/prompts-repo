@@ -1,6 +1,6 @@
 ---
 title: Mastering Common Interview Questions with ChatGPT
-category: Career Tips
+category: Career-Tips
 tags: [interview-prep, ChatGPT, job-search, AI-tools, resume, career-growth]
 description: Learn how to master the most common interview questions using ChatGPT, with examples, prompts, pros, cons, and limitations for each. Perfect for job seekers who want to prepare smarter and faster.
 ---

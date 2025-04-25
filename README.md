@@ -19,7 +19,7 @@ graph TD
     B --> CAT1[AI-Tools]
     B --> CAT2[Audit]
     B --> CAT3[Business]
-    B --> CAT4[Career Tips]
+    B --> CAT4[Career-Tips]
     B --> CAT5[Content-Generation]
     B --> CAT6[Data-Analysis]
     B --> CAT7[Learning]
@@ -36,7 +36,7 @@ graph TD
     CAT2[Audit] --> F22[ChatGPT Prompts for Building a GST Audit Tool.md]
     CAT2[Audit] --> F23[GST Data Analysis for Audit.md]
     CAT3[Business] --> F31[9 ChatGPT Prompts to Find Profitable Market Opportunities.md]
-    CAT4[Career Tips] --> F41[Mastering Common Interview Questions with ChatGPT.md]
+    CAT4[Career-Tips] --> F41[Mastering Common Interview Questions with ChatGPT.md]
     CAT5[Content-Generation] --> F51[Comprehensive Guide to Creating an eBook from Online Sources.md]
     CAT6[Data-Analysis] --> F61[Example Prompts for Data Analysis with ChatGPT.md]
     CAT6[Data-Analysis] --> F62[Prompts for Research Data Analysis.md]
@@ -80,7 +80,7 @@ graph TD
 | AI-Tools | Prompts for AI Tools  | Boost Productivity with These Powerful ChatGPT Prompts |
 | Audit | Prompts for Audit  | Audit Observations |
 | Business | Prompts for Business  | 9 ChatGPT Prompts to Find Profitable Market Opportunities |
-| Career Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
+| Career-Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
 | Content-Generation | Prompts for Content Generation  | Comprehensive Guide to Creating an eBook from Online Sources |
 | Data-Analysis | Prompts for Data Analysis  | Example Prompts for Data Analysis with ChatGPT |
 | Learning | Prompts for Learning  | 10 Powerful AI-Based Learning Techniques for Mastering Any Topic |

@@ -1,6 +1,6 @@
 ---
 title: 18 ChatGPT Prompts for SEO
-category: Writing
+category: SEO
 description: A set of advanced prompts to streamline SEO tasks, from meta descriptions to content gap analysis and keyword research.
 ---
 

@@ -6,14 +6,17 @@ Prompts are grouped by category below.
 
 | Category | Description | Example Prompt |
 |----------|-------------|---------------|
+| AI-Learning | Prompts for AI Learning  | Comprehensive List of Prompt Types with Examples |
+| AI-Techniques | Prompts for AI Techniques  | Mastering the Art of AI Prompts - A Guide to Unlocking Creative Potential |
 | AI-Tools | Prompts for AI Tools  | Boost Productivity with These Powerful ChatGPT Prompts |
 | Audit | Prompts for Audit  | Audit Observations |
 | Business | Prompts for Business  | 9 ChatGPT Prompts to Find Profitable Market Opportunities |
-| Career-Tips | Prompts for Career Tips  | Mastering Common Interview Questions with ChatGPT |
+| Career | Prompts for Career  | Mastering Common Interview Questions with ChatGPT |
 | Content-Creation | Prompts for Content Creation  | 18 ChatGPT Prompts for Content Creation |
 | Content-Generation | Prompts for Content Generation  | Comprehensive Guide to Creating an eBook from Online Sources |
 | Content-generation | Prompts for Content generation  | 18 ChatGPT Prompts for User Experience |
 | Data-Analysis | Prompts for Data Analysis  | Example Prompts for Data Analysis with ChatGPT |
+| Design | Prompts for Design  | Create a 3D Kawaii-Style Canvas with Chibi Stickers |
 | Education | Prompts for Education  | ChatGPT Prompts for Learning and Development |
 | Excel | Prompts for Excel  | Master Excel with DeepSeek |
 | Fun | Prompts for Fun  | Creative Prompts for Entertainment and Storytelling |
@@ -22,13 +25,22 @@ Prompts are grouped by category below.
 | Productivity | Prompts for Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | Programming | Prompts for Programming  | 10 Useful ChatGPT Prompts for Developers |
 | Prompting | Prompts for Prompting  | 12 Must-Know ChatGPT Prompt Techniques |
-| Writing | Prompts for Writing  | 18 ChatGPT Prompts for SEO |
+| SEO | Prompts for SEO  | 18 ChatGPT Prompts for SEO |
+| Writing | Prompts for Writing  | ChatGPT Prompts for Producing Your Ebook Manuscript |
 | academic-writing | Prompts for academic writing  | Ethical AI Use in Academic Writing – Prompts & Guide |
 | content-generation | Prompts for content generation  | Blog Post Generator |
 | creative-writing | Prompts for creative writing  | Imaginative Creative Writing Prompts |
 | deepseek | Prompts for deepseek  | 2025.04.18 |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
 | learning | Prompts for learning  | 10 Powerful AI-Based Learning Techniques |
+
+## AI-Learning
+
+- [Comprehensive List of Prompt Types with Examples](prompts/learning/prompts.md) - A categorized set of prompts to effectively guide conversations and outputs with AI across various contexts.
+
+## AI-Techniques
+
+- [Mastering the Art of AI Prompts - A Guide to Unlocking Creative Potential](prompts/Productivity/creativity3.md) - Explore a detailed guide to crafting tailored prompts for various domains—enhancing creativity, productivity, and problem-solving.
 
 ## AI-Tools
 
@@ -45,19 +57,23 @@ Prompts are grouped by category below.
 
 - [9 ChatGPT Prompts to Find Profitable Market Opportunities](prompts/Business/Market.md) - Discover 9 powerful ChatGPT prompts to uncover hidden market opportunities, along with 3 real-world examples for each to help spark your next venture.
 
-## Career-Tips
+## Career
 
 - [Mastering Common Interview Questions with ChatGPT](prompts/Career-Tips/Interview.md) - Learn how to master the most common interview questions using ChatGPT, with examples, prompts, pros, cons, and limitations for each. Perfect for job seekers who want to prepare smarter and faster.
+- [Practical and Versatile Prompts for Crafting Cover Letters](prompts/Career-Tips/coverletter.md) - A collection of six tailored prompts to create, polish, and customize cover letters for job seekers.
+- [Prompts for Specialized Tasks](prompts/Productivity/tasks.md) - A collection of tailored prompts to streamline writing, analysis, problem-solving, and tool learning for specific tasks.
+- [Resume Creation Prompts for Tailored Career Documents](prompts/Academics/resumes.md) - A set of focused prompts to craft personalized, impactful resumes and other career-related materials.
 
 ## Content-Creation
 
 - [18 ChatGPT Prompts for Content Creation](prompts/content-generator/content-creation.md) - A versatile collection of ChatGPT prompts to help create compelling content for blogs, videos, emails, and more.
 - [AI-Powered YouTube Video Script Generator](prompts/content-generator/youtube-script.md) - This prompt is designed for content creators, marketers, and YouTubers who want to generate engaging and well-structured scripts for YouTube videos using AI.
-- [Prompts for Crafting Human-Like SEO Content](prompts/content-generator/seo.md) - A detailed prompt template guiding the creation of engaging, human-like SEO articles that balance technical precision and emotional relatability.
 
 ## Content-Generation
 
 - [Comprehensive Guide to Creating an eBook from Online Sources](prompts/content-generator/ebook.md) - This document provides a clear process for creating an engaging eBook by extracting information from a specified web URL. It focuses on structuring content, targeting specific audiences, and implementing cohesive design elements to ensure a seamless reading experience.
+- [Enhanced Writing Prompts](prompts/content-generator/contents.md) - A detailed and comprehensive set of prompts to elevate writing projects across various domains.
+- [Podcast Creation Comprehensive Prompt](prompts/content-generator/podcast.md) - A structured guide for creating podcasts that blend human creativity with AI tools for efficiency and quality.
 
 ## Content-generation
 
@@ -67,6 +83,11 @@ Prompts are grouped by category below.
 
 - [Example Prompts for Data Analysis with ChatGPT](prompts/Data-analysis/chatgpt-data-analysis.md) - This document presents example prompts for utilizing ChatGPT to analyze research data effectively. Each prompt is tailored to specific data-related tasks, ensuring thorough and structured analysis.
 - [Prompts for Research Data Analysis](prompts/Data-analysis/data-analysis-research.md) - This document provides example prompts for utilizing ChatGPT to analyze research data effectively. Each prompt is tailored to specific data-related tasks, ensuring thorough and structured analysis.
+
+## Design
+
+- [Create a 3D Kawaii-Style Canvas with Chibi Stickers](prompts/content-generator/stickers.md) - A creative prompt to generate a 3D kawaii-style canvas in A4 size featuring chibi stickers with unique expressions and fun phrases.
+- [Trending Prompts for Stunning Image Generation](prompts/content-generator/image-generation.md) - A curated collection of prompts to inspire visually captivating AI-generated images across diverse themes.
 
 ## Education
 
@@ -96,6 +117,7 @@ Prompts are grouped by category below.
 - [18 ChatGPT Prompts for Digital Marketing](prompts/Business/digital-marketing.md) - A curated collection of prompts to assist digital marketers in creating content for multiple platforms, from social media posts to email sequences.
 - [18 ChatGPT Prompts for Social Media Marketing](prompts/content-generator/social-media.md) - A collection of expert prompts for creating engaging social media content across platforms and formats.
 - [Comprehensive Marketing and Content Prompt Guide](prompts/Business/marketing.md) - A curated collection of 50 versatile prompts tailored for marketing campaigns and content creation, designed to enhance creativity and strategic execution.
+- [Comprehensive Marketing Prompts](prompts/Business/marketing2.md) - A collection of versatile prompts for optimizing marketing efforts, from campaign planning to creative content generation.
 
 ## Productivity
 
@@ -107,6 +129,9 @@ Prompts are grouped by category below.
 - [Enhanced Productivity and Creativity Prompts with ChatGPT](prompts/Productivity/creative.md) - A collection of practical and creative prompts tailored to boost productivity, streamline workflows, and unlock creativity using ChatGPT.
 - [Formula for Crafting Effective ChatGPT Prompts](prompts/Productivity/chatgpt.md) - This document outlines a comprehensive formula for creating effective and precise ChatGPT prompts. By using structured components like roles, tasks, context, examples, and constraints, users can achieve highly relevant and actionable outputs.
 - [Maximizing ChatGPT with Structured Prompts Across Applications](prompts/Productivity/produtivity2.md) - A guide that categorizes and explains structured prompts for utilizing ChatGPT effectively. Includes examples and uses for business, content creation, learning, and personal development.
+- [Prompts for Enhancing Productivity Across Fields](prompts/Academics/resume.md) - Practical prompts to streamline tasks and boost creativity in various fields like marketing, education, and technology.
+- [Prompts for Professional Productivity](prompts/Productivity/professional.md) - A curated collection of practical prompts to optimize professional tasks and improve workflow efficiency.
+- [Prompts for Versatile Use Cases](prompts/Productivity/creativity.md) - A set of diverse ChatGPT prompts to enhance creativity, knowledge, and problem-solving across various tasks.
 
 ## Programming
 
@@ -116,6 +141,7 @@ Prompts are grouped by category below.
 - [ChatGPT Prompts for Data Science](prompts/app-development/data-science.md) - A versatile set of prompts to tackle tasks in data science, including modeling, visualization, and cleaning.
 - [ChatGPT Prompts for Software Development](prompts/app-development/sw-develop.md) - A versatile collection of prompts to assist with software development, from architecture and testing to documentation and code improvement.
 - [Cross-Platform Audit App Development Plan](prompts/app-development/audit-app.md) - Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
+- [Prompts for Coding and Project Generation](prompts/Academics/projects.md) - A collection of creative prompts to inspire app development, website creation, and GitHub project setups.
 - [Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR](prompts/app-development/camscanner-app.md) - Build an advanced Android camera document scanning app with smart features, OCR, AI-enhanced image processing, and optimized performance.
 
 ## Prompting
@@ -134,9 +160,14 @@ Prompts are grouped by category below.
 - [Grok 3 Prompting Master Cheat Sheet](prompts/AITools/grok.md) - Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.
 - [Prompt Engineering Guide for SaaS Product Development](prompts/content-generator/saas.md) - A detailed guide to crafting effective prompts for building a successful SaaS product, with focus on technical, business, and implementation aspects.
 
-## Writing
+## SEO
 
 - [18 ChatGPT Prompts for SEO](prompts/content-generator/seos.md) - A set of advanced prompts to streamline SEO tasks, from meta descriptions to content gap analysis and keyword research.
+- [Advanced SEO Strategies and Content Optimization Prompts](prompts/content-generator/seo-prompt.md) - A collection of actionable SEO prompts to enhance content strategy, search rankings, and overall site performance.
+- [Prompts for Crafting Human-Like SEO Content](prompts/content-generator/seo.md) - A detailed prompt template guiding the creation of engaging, human-like SEO articles that balance technical precision and emotional relatability.
+
+## Writing
+
 - [ChatGPT Prompts for Producing Your Ebook Manuscript](prompts/content-generator/manuscript.md) - A comprehensive guide to using ChatGPT for crafting an engaging and market-ready ebook, covering everything from back cover descriptions to manuscript creation and graphics.
 - [ChatGPT Prompts for Writing a Book](prompts/content-generator/book-writer.md) - A detailed collection of ChatGPT prompts to assist authors in various stages of book writing, from outlining to character development and marketing strategies.
 - [ChatGPT Prompts for Writing an Ebook](prompts/content-generator/ebooks.md) - A versatile collection of prompts that guide authors through the ebook writing process, from ideation to proofreading and marketing.
@@ -145,7 +176,14 @@ Prompts are grouped by category below.
 - [Effective ChatGPT Prompts for Creating User Manuals](prompts/content-generator/manuals.md) - A guide with prompts and strategies to leverage ChatGPT for creating clear, user-friendly technical manuals.
 - [Essential ChatGPT Prompts for Technical Documentation](prompts/content-generator/technical-documentation.md) - A curated collection of prompts for creating comprehensive, user-friendly technical documents with ChatGPT.
 - [Fictional Character Technical Advisor Prompt](prompts/content-generator/fiction.md) - A structured guide to assist fiction writers in crafting highly realistic and detailed technical achievements for their characters.
+- [Prompts for Crafting Audit Manuals and Guidelines](prompts/Academics/audit-manuals.md) - A collection of focused and detailed prompts to assist in creating audit-focused ebooks across industries.
+- [Prompts for Crafting Ebooks Focused on Manuals and Guidelines](prompts/Academics/manuals.md) - A collection of structured prompts for creating official documents, including manuals and guidelines for various industries.
+- [Prompts for Crafting Government Audit Manuals and Guidelines](prompts/Academics/documents.md) - A detailed set of prompts to create structured and informative ebooks focused on government audits using acts and regulations.
+- [Prompts for Writing a Book](prompts/Academics/book.md) - A detailed framework for brainstorming, drafting, refining, and marketing books in various genres and styles.
 - [Prompts to Write a Nonfiction Ebook](prompts/content-generator/non-fiction.md) - A collection of prompts to guide authors in every stage of nonfiction ebook creation, from ideation to marketing.
+- [Step-by-Step Book Writing Prompts](prompts/Academics/books.md) - A detailed set of prompts to assist with brainstorming, writing, refining, and marketing your book project.
+- [Supercharge Your Creativity - Using AI to Brainstorm Like Never Before](prompts/Productivity/creativity2.md) - A structured guide to maximizing brainstorming potential using AI techniques for innovative solutions and unique perspectives.
+- [Trending Ebook Prompts for Your Next Writing Project](prompts/content-generator/writing.md) - A collection of detailed prompts to inspire creativity and craft engaging ebook stories or guides.
 
 ## academic-writing
 

@@ -1,6 +1,6 @@
 ---
 title: Prompts for Crafting Human-Like SEO Content
-category: Content-Creation
+category: SEO
 description: A detailed prompt template guiding the creation of engaging, human-like SEO articles that balance technical precision and emotional relatability.
 ---
 

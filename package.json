@@ -1,12 +1,8 @@
 {
-    "name": "prompts-repo",
-    "version": "1.0.0",
-    "description": "A repository for GPT prompt templates",
-    "scripts": {
-      "contributors:add": "all-contributors add",
-      "contributors:generate": "all-contributors generate"
-    },
-    "devDependencies": {
-      "all-contributors-cli": "^6.20.0"
-    }
+  "name": "recipe-repo",
+  "version": "1.0.0",
+  "dependencies": {
+    "lunr": "^2.3.9",
+    "markdown-it": "^14.1.0"
   }
+}

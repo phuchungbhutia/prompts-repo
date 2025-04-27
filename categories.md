@@ -16,6 +16,7 @@ Prompts are grouped by category below.
 | Content-Generation | Prompts for Content Generation  | Comprehensive Guide to Creating an eBook from Online Sources |
 | Content-generation | Prompts for Content generation  | 18 ChatGPT Prompts for User Experience |
 | Creative | Prompts for Creative  | Comprehensive Brainstorming Prompts |
+| Creativity | Prompts for Creativity  | Practical and Engaging Prompts for AI Productivity |
 | Data-Analysis | Prompts for Data Analysis  | Example Prompts for Data Analysis with ChatGPT |
 | Design | Prompts for Design  | Create a 3D Kawaii-Style Canvas with Chibi Stickers |
 | Education | Prompts for Education  | ChatGPT Prompts for Learning and Development |
@@ -46,6 +47,7 @@ Prompts are grouped by category below.
 ## AI-Tools
 
 - [Boost Productivity with These Powerful ChatGPT Prompts](prompts/AITools/productivity.md) - Learn how to maximize your productivity in 2025 using ChatGPT prompts. This blog breaks down the structure, examples, and best practices to make ChatGPT your ultimate task partner.
+- [Comprehensive Prompt for Maximizing Free AI Tools](prompts/AITools/tools.md) - A structured guide for effectively using free AI tools to achieve creative, professional, and research goals.
 - [Problem Solving Using Mental Models](prompts/AITools/Problem-Solving.md) - Learn how to use ChatGPT more effectively by applying 9 powerful mental models for problem solving. Each framework includes 3 practical examples to guide your strategy, planning, and execution.
 
 ## Audit
@@ -69,6 +71,7 @@ Prompts are grouped by category below.
 
 - [18 ChatGPT Prompts for Content Creation](prompts/content-generator/content-creation.md) - A versatile collection of ChatGPT prompts to help create compelling content for blogs, videos, emails, and more.
 - [AI-Powered YouTube Video Script Generator](prompts/content-generator/youtube-script.md) - This prompt is designed for content creators, marketers, and YouTubers who want to generate engaging and well-structured scripts for YouTube videos using AI.
+- [Fresh and Impactful Brand Content Prompts](prompts/content-generator/content-prompt.md) - Detailed prompts designed for creating effective content strategies, engaging audience interactions, and solving creative challenges.
 
 ## Content-Generation
 
@@ -84,6 +87,10 @@ Prompts are grouped by category below.
 
 - [Comprehensive Brainstorming Prompts](prompts/Academics/brainstorm.md) - Detailed prompts to utilize brainstorming frameworks and techniques for generating innovative ideas.
 - [Income-Generating AI Prompts Across Fields](prompts/Business/income-generator.md) - Comprehensive prompts leveraging AI to generate income across content creation, e-commerce, finance, healthcare, education, and more.
+
+## Creativity
+
+- [Practical and Engaging Prompts for AI Productivity](prompts/Productivity/productivity3.md) - A curated set of prompts designed to help users maximize AI capabilities for learning, creating, and achieving personal or professional goals.
 
 ## Data-Analysis
 
@@ -124,6 +131,7 @@ Prompts are grouped by category below.
 - [18 ChatGPT Prompts for Social Media Marketing](prompts/content-generator/social-media.md) - A collection of expert prompts for creating engaging social media content across platforms and formats.
 - [Comprehensive Marketing and Content Prompt Guide](prompts/Business/marketing.md) - A curated collection of 50 versatile prompts tailored for marketing campaigns and content creation, designed to enhance creativity and strategic execution.
 - [Comprehensive Marketing Prompts](prompts/Business/marketing2.md) - A collection of versatile prompts for optimizing marketing efforts, from campaign planning to creative content generation.
+- [Detailed Prompts and AI Tools for Impactful Content and Problem Solving](prompts/Business/sales.md) - A comprehensive guide to creating tailored prompts for diverse challenges, paired with AI tools to amplify results.
 
 ## Productivity
 
@@ -161,6 +169,7 @@ Prompts are grouped by category below.
 - [ChatGPT Prompt Guide for Structured Usage](prompts/AITools/chatgpt3.md) - This guide provides a comprehensive explanation and examples of structured prompts to use ChatGPT effectively. It covers various roles, techniques, and use cases to help users optimize their interactions and generate precise responses.
 - [ChatGPT Prompting Frameworks Explained](prompts/AITools/frameworks.md) - Learn how to unlock the full potential of ChatGPT using four powerful prompting frameworks—RTF, BAB, CAR, and TARG. Includes examples, use cases, pros, cons, and limitations.
 - [Cheat Sheet for Crafting Effective ChatGPT Prompts](prompts/AITools/chatgpt4.md) - This cheat sheet provides a structured approach to writing effective ChatGPT prompts using roles, tasks, formats, linked prompting, and prompt priming techniques. Enhance precision, clarity, and actionable responses through these frameworks.
+- [Comprehensive and Detailed Prompt Frameworks](prompts/content-generator/framework.md) - A set of five step-by-step prompts tailored for specific fields, crafted to inspire precision, creativity, and actionable insights.
 - [DeepSeek AI Prompt Hacks Cheat Sheet](prompts/AITools/deepseek.md) - A comprehensive cheat sheet of DeepSeek AI prompt hacks with categorized examples to help you create powerful AI-generated content, resumes, code, educational material, and more.
 - [DeepSeek Cheat Sheet - AI Prompts for Skill Building, Business & Productivity](prompts/AITools/deepseek2.md) - A detailed guide to using DeepSeek AI for skill development, business consulting, content creation, writing improvement, productivity, and more—featuring ready-to-use prompts and examples.
 - [Grok 3 Prompting Master Cheat Sheet](prompts/AITools/grok.md) - Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.

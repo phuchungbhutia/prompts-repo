@@ -27,10 +27,10 @@ Prompts are grouped by category below.
 | Prompting | Prompts for Prompting  | 12 Must-Know ChatGPT Prompt Techniques |
 | SEO | Prompts for SEO  | 18 ChatGPT Prompts for SEO |
 | Writing | Prompts for Writing  | ChatGPT Prompts for Producing Your Ebook Manuscript |
-| academic-writing | Prompts for academic writing  | Ethical AI Use in Academic Writing – Prompts & Guide |
+| academic-writing | Prompts for academic writing  | Comprehensive Thesis Chapter Prompts |
 | content-generation | Prompts for content generation  | Blog Post Generator |
 | creative-writing | Prompts for creative writing  | Imaginative Creative Writing Prompts |
-| deepseek | Prompts for deepseek  | 2025.04.18 |
+| deepseek | Prompts for deepseek  | Deepseek prompts |
 | health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
 | learning | Prompts for learning  | 10 Powerful AI-Based Learning Techniques |
 
@@ -136,11 +136,11 @@ Prompts are grouped by category below.
 ## Programming
 
 - [10 Useful ChatGPT Prompts for Developers](prompts/app-development/software-development2.md) - A detailed guide to 10 essential ChatGPT prompts designed to assist developers in various aspects of software development, including coding, debugging, API design, database management, and learning best practices.
-- [15 Must-Have ChatGPT Prompts for Developers](prompts/app-development/software-development.md) - A collection of essential ChatGPT prompts to improve developer efficiency and productivity.
 - [50 Prompts for Extracting Text from PDF Tables Using Excel, Power Query, and Python](prompts/app-development/data-extraction.md) - A comprehensive guide with 50 prompts to extract text from tables in multiple PDF files using Excel, Power Query, and Python. This includes formula-based, automated, and code-driven approaches for handling complex data structures.
 - [ChatGPT Prompts for Data Science](prompts/app-development/data-science.md) - A versatile set of prompts to tackle tasks in data science, including modeling, visualization, and cleaning.
 - [ChatGPT Prompts for Software Development](prompts/app-development/sw-develop.md) - A versatile collection of prompts to assist with software development, from architecture and testing to documentation and code improvement.
 - [Cross-Platform Audit App Development Plan](prompts/app-development/audit-app.md) - Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
+- [Developer Prompts for Productivity and Clarity](prompts/app-development/software-development.md) - A set of detailed prompts to guide developers in specific scenarios, ensuring maximum efficiency and clear outcomes.
 - [Prompts for Coding and Project Generation](prompts/Academics/projects.md) - A collection of creative prompts to inspire app development, website creation, and GitHub project setups.
 - [Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR](prompts/app-development/camscanner-app.md) - Build an advanced Android camera document scanning app with smart features, OCR, AI-enhanced image processing, and optimized performance.
 
@@ -187,9 +187,9 @@ Prompts are grouped by category below.
 
 ## academic-writing
 
+- [Comprehensive Thesis Chapter Prompts](prompts/Academics/research-academics.md) - Detailed prompts for guiding the creation of each thesis chapter, from introduction to references.
 - [Ethical AI Use in Academic Writing – Prompts & Guide](prompts/Academics/academics.md) - A complete guide and prompt collection for using AI tools ethically in academic writing. Includes detailed steps, do’s and don’ts, and professional prompt templates.
 - [Generate Research Papers](prompts/Academics/research-papers.md) - A structured prompt for generating comprehensive research papers using provided content. Includes sections for literature review, findings, case studies, and recommendations—complete with citations and future exploration paths.
-- [Thesis Outline – 7 Chapters with Detailed Elements](prompts/Academics/research-academics.md) - This guide breaks down a typical thesis structure into 7 chapters with detailed sub-elements, examples, purposes, and practical uses. Ideal for students planning and writing academic theses.
 
 ## content-generation
 
@@ -201,7 +201,7 @@ Prompts are grouped by category below.
 
 ## deepseek
 
-- [2025.04.18](prompts/deepseek/2025.04.18.md) - Collection of Deepseek prompts
+- [Deepseek prompts](prompts/deepseek/2025.04.18.md) - Collection of Deepseek prompts
 
 ## health-nutrition
 

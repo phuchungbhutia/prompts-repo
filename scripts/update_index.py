@@ -44,7 +44,7 @@ def collect_prompts(prompts_dir):
     return sorted(prompts, key=lambda x: x['title'].lower())
 
 def generate_mermaid_diagram(categories):
-    """Generate a dynamic Mermaid diagram including all categories."""
+    """Generate a dynamic Mermaid diagram showing only categories (not prompts)."""
     lines = [
         "```mermaid",
         "graph TD",
@@ -54,16 +54,11 @@ def generate_mermaid_diagram(categories):
         "    A --> E[docs/images]"
     ]
     category_nodes = []
-    file_nodes = []
     for i, category in enumerate(sorted(categories)):
         cat_node = f"CAT{i+1}[{category}]"
         category_nodes.append(f"    B --> {cat_node}")
-        for j, prompt in enumerate(categories[category]):
-            file_node = f"F{i+1}{j+1}[{prompt['title']}.md]"
-            file_nodes.append(f"    {cat_node} --> {file_node}")
     
     lines.extend(category_nodes)
-    lines.extend(file_nodes)
     lines.extend([
         "    C --> S[update_index.py]",
         "    D --> W[update-index.yml]",
@@ -73,6 +68,7 @@ def generate_mermaid_diagram(categories):
     ])
     lines.append("```")
     return lines
+
 
 def update_readme(prompts):
     """Update README.md with enhanced content."""

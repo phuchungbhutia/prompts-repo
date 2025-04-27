@@ -1,8 +1,0 @@
-{
-  "name": "recipe-repo",
-  "version": "1.0.0",
-  "dependencies": {
-    "lunr": "^2.3.9",
-    "markdown-it": "^14.1.0"
-  }
-}

@@ -16,35 +16,27 @@ graph TD
     A --> C[scripts]
     A --> D[.github/workflows]
     A --> E[docs/images]
-    B --> CAT1[AI-Learning]
-    B --> CAT2[AI-Techniques]
-    B --> CAT3[AI-Tools]
-    B --> CAT4[Audit]
-    B --> CAT5[Business]
-    B --> CAT6[Career]
-    B --> CAT7[Content-Creation]
-    B --> CAT8[Content-Generation]
-    B --> CAT9[Content-generation]
-    B --> CAT10[Creative]
-    B --> CAT11[Creativity]
-    B --> CAT12[Data-Analysis]
-    B --> CAT13[Design]
-    B --> CAT14[Education]
-    B --> CAT15[Excel]
-    B --> CAT16[Fun]
-    B --> CAT17[Learning]
-    B --> CAT18[Marketing]
-    B --> CAT19[Productivity]
-    B --> CAT20[Programming]
-    B --> CAT21[Prompting]
-    B --> CAT22[SEO]
-    B --> CAT23[Writing]
-    B --> CAT24[academic-writing]
-    B --> CAT25[content-generation]
-    B --> CAT26[creative-writing]
-    B --> CAT27[deepseek]
-    B --> CAT28[health-nutrition]
-    B --> CAT29[learning]
+    B --> CAT1[AI-Tools]
+    B --> CAT2[Audit]
+    B --> CAT3[Business]
+    B --> CAT4[Career]
+    B --> CAT5[Content-Creation]
+    B --> CAT6[Content-Generation]
+    B --> CAT7[Creativity]
+    B --> CAT8[Data-Analysis]
+    B --> CAT9[Deepseek]
+    B --> CAT10[Design]
+    B --> CAT11[Education]
+    B --> CAT12[Excel]
+    B --> CAT13[Fun]
+    B --> CAT14[Health]
+    B --> CAT15[Learning]
+    B --> CAT16[Marketing]
+    B --> CAT17[Productivity]
+    B --> CAT18[Programming]
+    B --> CAT19[Prompting]
+    B --> CAT20[SEO]
+    B --> CAT21[Writing]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -56,35 +48,27 @@ graph TD
 
 | Category     | Description                              | Example Prompt              |
 |--------------|------------------------------------------|-----------------------------|
-| AI-Learning | Prompts for AI Learning  | Comprehensive List of Prompt Types with Examples |
-| AI-Techniques | Prompts for AI Techniques  | Mastering the Art of AI Prompts - A Guide to Unlocking Creative Potential |
 | AI-Tools | Prompts for AI Tools  | Boost Productivity with These Powerful ChatGPT Prompts |
 | Audit | Prompts for Audit  | Audit Observations |
 | Business | Prompts for Business  | 9 ChatGPT Prompts to Find Profitable Market Opportunities |
 | Career | Prompts for Career  | Mastering Common Interview Questions with ChatGPT |
 | Content-Creation | Prompts for Content Creation  | 18 ChatGPT Prompts for Content Creation |
-| Content-Generation | Prompts for Content Generation  | Comprehensive Guide to Creating an eBook from Online Sources |
-| Content-generation | Prompts for Content generation  | 18 ChatGPT Prompts for User Experience |
-| Creative | Prompts for Creative  | Comprehensive Brainstorming Prompts |
-| Creativity | Prompts for Creativity  | Practical and Engaging Prompts for AI Productivity |
+| Content-Generation | Prompts for Content Generation  | 18 ChatGPT Prompts for User Experience |
+| Creativity | Prompts for Creativity  | Comprehensive Brainstorming Prompts |
 | Data-Analysis | Prompts for Data Analysis  | Example Prompts for Data Analysis with ChatGPT |
+| Deepseek | Prompts for Deepseek  | Deepseek prompts |
 | Design | Prompts for Design  | Create a 3D Kawaii-Style Canvas with Chibi Stickers |
 | Education | Prompts for Education  | ChatGPT Prompts for Learning and Development |
-| Excel | Prompts for Excel  | Master Excel with DeepSeek |
+| Excel | Prompts for Excel  | Advanced Excel Skill Mastery Using AI Prompts |
 | Fun | Prompts for Fun  | Creative Prompts for Entertainment and Storytelling |
-| Learning | Prompts for Learning  | 10 Powerful AI-Based Learning Techniques for Mastering Any Topic |
+| Health | Prompts for Health  | Create a Comprehensive Healthy Meal Plan Guide |
+| Learning | Prompts for Learning  | 10 Powerful AI-Based Learning Techniques |
 | Marketing | Prompts for Marketing  | 18 ChatGPT Prompts for Advertising |
 | Productivity | Prompts for Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | Programming | Prompts for Programming  | 10 Useful ChatGPT Prompts for Developers |
 | Prompting | Prompts for Prompting  | 12 Must-Know ChatGPT Prompt Techniques |
 | SEO | Prompts for SEO  | 18 ChatGPT Prompts for SEO |
 | Writing | Prompts for Writing  | ChatGPT Prompts for Producing Your Ebook Manuscript |
-| academic-writing | Prompts for academic writing  | Comprehensive Thesis Chapter Prompts |
-| content-generation | Prompts for content generation  | Blog Post Generator |
-| creative-writing | Prompts for creative writing  | Imaginative Creative Writing Prompts |
-| deepseek | Prompts for deepseek  | Deepseek prompts |
-| health-nutrition | Prompts for health nutrition  | Create a Comprehensive Healthy Meal Plan Guide |
-| learning | Prompts for learning  | 10 Powerful AI-Based Learning Techniques |
 
 ## Prompts
 
@@ -101,6 +85,7 @@ graph TD
 - [5 Problem-Solving Method Prompts for Founders & CEOs](prompts/AITools/5tools.md) - Practical ChatGPT prompts for applying five strategic problem-solving frameworks—Pre-Mortem, 5 Whys, Decision Tree, SWOT, and Impact vs Effort Matrix.
 - [50 Prompts for Extracting Text from PDF Tables Using Excel, Power Query, and Python](prompts/app-development/data-extraction.md) - A comprehensive guide with 50 prompts to extract text from tables in multiple PDF files using Excel, Power Query, and Python. This includes formula-based, automated, and code-driven approaches for handling complex data structures.
 - [9 ChatGPT Prompts to Find Profitable Market Opportunities](prompts/Business/Market.md) - Discover 9 powerful ChatGPT prompts to uncover hidden market opportunities, along with 3 real-world examples for each to help spark your next venture.
+- [Advanced Excel Skill Mastery Using AI Prompts](prompts/excel/excel.md) - A curated list of prompts tailored to leverage AI tools for mastering Excel functionality, including formula creation, data cleaning, visualization, and automation.
 - [Advanced SEO Strategies and Content Optimization Prompts](prompts/content-generator/seo-prompt.md) - A collection of actionable SEO prompts to enhance content strategy, search rankings, and overall site performance.
 - [AI-Powered YouTube Video Script Generator](prompts/content-generator/youtube-script.md) - This prompt is designed for content creators, marketers, and YouTubers who want to generate engaging and well-structured scripts for YouTube videos using AI.
 - [Audit Observations](prompts/audit/observations.md) - Prompt for Writing Audit Observations
@@ -126,6 +111,7 @@ graph TD
 - [ChatGPT Prompts for Writing a Book](prompts/content-generator/book-writer.md) - A detailed collection of ChatGPT prompts to assist authors in various stages of book writing, from outlining to character development and marketing strategies.
 - [ChatGPT Prompts for Writing an Ebook](prompts/content-generator/ebooks.md) - A versatile collection of prompts that guide authors through the ebook writing process, from ideation to proofreading and marketing.
 - [Cheat Sheet for Crafting Effective ChatGPT Prompts](prompts/AITools/chatgpt4.md) - This cheat sheet provides a structured approach to writing effective ChatGPT prompts using roles, tasks, formats, linked prompting, and prompt priming techniques. Enhance precision, clarity, and actionable responses through these frameworks.
+- [Comprehensive Affiliate Marketing Prompts](prompts/Business/affiliate.md) - A curated list of prompts designed for effective planning, campaign optimization, and compliance in affiliate marketing across various niches.
 - [Comprehensive and Detailed Prompt Frameworks](prompts/content-generator/framework.md) - A set of five step-by-step prompts tailored for specific fields, crafted to inspire precision, creativity, and actionable insights.
 - [Comprehensive Brainstorming Prompts](prompts/Academics/brainstorm.md) - Detailed prompts to utilize brainstorming frameworks and techniques for generating innovative ideas.
 - [Comprehensive Guide to Creating an eBook from Online Sources](prompts/content-generator/ebook.md) - This document provides a clear process for creating an engaging eBook by extracting information from a specified web URL. It focuses on structuring content, targeting specific audiences, and implementing cohesive design elements to ensure a seamless reading experience.
@@ -135,6 +121,7 @@ graph TD
 - [Comprehensive Prompt for Maximizing Free AI Tools](prompts/AITools/tools.md) - A structured guide for effectively using free AI tools to achieve creative, professional, and research goals.
 - [Comprehensive Prompt Guide for Authors](prompts/content-generator/ebook-writer.md) - A versatile collection of prompts tailored for authors to enhance book outlining, character development, plot troubleshooting, and more.
 - [Comprehensive Prompt Guide for Strategic and Creative Tasks](prompts/learning/creative.md) - A detailed collection of actionable prompts to support strategic analysis, marketing initiatives, project planning, content creation, and personal development.
+- [Comprehensive Sales & Marketing Prompt Guide](prompts/Business/sales-strategy.md) - A collection of prompts to create impactful sales and marketing strategies, engaging content, and actionable plans to overcome challenges.
 - [Comprehensive Thesis Chapter Prompts](prompts/Academics/research-academics.md) - Detailed prompts for guiding the creation of each thesis chapter, from introduction to references.
 - [Create a 3D Kawaii-Style Canvas with Chibi Stickers](prompts/content-generator/stickers.md) - A creative prompt to generate a 3D kawaii-style canvas in A4 size featuring chibi stickers with unique expressions and fun phrases.
 - [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.
@@ -157,6 +144,7 @@ graph TD
 - [Fictional Character Technical Advisor Prompt](prompts/content-generator/fiction.md) - A structured guide to assist fiction writers in crafting highly realistic and detailed technical achievements for their characters.
 - [Formula for Crafting Effective ChatGPT Prompts](prompts/Productivity/chatgpt.md) - This document outlines a comprehensive formula for creating effective and precise ChatGPT prompts. By using structured components like roles, tasks, context, examples, and constraints, users can achieve highly relevant and actionable outputs.
 - [Frequently Used Words in ChatGPT Conversations](prompts/Academics/chatgpt-words.md) - Categorized lists of commonly used words and phrases in ChatGPT interactions, with examples to illustrate their usage.
+- [Fresh and Impactful Brand Content Prompts](prompts/Business/branding.md) - Detailed prompts designed for creating effective content strategies, engaging audience interactions, and solving creative challenges.
 - [Fresh and Impactful Brand Content Prompts](prompts/content-generator/content-prompt.md) - Detailed prompts designed for creating effective content strategies, engaging audience interactions, and solving creative challenges.
 - [Generate Research Papers](prompts/Academics/research-papers.md) - A structured prompt for generating comprehensive research papers using provided content. Includes sections for literature review, findings, case studies, and recommendations—complete with citations and future exploration paths.
 - [Grok 3 Prompting Master Cheat Sheet](prompts/AITools/grok.md) - Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.
@@ -188,6 +176,7 @@ graph TD
 - [Resume Creation Prompts for Tailored Career Documents](prompts/Academics/resumes.md) - A set of focused prompts to craft personalized, impactful resumes and other career-related materials.
 - [Step-by-Step Book Writing Prompts](prompts/Academics/books.md) - A detailed set of prompts to assist with brainstorming, writing, refining, and marketing your book project.
 - [Supercharge Your Creativity - Using AI to Brainstorm Like Never Before](prompts/Productivity/creativity2.md) - A structured guide to maximizing brainstorming potential using AI techniques for innovative solutions and unique perspectives.
+- [Tailored Prompts for Diverse Professional Needs](prompts/content-generator/professionals.md) - A collection of prompts designed for learning, design, development, marketing, and copywriting tasks, offering impactful and creative solutions.
 - [Trending Ebook Prompts for Your Next Writing Project](prompts/content-generator/writing.md) - A collection of detailed prompts to inspire creativity and craft engaging ebook stories or guides.
 - [Trending Prompts for Stunning Image Generation](prompts/content-generator/image-generation.md) - A curated collection of prompts to inspire visually captivating AI-generated images across diverse themes.
 - [Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR](prompts/app-development/camscanner-app.md) - Build an advanced Android camera document scanning app with smart features, OCR, AI-enhanced image processing, and optimized performance.

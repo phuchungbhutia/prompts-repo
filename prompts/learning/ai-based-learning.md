@@ -1,6 +1,6 @@
 ---
 title: 10 Powerful AI-Based Learning Techniques
-category: learning
+category: Learning
 description: Master any topic faster with these 10 optimized prompt templates designed to enhance understanding, retention, and motivation.
 ---
 

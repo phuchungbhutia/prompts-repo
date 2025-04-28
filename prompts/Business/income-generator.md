@@ -1,6 +1,6 @@
 ---
 title: Income-Generating AI Prompts Across Fields
-category: Creative
+category: Creativity
 description: Comprehensive prompts leveraging AI to generate income across content creation, e-commerce, finance, healthcare, education, and more.
 ---
 

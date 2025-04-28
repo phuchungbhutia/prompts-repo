@@ -1,6 +1,6 @@
 ---
 title: Comprehensive Thesis Chapter Prompts
-category: academic-writing  
+category: Writing  
 description: Detailed prompts for guiding the creation of each thesis chapter, from introduction to references.
 ---
 

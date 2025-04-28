@@ -1,6 +1,6 @@
 ---
 title: Ethical AI Use in Academic Writing – Prompts & Guide  
-category: academic-writing  
+category: Writing  
 description: A complete guide and prompt collection for using AI tools ethically in academic writing. Includes detailed steps, do’s and don’ts, and professional prompt templates.
 
 ---

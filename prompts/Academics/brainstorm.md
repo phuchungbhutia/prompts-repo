@@ -1,6 +1,6 @@
 ---
 title: Comprehensive Brainstorming Prompts
-category: Creative
+category: Creativity
 description: Detailed prompts to utilize brainstorming frameworks and techniques for generating innovative ideas.
 ---
 

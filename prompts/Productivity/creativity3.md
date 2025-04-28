@@ -1,6 +1,6 @@
 ---
 title: Mastering the Art of AI Prompts - A Guide to Unlocking Creative Potential
-category: AI-Techniques
+category: Prompting
 description: Explore a detailed guide to crafting tailored prompts for various domains—enhancing creativity, productivity, and problem-solving.
 ---
 

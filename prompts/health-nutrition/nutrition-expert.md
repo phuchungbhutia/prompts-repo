@@ -1,6 +1,6 @@
 ---
 title: Create a Comprehensive Healthy Meal Plan Guide
-category: health-nutrition
+category: Health
 description: Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.
 ---
 

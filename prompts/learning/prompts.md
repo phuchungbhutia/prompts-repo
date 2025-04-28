@@ -1,6 +1,6 @@
 ---
 title: Comprehensive List of Prompt Types with Examples
-category: AI-Learning
+category: Learning
 description: A categorized set of prompts to effectively guide conversations and outputs with AI across various contexts.
 ---
 

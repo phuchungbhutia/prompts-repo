@@ -172,7 +172,7 @@ def update_readme(prompts):
         "",
         "![Indexing Script](docs/images/indexing.png)",
         "",
-        "(https://www.flaticon.com/free-icons/layout)"
+        "[Flaticon](https://www.flaticon.com/free-icons/layout)"
     ])
     
     with open('README.md', 'w', encoding='utf-8') as f:

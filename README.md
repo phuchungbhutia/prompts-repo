@@ -245,4 +245,4 @@ MIT License. See [LICENSE](LICENSE) for details.
 
 ![Indexing Script](docs/images/indexing.png)
 
-(https://www.flaticon.com/free-icons/layout)
+[Flaticon](https://www.flaticon.com/free-icons/layout)

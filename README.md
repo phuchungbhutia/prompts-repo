@@ -32,11 +32,12 @@ graph TD
     B --> CAT14[Health]
     B --> CAT15[Learning]
     B --> CAT16[Marketing]
-    B --> CAT17[Productivity]
-    B --> CAT18[Programming]
-    B --> CAT19[Prompting]
-    B --> CAT20[SEO]
-    B --> CAT21[Writing]
+    B --> CAT17[Office]
+    B --> CAT18[Productivity]
+    B --> CAT19[Programming]
+    B --> CAT20[Prompting]
+    B --> CAT21[SEO]
+    B --> CAT22[Writing]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -64,6 +65,7 @@ graph TD
 | Health | Prompts for Health  | Create a Comprehensive Healthy Meal Plan Guide |
 | Learning | Prompts for Learning  | 10 Powerful AI-Based Learning Techniques |
 | Marketing | Prompts for Marketing  | 18 ChatGPT Prompts for Advertising |
+| Office | Prompts for Office  | Universal Prompt for Drafting Official Notings |
 | Productivity | Prompts for Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | Programming | Prompts for Programming  | 10 Useful ChatGPT Prompts for Developers |
 | Prompting | Prompts for Prompting  | 12 Must-Know ChatGPT Prompt Techniques |
@@ -180,6 +182,7 @@ graph TD
 - [Trending Ebook Prompts for Your Next Writing Project](prompts/content-generator/writing.md) - A collection of detailed prompts to inspire creativity and craft engaging ebook stories or guides.
 - [Trending Prompts for Stunning Image Generation](prompts/content-generator/image-generation.md) - A curated collection of prompts to inspire visually captivating AI-generated images across diverse themes.
 - [Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR](prompts/app-development/camscanner-app.md) - Build an advanced Android camera document scanning app with smart features, OCR, AI-enhanced image processing, and optimized performance.
+- [Universal Prompt for Drafting Official Notings](prompts/audit/noting.md) - A structured and comprehensive prompt for drafting official notings in compliance with the Manual of Office Procedure (MOP), 2010, and Central Secretariat Manual of Office Procedure (CSMOP), 15th Edition, 2022.
 - [Use AI to Learn Anything Faster](prompts/AITools/learn-faster.md) - A practical guide on how to leverage AI tools like ChatGPT to supercharge your learning using proven techniques like simplification, analogies, quizzes, mind maps, and more.
 
 ## Installation

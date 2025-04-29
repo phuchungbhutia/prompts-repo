@@ -22,6 +22,7 @@ Prompts are grouped by category below.
 | Health | Prompts for Health  | Create a Comprehensive Healthy Meal Plan Guide |
 | Learning | Prompts for Learning  | 10 Powerful AI-Based Learning Techniques |
 | Marketing | Prompts for Marketing  | 18 ChatGPT Prompts for Advertising |
+| Office | Prompts for Office  | Universal Prompt for Drafting Official Notings |
 | Productivity | Prompts for Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | Programming | Prompts for Programming  | 10 Useful ChatGPT Prompts for Developers |
 | Prompting | Prompts for Prompting  | 12 Must-Know ChatGPT Prompt Techniques |
@@ -126,6 +127,10 @@ Prompts are grouped by category below.
 - [Comprehensive Marketing Prompts](prompts/Business/marketing2.md) - A collection of versatile prompts for optimizing marketing efforts, from campaign planning to creative content generation.
 - [Comprehensive Sales & Marketing Prompt Guide](prompts/Business/sales-strategy.md) - A collection of prompts to create impactful sales and marketing strategies, engaging content, and actionable plans to overcome challenges.
 - [Detailed Prompts and AI Tools for Impactful Content and Problem Solving](prompts/Business/sales.md) - A comprehensive guide to creating tailored prompts for diverse challenges, paired with AI tools to amplify results.
+
+## Office
+
+- [Universal Prompt for Drafting Official Notings](prompts/audit/noting.md) - A structured and comprehensive prompt for drafting official notings in compliance with the Manual of Office Procedure (MOP), 2010, and Central Secretariat Manual of Office Procedure (CSMOP), 15th Edition, 2022.
 
 ## Productivity
 

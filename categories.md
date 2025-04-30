@@ -22,7 +22,7 @@ Prompts are grouped by category below.
 | Health | Prompts for Health  | Create a Comprehensive Healthy Meal Plan Guide |
 | Learning | Prompts for Learning  | 10 Powerful AI-Based Learning Techniques |
 | Marketing | Prompts for Marketing  | 18 ChatGPT Prompts for Advertising |
-| Office | Prompts for Office  | Universal Prompt for Drafting Official Notings |
+| Office | Prompts for Office  | Actionable Prompts for Government Officers and Auditors |
 | Productivity | Prompts for Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | Programming | Prompts for Programming  | 10 Useful ChatGPT Prompts for Developers |
 | Prompting | Prompts for Prompting  | 12 Must-Know ChatGPT Prompt Techniques |
@@ -126,10 +126,12 @@ Prompts are grouped by category below.
 - [Comprehensive Marketing and Content Prompt Guide](prompts/Business/marketing.md) - A curated collection of 50 versatile prompts tailored for marketing campaigns and content creation, designed to enhance creativity and strategic execution.
 - [Comprehensive Marketing Prompts](prompts/Business/marketing2.md) - A collection of versatile prompts for optimizing marketing efforts, from campaign planning to creative content generation.
 - [Comprehensive Sales & Marketing Prompt Guide](prompts/Business/sales-strategy.md) - A collection of prompts to create impactful sales and marketing strategies, engaging content, and actionable plans to overcome challenges.
+- [Crafting Captivating Product Descriptions for eCommerce](prompts/Business/eCommerce.md) - A step-by-step framework for creating persuasive product descriptions that resonate with customers and maximize conversions.
 - [Detailed Prompts and AI Tools for Impactful Content and Problem Solving](prompts/Business/sales.md) - A comprehensive guide to creating tailored prompts for diverse challenges, paired with AI tools to amplify results.
 
 ## Office
 
+- [Actionable Prompts for Government Officers and Auditors](prompts/AITools/prompts3.md) - A collection of role-based prompts designed to assist government officers and auditors in structured decision-making and effective task execution.
 - [Universal Prompt for Drafting Official Notings](prompts/audit/noting.md) - A structured and comprehensive prompt for drafting official notings in compliance with the Manual of Office Procedure (MOP), 2010, and Central Secretariat Manual of Office Procedure (CSMOP), 15th Edition, 2022.
 
 ## Productivity
@@ -169,8 +171,10 @@ Prompts are grouped by category below.
 - [ChatGPT Prompting Frameworks Explained](prompts/AITools/frameworks.md) - Learn how to unlock the full potential of ChatGPT using four powerful prompting frameworks—RTF, BAB, CAR, and TARG. Includes examples, use cases, pros, cons, and limitations.
 - [Cheat Sheet for Crafting Effective ChatGPT Prompts](prompts/AITools/chatgpt4.md) - This cheat sheet provides a structured approach to writing effective ChatGPT prompts using roles, tasks, formats, linked prompting, and prompt priming techniques. Enhance precision, clarity, and actionable responses through these frameworks.
 - [Comprehensive and Detailed Prompt Frameworks](prompts/content-generator/framework.md) - A set of five step-by-step prompts tailored for specific fields, crafted to inspire precision, creativity, and actionable insights.
+- [Comprehensive Role-Based Prompt Frameworks](prompts/AITools/prompts.md) - An extensive list of prompts designed to help users tackle tasks in various professional, creative, technical, and community-oriented roles.
 - [DeepSeek AI Prompt Hacks Cheat Sheet](prompts/AITools/deepseek.md) - A comprehensive cheat sheet of DeepSeek AI prompt hacks with categorized examples to help you create powerful AI-generated content, resumes, code, educational material, and more.
 - [DeepSeek Cheat Sheet - AI Prompts for Skill Building, Business & Productivity](prompts/AITools/deepseek2.md) - A detailed guide to using DeepSeek AI for skill development, business consulting, content creation, writing improvement, productivity, and more—featuring ready-to-use prompts and examples.
+- [Expanded Role-Based Prompts for Professionals](prompts/AITools/prompts1.md) - A detailed list of prompts designed for diverse professional roles, offering actionable tasks with structured formats for maximum clarity and impact.
 - [Grok 3 Prompting Master Cheat Sheet](prompts/AITools/grok.md) - Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.
 - [Mastering the Art of AI Prompts - A Guide to Unlocking Creative Potential](prompts/Productivity/creativity3.md) - Explore a detailed guide to crafting tailored prompts for various domains—enhancing creativity, productivity, and problem-solving.
 - [Prompt Engineering Guide for SaaS Product Development](prompts/content-generator/saas.md) - A detailed guide to crafting effective prompts for building a successful SaaS product, with focus on technical, business, and implementation aspects.

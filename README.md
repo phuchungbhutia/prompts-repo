@@ -32,12 +32,13 @@ graph TD
     B --> CAT14[Health]
     B --> CAT15[Learning]
     B --> CAT16[Marketing]
-    B --> CAT17[Office]
-    B --> CAT18[Productivity]
-    B --> CAT19[Programming]
-    B --> CAT20[Prompting]
-    B --> CAT21[SEO]
-    B --> CAT22[Writing]
+    B --> CAT17[Multi-Disciplinary Guidance]
+    B --> CAT18[Office]
+    B --> CAT19[Productivity]
+    B --> CAT20[Programming]
+    B --> CAT21[Prompting]
+    B --> CAT22[SEO]
+    B --> CAT23[Writing]
     C --> S[update_index.py]
     D --> W[update-index.yml]
     E --> I[indexing.png]
@@ -65,6 +66,7 @@ graph TD
 | Health | Prompts for Health  | Create a Comprehensive Healthy Meal Plan Guide |
 | Learning | Prompts for Learning  | 10 Powerful AI-Based Learning Techniques |
 | Marketing | Prompts for Marketing  | 18 ChatGPT Prompts for Advertising |
+| Multi-Disciplinary Guidance | Prompts for Multi Disciplinary Guidance  | Creative and Comprehensive Prompt Ideas |
 | Office | Prompts for Office  | Actionable Prompts for Government Officers and Auditors |
 | Productivity | Prompts for Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | Programming | Prompts for Programming  | 10 Useful ChatGPT Prompts for Developers |
@@ -130,6 +132,7 @@ graph TD
 - [Crafting Captivating Product Descriptions for eCommerce](prompts/Business/eCommerce.md) - A step-by-step framework for creating persuasive product descriptions that resonate with customers and maximize conversions.
 - [Create a 3D Kawaii-Style Canvas with Chibi Stickers](prompts/content-generator/stickers.md) - A creative prompt to generate a 3D kawaii-style canvas in A4 size featuring chibi stickers with unique expressions and fun phrases.
 - [Create a Comprehensive Healthy Meal Plan Guide](prompts/health-nutrition/nutrition-expert.md) - Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.
+- [Creative and Comprehensive Prompt Ideas](prompts/AITools/prompts2.md) - A detailed and diverse collection of prompts following the format "Act as [Role], perform [Task] in [Format]" to inspire creativity, utility, and practical execution across industries and professions.
 - [Creative Prompts for Entertainment and Storytelling](prompts/learning/fun.md) - A diverse collection of prompts to inspire humor, storytelling, and imaginative activities across multiple themes.
 - [Critical Thinking Prompt Template](prompts/learning/critical-thinking.md) - This template guides users in developing deeper understanding and applying higher-order thinking to analyze, evaluate, and create ideas based on specific topics. Organized into six distinct levels of thought, each section is designed to enhance learning and intellectual engagement.
 - [Cross-Platform Audit App Development Plan](prompts/app-development/audit-app.md) - Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.
@@ -180,6 +183,7 @@ graph TD
 - [Prompts for Writing a Book](prompts/Academics/book.md) - A detailed framework for brainstorming, drafting, refining, and marketing books in various genres and styles.
 - [Prompts to Write a Nonfiction Ebook](prompts/content-generator/non-fiction.md) - A collection of prompts to guide authors in every stage of nonfiction ebook creation, from ideation to marketing.
 - [Resume Creation Prompts for Tailored Career Documents](prompts/Academics/resumes.md) - A set of focused prompts to craft personalized, impactful resumes and other career-related materials.
+- [Scalable Passive Income Opportunities](prompts/Business/passive-income.md) - A prompt framework for identifying hidden, scalable, and automated income streams with minimal capital investment.
 - [Step-by-Step Book Writing Prompts](prompts/Academics/books.md) - A detailed set of prompts to assist with brainstorming, writing, refining, and marketing your book project.
 - [Supercharge Your Creativity - Using AI to Brainstorm Like Never Before](prompts/Productivity/creativity2.md) - A structured guide to maximizing brainstorming potential using AI techniques for innovative solutions and unique perspectives.
 - [Tailored Prompts for Diverse Professional Needs](prompts/content-generator/professionals.md) - A collection of prompts designed for learning, design, development, marketing, and copywriting tasks, offering impactful and creative solutions.

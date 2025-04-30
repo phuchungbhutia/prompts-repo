@@ -22,6 +22,7 @@ Prompts are grouped by category below.
 | Health | Prompts for Health  | Create a Comprehensive Healthy Meal Plan Guide |
 | Learning | Prompts for Learning  | 10 Powerful AI-Based Learning Techniques |
 | Marketing | Prompts for Marketing  | 18 ChatGPT Prompts for Advertising |
+| Multi-Disciplinary Guidance | Prompts for Multi Disciplinary Guidance  | Creative and Comprehensive Prompt Ideas |
 | Office | Prompts for Office  | Actionable Prompts for Government Officers and Auditors |
 | Productivity | Prompts for Productivity  | 5 Problem-Solving Method Prompts for Founders & CEOs |
 | Programming | Prompts for Programming  | 10 Useful ChatGPT Prompts for Developers |
@@ -44,6 +45,7 @@ Prompts are grouped by category below.
 ## Business
 
 - [9 ChatGPT Prompts to Find Profitable Market Opportunities](prompts/Business/Market.md) - Discover 9 powerful ChatGPT prompts to uncover hidden market opportunities, along with 3 real-world examples for each to help spark your next venture.
+- [Scalable Passive Income Opportunities](prompts/Business/passive-income.md) - A prompt framework for identifying hidden, scalable, and automated income streams with minimal capital investment.
 
 ## Career
 
@@ -128,6 +130,10 @@ Prompts are grouped by category below.
 - [Comprehensive Sales & Marketing Prompt Guide](prompts/Business/sales-strategy.md) - A collection of prompts to create impactful sales and marketing strategies, engaging content, and actionable plans to overcome challenges.
 - [Crafting Captivating Product Descriptions for eCommerce](prompts/Business/eCommerce.md) - A step-by-step framework for creating persuasive product descriptions that resonate with customers and maximize conversions.
 - [Detailed Prompts and AI Tools for Impactful Content and Problem Solving](prompts/Business/sales.md) - A comprehensive guide to creating tailored prompts for diverse challenges, paired with AI tools to amplify results.
+
+## Multi-Disciplinary Guidance
+
+- [Creative and Comprehensive Prompt Ideas](prompts/AITools/prompts2.md) - A detailed and diverse collection of prompts following the format "Act as [Role], perform [Task] in [Format]" to inspire creativity, utility, and practical execution across industries and professions.
 
 ## Office
 

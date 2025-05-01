@@ -45,6 +45,7 @@ Prompts are grouped by category below.
 ## Business
 
 - [9 ChatGPT Prompts to Find Profitable Market Opportunities](prompts/Business/Market.md) - Discover 9 powerful ChatGPT prompts to uncover hidden market opportunities, along with 3 real-world examples for each to help spark your next venture.
+- [Hidden Income Streams for Consistent and Scalable Passive Cash Flow](prompts/Business/passive.md) - A comprehensive list of overlooked income opportunities requiring minimal startup capital, with actionable steps and detailed analysis for each method.
 - [Scalable Passive Income Opportunities](prompts/Business/passive-income.md) - A prompt framework for identifying hidden, scalable, and automated income streams with minimal capital investment.
 
 ## Career
@@ -147,6 +148,8 @@ Prompts are grouped by category below.
 - [Boosting Productivity with ChatGPT](prompts/Productivity/productivity-chatgpt.md) - A curated collection of prompts and strategies to optimize productivity using ChatGPT for professionals, students, and entrepreneurs.
 - [Builder-to-Brand Gameplan - Brutal Focus Roadmap](prompts/Productivity/productivity.md) - A comprehensive 4-stage roadmap designed to align your multi-talented brain with ruthless execution, helping you transition from a "Builder" to a memorable "Brand." This plan ensures clarity, focus, and scalable growth.
 - [ChatGPT Prompt Frameworks for Effective Task Structuring](prompts/Productivity/prompt-framework.md) - This document outlines five structured frameworks to craft ChatGPT prompts for effective task execution. Each framework is explained with its structure, purpose, and practical examples for various use cases like business, content creation, education, and personal growth.
+- [Comprehensive Prompt Ideas for Productivity and Growth](prompts/AITools/prompt4.md) - A diverse list of prompts aimed at boosting productivity, mastering routines, and fostering healthy habits, tailored to creators, entrepreneurs, and lifelong learners.
+- [Comprehensive Prompts for Copilot Use Cases](prompts/content-generator/copilot.md) - Detailed prompts for leveraging Copilot features effectively, tailored to scenarios ranging from web browsing and mobile productivity to advanced data analysis and email assistance.
 - [Enhanced Productivity and Creativity Prompts with ChatGPT](prompts/Productivity/creative.md) - A collection of practical and creative prompts tailored to boost productivity, streamline workflows, and unlock creativity using ChatGPT.
 - [Formula for Crafting Effective ChatGPT Prompts](prompts/Productivity/chatgpt.md) - This document outlines a comprehensive formula for creating effective and precise ChatGPT prompts. By using structured components like roles, tasks, context, examples, and constraints, users can achieve highly relevant and actionable outputs.
 - [Maximizing ChatGPT with Structured Prompts Across Applications](prompts/Productivity/produtivity2.md) - A guide that categorizes and explains structured prompts for utilizing ChatGPT effectively. Includes examples and uses for business, content creation, learning, and personal development.
@@ -184,6 +187,7 @@ Prompts are grouped by category below.
 - [Grok 3 Prompting Master Cheat Sheet](prompts/AITools/grok.md) - Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.
 - [Mastering the Art of AI Prompts - A Guide to Unlocking Creative Potential](prompts/Productivity/creativity3.md) - Explore a detailed guide to crafting tailored prompts for various domains—enhancing creativity, productivity, and problem-solving.
 - [Prompt Engineering Guide for SaaS Product Development](prompts/content-generator/saas.md) - A detailed guide to crafting effective prompts for building a successful SaaS product, with focus on technical, business, and implementation aspects.
+- [Structured Promotional Prompt Framework](prompts/content-generator/verb.md) - A curated set of prompts designed to explore diverse roles, tasks, and output styles for effective promotional strategies.
 
 ## SEO
 

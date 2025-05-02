@@ -50,7 +50,6 @@ Prompts are grouped by category below.
 - [Comprehensive Freelance Pricing and Rate Calculation Prompts](prompts/Business/pricing.md) - A structured collection of prompts to help freelancers determine pricing, create value-based packages, and benchmark rates against industry standards.
 - [Comprehensive Stock Trading & Investment Strategy Prompts](prompts/Business/stocks.md) - A structured collection of prompts designed to refine stock market analysis, risk management strategies, portfolio diversification, and fundamental investing insights.
 - [Expanded AI Prompts for Digital Product Creation](prompts/Business/digital-product.md) - A refined collection of prompts designed to streamline the digital product creation process, including ideation, validation, content generation, and sales strategy.
-- [Hidden Income Streams for Consistent and Scalable Passive Cash Flow](prompts/Business/income-streams.md) - A comprehensive list of overlooked income opportunities requiring minimal startup capital, with actionable steps and detailed analysis for each method.
 - [Hidden Income Streams for Consistent and Scalable Passive Cash Flow](prompts/Business/passive.md) - A comprehensive list of overlooked income opportunities requiring minimal startup capital, with actionable steps and detailed analysis for each method.
 - [Optimized Etsy Growth & Marketing Prompts](prompts/Business/etsy.md) - A structured collection of prompts designed to help Etsy sellers improve conversion rates, optimize listings, create strategic pricing models, and drive traffic through content marketing.
 - [Scalable Passive Income Opportunities](prompts/Business/passive-income.md) - A prompt framework for identifying hidden, scalable, and automated income streams with minimal capital investment.
@@ -72,7 +71,6 @@ Prompts are grouped by category below.
 - [Advanced YouTube Growth, Algorithm Hacking & Collaboration Strategies](prompts/Business/youtube3.md) - A structured set of prompts designed to maximize audience engagement, optimize content for YouTube's algorithm, and build strategic collaborations with creators.
 - [AI-Powered YouTube Video Script Generator](prompts/content-generator/youtube-script.md) - This prompt is designed for content creators, marketers, and YouTubers who want to generate engaging and well-structured scripts for YouTube videos using AI.
 - [Fresh and Impactful Brand Content Prompts](prompts/Business/branding.md) - Detailed prompts designed for creating effective content strategies, engaging audience interactions, and solving creative challenges.
-- [Fresh and Impactful Brand Content Prompts](prompts/content-generator/content-prompt.md) - Detailed prompts designed for creating effective content strategies, engaging audience interactions, and solving creative challenges.
 
 ## Content-Generation
 
@@ -176,6 +174,7 @@ Prompts are grouped by category below.
 ## Productivity
 
 - [5 Problem-Solving Method Prompts for Founders & CEOs](prompts/AITools/5tools.md) - Practical ChatGPT prompts for applying five strategic problem-solving frameworks—Pre-Mortem, 5 Whys, Decision Tree, SWOT, and Impact vs Effort Matrix.
+- [AI Productivity Prompts for Optimization & Efficiency](prompts/Productivity/productivity4.md) - A structured collection of AI prompts designed to refine goal setting, time management, workflow automation, and problem-solving efficiency.
 - [Boosting Productivity with ChatGPT](prompts/Productivity/booster.md) - A curated collection of prompts and strategies to optimize productivity using ChatGPT for professionals, students, and entrepreneurs.
 - [Boosting Productivity with ChatGPT](prompts/Productivity/productivity-chatgpt.md) - A curated collection of prompts and strategies to optimize productivity using ChatGPT for professionals, students, and entrepreneurs.
 - [Builder-to-Brand Gameplan - Brutal Focus Roadmap](prompts/Productivity/productivity.md) - A comprehensive 4-stage roadmap designed to align your multi-talented brain with ruthless execution, helping you transition from a "Builder" to a memorable "Brand." This plan ensures clarity, focus, and scalable growth.
@@ -204,7 +203,6 @@ Prompts are grouped by category below.
 ## Prompting
 
 - [12 Must-Know ChatGPT Prompt Techniques](prompts/AITools/chatgpt.md) - Learn how to use 12 powerful ChatGPT prompt techniques with 36 ready-to-use examples for better results in learning, creativity, productivity, and problem-solving.
-- [Advanced AI Prompt Engineering](prompts/AITools/promtps4.md) - A structured list of prompts using various techniques such as zero-shot learning, chain-of-thought prompting, and iterative refinement for optimizing AI-generated responses.
 - [ChatGPT Cheat Sheet - Crafting Effective Prompts](prompts/AITools/chatgpt-cheatsheet.md) - A detailed guide on using structured prompts to maximize ChatGPT’s potential across various domains, including content creation, coding, sales, marketing, and personal career development.
 - [ChatGPT for Marketing](prompts/AITools/marketing.md) - A comprehensive guide to using ChatGPT for 10 powerful marketing tasks—from campaign planning to SEO content ideas—complete with optimized prompts, use cases, and real-world examples.
 - [ChatGPT Prompt Cheatsheet for Various Use Cases](prompts/AITools/chagpt2.md) - This cheatsheet provides beginner-friendly ChatGPT prompts to explain, learn, brainstorm, and solve problems across multiple use cases.
@@ -223,7 +221,7 @@ Prompts are grouped by category below.
 - [Grok 3 Prompting Master Cheat Sheet](prompts/AITools/grok.md) - Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.
 - [Mastering the Art of AI Prompts - A Guide to Unlocking Creative Potential](prompts/Productivity/creativity3.md) - Explore a detailed guide to crafting tailored prompts for various domains—enhancing creativity, productivity, and problem-solving.
 - [Prompt Engineering Guide for SaaS Product Development](prompts/content-generator/saas.md) - A detailed guide to crafting effective prompts for building a successful SaaS product, with focus on technical, business, and implementation aspects.
-- [Structured Promotional Prompt Framework](prompts/content-generator/verb.md) - A curated set of prompts designed to explore diverse roles, tasks, and output styles for effective promotional strategies.
+- [Viral Growth, Workflow Automation & Personal Branding Prompts](prompts/Business/auto.md) - A structured collection of prompts designed to enhance content virality, automate workflows, optimize productivity, and develop personal brand growth strategies.
 
 ## SEO
 

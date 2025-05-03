@@ -80,6 +80,7 @@ Prompts are grouped by category below.
 - [Enhanced Writing Prompts](prompts/content-generator/contents.md) - A detailed and comprehensive set of prompts to elevate writing projects across various domains.
 - [Essential Travel Planning Prompts](prompts/content-generator/travel.md) - A curated set of prompts designed for seamless trip planning, including flights, accommodations, itineraries, local transport, and must-try experiences.
 - [Podcast Creation Comprehensive Prompt](prompts/content-generator/podcast.md) - A structured guide for creating podcasts that blend human creativity with AI tools for efficiency and quality.
+- [Tailoring AI Prompts for Different Target Audiences](prompts/AITools/audience.md) - A structured collection of prompts adapted for various audience segments, ensuring relevance, resonance, and maximum engagement across demographics.
 
 ## Creativity
 
@@ -188,6 +189,7 @@ Prompts are grouped by category below.
 - [Prompts for Enhancing Productivity Across Fields](prompts/Academics/resume.md) - Practical prompts to streamline tasks and boost creativity in various fields like marketing, education, and technology.
 - [Prompts for Professional Productivity](prompts/Productivity/professional.md) - A curated collection of practical prompts to optimize professional tasks and improve workflow efficiency.
 - [Prompts for Versatile Use Cases](prompts/Productivity/creativity.md) - A set of diverse ChatGPT prompts to enhance creativity, knowledge, and problem-solving across various tasks.
+- [Viral Growth, Workflow Automation & Personal Branding Prompts](prompts/Business/workflow.md) - A structured collection of prompts designed to enhance content virality, automate workflows, optimize productivity, and develop personal brand growth strategies.
 
 ## Programming
 
@@ -233,6 +235,7 @@ Prompts are grouped by category below.
 
 - [Advanced Content Optimization and Writing Prompts](prompts/Productivity/content.md) - A curated list of refined prompts designed to enhance clarity, emotional resonance, audience engagement, and creative ideation for writing projects.
 - [Advanced Writing and Content Optimization Prompts](prompts/Productivity/content1.md) - A curated set of prompts designed to refine content, enhance emotional resonance, tailor messaging for specific audiences, and generate fresh ideas.
+- [Advanced Writing Optimization & Engagement Prompts](prompts/AITools/copywriting.md) - A structured collection of prompts designed to refine writing clarity, enhance engagement, and optimize content for SEO and social media growth.
 - [Best ChatGPT Prompts for Writing](prompts/Academics/writing.md) - A collection of structured prompts for generating high-quality writing across various formats, including blog posts, proposals, cover letters, and creative storytelling.
 - [ChatGPT Prompts for Producing Your Ebook Manuscript](prompts/content-generator/manuscript.md) - A comprehensive guide to using ChatGPT for crafting an engaging and market-ready ebook, covering everything from back cover descriptions to manuscript creation and graphics.
 - [ChatGPT Prompts for Writing a Book](prompts/content-generator/book-writer.md) - A detailed collection of ChatGPT prompts to assist authors in various stages of book writing, from outlining to character development and marketing strategies.

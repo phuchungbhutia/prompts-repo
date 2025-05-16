@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GPT Prompt Blog Index</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #ffffff;
+      color: #333;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #f8f8f8;
+      padding: 2rem 1rem;
+      text-align: center;
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+
+    nav {
+      text-align: center;
+      margin-top: 1rem;
+    }
+
+    nav a {
+      margin: 0 1rem;
+      text-decoration: none;
+      color: #0077cc;
+    }
+
+    .container {
+      max-width: 1000px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+
+    .search-bar {
+      margin-bottom: 2rem;
+      text-align: center;
+    }
+
+    .search-bar input {
+      width: 80%;
+      max-width: 400px;
+      padding: 0.5rem;
+      font-size: 1rem;
+    }
+
+    .section-title {
+      margin-top: 3rem;
+      font-size: 1.5rem;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 0.5rem;
+    }
+
+    .post-list {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem;
+      margin-top: 1rem;
+    }
+
+    .post {
+      border: 1px solid #eee;
+      padding: 1rem;
+      border-radius: 8px;
+      background-color: #fafafa;
+    }
+
+    .post h3 {
+      margin: 0 0 0.5rem;
+      color: #0077cc;
+    }
+
+    .post p.meta {
+      font-size: 0.9rem;
+      color: #666;
+    }
+
+    .post p.excerpt {
+      margin-top: 0.5rem;
+    }
+
+    #prompt-viewer {
+      max-width: 1000px;
+      margin: 2rem auto;
+      padding: 1rem;
+      display: none;
+    }
+
+    #prompt-viewer a {
+      color: #0077cc;
+      font-size: 1rem;
+      text-decoration: none;
+    }
+
+    .category-section {
+      margin-bottom: 2rem;
+    }
+
+    .category-title {
+      cursor: pointer;
+      background-color: #e8f4fc;
+      padding: 0.5rem;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+
+    .category-posts {
+      display: none;
+      margin-top: 1rem;
+    }
+
+    footer {
+      text-align: center;
+      padding: 2rem;
+      background: #f8f8f8;
+      color: #777;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>GPT Prompt Templates Blog</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#categories">Categories</a>
+      <a href="#popular">Popular</a>
+      <a href="#recent">Recent</a>
+      <a href="#about">About</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="Search prompts...">
+    </div>
+
+    <section id="recent" class="section">
+      <h2 class="section-title">Recent Prompts</h2>
+      <div class="post-list" id="recent-posts"></div>
+    </section>
+
+    <section id="popular" class="section">
+      <h2 class="section-title">Popular Prompts</h2>
+      <div class="post-list" id="popular-posts"></div>
+    </section>
+
+    <section id="categories" class="section">
+      <h2 class="section-title">Browse by Category</h2>
+      <div id="category-posts"></div>
+    </section>
+  </div>
+
+  <div id="prompt-viewer">
+    <a href="#" onclick="showIndex()">← Back to Index</a>
+    <div id="prompt-content"></div>
+  </div>
+
+  <footer>
+    &copy; 2025 GPT Prompt Blog. All rights reserved.
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    async function fetchPrompts() {
+      const res = await fetch('prompts.json');
+      return await res.json();
+    }
+
+    function renderPosts(container, postsToRender) {
+      container.innerHTML = '';
+      postsToRender.forEach(post => {
+        const div = document.createElement("div");
+        div.className = "post";
+        div.innerHTML = `
+          <h3><a href="#" onclick="loadPrompt('${post.file}')">${post.title}</a></h3>
+          <p class="meta">By ${post.author} on ${post.date}</p>
+          <p class="excerpt">${post.excerpt}</p>
+        `;
+        container.appendChild(div);
+      });
+    }
+
+    function groupByCategory(posts) {
+      const categories = {};
+      posts.forEach(post => {
+        if (!categories[post.category]) categories[post.category] = [];
+        categories[post.category].push(post);
+      });
+      return categories;
+    }
+
+    function renderCategories(posts, container) {
+      const categories = groupByCategory(posts);
+      container.innerHTML = '';
+      for (const cat in categories) {
+        const section = document.createElement("div");
+        section.className = "category-section";
+        const header = document.createElement("div");
+        header.className = "category-title";
+        header.textContent = cat;
+        header.onclick = () => {
+          const content = section.querySelector('.category-posts');
+          content.style.display = content.style.display === 'none' ? 'block' : 'none';
+        };
+        section.appendChild(header);
+
+        const catList = document.createElement("div");
+        catList.className = "category-posts";
+        categories[cat].forEach(post => {
+          const div = document.createElement("div");
+          div.className = "post";
+          div.innerHTML = `
+            <h3><a href="#" onclick="loadPrompt('${post.file}')">${post.title}</a></h3>
+            <p class="meta">By ${post.author} on ${post.date}</p>
+            <p class="excerpt">${post.excerpt}</p>
+          `;
+          catList.appendChild(div);
+        });
+        section.appendChild(catList);
+        container.appendChild(section);
+      }
+    }
+
+    function loadPrompt(filepath) {
+      fetch(filepath)
+        .then(response => response.text())
+        .then(markdown => {
+          document.querySelector(".container").style.display = "none";
+          document.getElementById("prompt-viewer").style.display = "block";
+          document.getElementById("prompt-content").innerHTML = marked.parse(markdown);
+        });
+    }
+
+    function showIndex() {
+      document.getElementById("prompt-viewer").style.display = "none";
+      document.querySelector(".container").style.display = "block";
+    }
+
+    fetchPrompts().then(posts => {
+      const recentContainer = document.getElementById("recent-posts");
+      const popularContainer = document.getElementById("popular-posts");
+      const categoryContainer = document.getElementById("category-posts");
+
+      const recentPosts = [...posts].sort((a, b) => new Date(b.date) - new Date(a.date));
+      renderPosts(recentContainer, recentPosts);
+
+      const popularPosts = [...posts].sort((a, b) => b.views - a.views).slice(0, 5);
+      renderPosts(popularContainer, popularPosts);
+
+      renderCategories(posts, categoryContainer);
+
+      document.getElementById("searchInput").addEventListener("input", function() {
+        const term = this.value.toLowerCase();
+        const filtered = posts.filter(p => p.title.toLowerCase().includes(term) || p.excerpt.toLowerCase().includes(term));
+        renderPosts(recentContainer, filtered);
+      });
+    });
+  </script>
+</body>
+</html>

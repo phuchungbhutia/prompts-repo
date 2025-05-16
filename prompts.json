@@ -1,11 +1,1847 @@
 [
   {
-    "title": "Untitled",
+    "title": "5 Problem-Solving Method Prompts for Founders & CEOs",
+    "category": "Productivity",
+    "excerpt": "Practical ChatGPT prompts for applying five strategic problem-solving frameworks—Pre-Mortem, 5 Whys, Decision Tree, SWOT, and Impact vs Effort Matrix.",
+    "file": "prompts/AITools/5tools.md",
     "date": "2025-05-16",
     "author": "Unknown",
-    "excerpt": "title: <Prompt Title Here category: <categoryname description: <Short oneline description of what this prompt helps with.     <Write your ac...",
-    "category": "Uncategorized",
+    "views": 0
+  },
+  {
+    "title": "Problem Solving Using Mental Models",
+    "category": "AI-Tools",
+    "excerpt": "\"Learn how to use ChatGPT more effectively by applying 9 powerful mental models for problem solving. Each framework includes 3 practical examples to guide your strategy, planning, and execution.\"",
+    "file": "prompts/AITools/Problem-Solving.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Tailoring AI Prompts for Different Target Audiences",
+    "category": "Content-Generation",
+    "excerpt": "A structured collection of prompts adapted for various audience segments, ensuring relevance, resonance, and maximum engagement across demographics.",
+    "file": "prompts/AITools/audience.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompt Cheatsheet for Various Use Cases",
+    "category": "Prompting",
+    "excerpt": "This cheatsheet provides beginner-friendly ChatGPT prompts to explain, learn, brainstorm, and solve problems across multiple use cases.",
+    "file": "prompts/AITools/chagpt2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Cheat Sheet - Crafting Effective Prompts",
+    "category": "Prompting",
+    "excerpt": "A detailed guide on using structured prompts to maximize ChatGPT’s potential across various domains, including content creation, coding, sales, marketing, and personal career development.",
+    "file": "prompts/AITools/chatgpt-cheatsheet.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompt Frameworks – Full Guide with Examples",
+    "category": "Prompting",
+    "excerpt": "Learn to master ChatGPT using 5 powerful prompt frameworks—R-T-F, T-A-G, B-A-B, C-A-R-E, and R-I-S-E. Each structure includes explanations, ideal use cases, and real-world prompt examples for getting actionable, relevant outputs from ChatGPT.",
+    "file": "prompts/AITools/chatgpt-frameworks.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "12 Must-Know ChatGPT Prompt Techniques",
+    "category": "Prompting",
+    "excerpt": "Learn how to use 12 powerful ChatGPT prompt techniques with 36 ready-to-use examples for better results in learning, creativity, productivity, and problem-solving.",
+    "file": "prompts/AITools/chatgpt.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompt Guide for Structured Usage",
+    "category": "Prompting",
+    "excerpt": "This guide provides a comprehensive explanation and examples of structured prompts to use ChatGPT effectively. It covers various roles, techniques, and use cases to help users optimize their interactions and generate precise responses.",
+    "file": "prompts/AITools/chatgpt3.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Cheat Sheet for Crafting Effective ChatGPT Prompts",
+    "category": "Prompting",
+    "excerpt": "This cheat sheet provides a structured approach to writing effective ChatGPT prompts using roles, tasks, formats, linked prompting, and prompt priming techniques. Enhance precision, clarity, and actionable responses through these frameworks.",
+    "file": "prompts/AITools/chatgpt4.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Advanced Writing Optimization & Engagement Prompts",
+    "category": "Writing",
+    "excerpt": "A structured collection of prompts designed to refine writing clarity, enhance engagement, and optimize content for SEO and social media growth.",
+    "file": "prompts/AITools/copywriting.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "DeepSeek AI Prompt Hacks Cheat Sheet",
+    "category": "Prompting",
+    "excerpt": "A comprehensive cheat sheet of DeepSeek AI prompt hacks with categorized examples to help you create powerful AI-generated content, resumes, code, educational material, and more.",
+    "file": "prompts/AITools/deepseek.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "DeepSeek Cheat Sheet - AI Prompts for Skill Building, Business & Productivity",
+    "category": "Prompting",
+    "excerpt": "A detailed guide to using DeepSeek AI for skill development, business consulting, content creation, writing improvement, productivity, and more—featuring ready-to-use prompts and examples.",
+    "file": "prompts/AITools/deepseek2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompting Frameworks Explained",
+    "category": "Prompting",
+    "excerpt": "Learn how to unlock the full potential of ChatGPT using four powerful prompting frameworks—RTF, BAB, CAR, and TARG. Includes examples, use cases, pros, cons, and limitations.",
+    "file": "prompts/AITools/frameworks.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Social Equity Initiatives, Future Government Regulations & Ethical AI Governance Frameworks",
+    "category": "Prompting",
+    "excerpt": "A structured collection of AI-driven frameworks designed to advance social equity initiatives, anticipate future government regulations, and ensure ethical AI governance in an evolving landscape.",
+    "file": "prompts/AITools/frameworks1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Policy Lobbying, Environmental Sustainability & AI-Driven Economic Forecasting Frameworks",
+    "category": "Prompting",
+    "excerpt": "A structured collection of AI-driven frameworks designed to refine policy lobbying tactics, enhance environmental sustainability initiatives, and optimize AI-powered economic forecasting for global market adaptation.",
+    "file": "prompts/AITools/frameworks2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Corporate Governance, Strategic Philanthropy & Disruptive Innovation Frameworks",
+    "category": "Prompting",
+    "excerpt": "A structured collection of AI-driven frameworks designed to strengthen corporate governance, advance strategic philanthropy, and accelerate disruptive innovation in emerging industries.",
+    "file": "prompts/AITools/frameworks3.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Mergers & Acquisitions, Multi-Channel Revenue Scaling & Executive Leadership Transformation Frameworks",
+    "category": "Prompting",
+    "excerpt": "A structured collection of AI-driven frameworks designed to optimize mergers and acquisitions, multi-channel revenue expansion, and executive leadership transformation for sustained market success.",
+    "file": "prompts/AITools/frameworks4.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Venture Capital Pitching, Negotiation Tactics & Corporate Innovation Frameworks",
+    "category": "Business",
+    "excerpt": "A refined collection of AI-driven frameworks designed to optimize venture capital pitching, strengthen negotiation strategies, and foster corporate innovation for sustained market leadership.",
+    "file": "prompts/AITools/frameworks5.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Business Strategy Consulting, Brand Scaling & Leadership Training Frameworks",
+    "category": "Business",
+    "excerpt": "A refined collection of AI prompt frameworks designed to optimize business strategy consulting, accelerate brand scaling, and enhance leadership development.",
+    "file": "prompts/AITools/frameworks6.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI Prompt Frameworks with Practical Examples",
+    "category": "Prompting",
+    "excerpt": "A refined collection of AI prompt frameworks with real-world examples, ensuring clarity in strategic planning, content development, and problem-solving.",
+    "file": "prompts/AITools/frameworks7.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Grok 3 Prompting Master Cheat Sheet",
+    "category": "Prompting",
+    "excerpt": "Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.",
+    "file": "prompts/AITools/grok.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Use AI to Learn Anything Faster",
+    "category": "Learning",
+    "excerpt": "A practical guide on how to leverage AI tools like ChatGPT to supercharge your learning using proven techniques like simplification, analogies, quizzes, mind maps, and more.",
+    "file": "prompts/AITools/learn-faster.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT for Marketing",
+    "category": "Prompting",
+    "excerpt": "A comprehensive guide to using ChatGPT for 10 powerful marketing tasks—from campaign planning to SEO content ideas—complete with optimized prompts, use cases, and real-world examples.",
+    "file": "prompts/AITools/marketing.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered Prompt Collection for Meta AI",
+    "category": "Creativity",
+    "excerpt": "A structured collection of AI-generated prompts designed for knowledge expansion, creative expression, problem-solving, and education.",
+    "file": "prompts/AITools/metaai.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Boost Productivity with These Powerful ChatGPT Prompts",
+    "category": "AI-Tools",
+    "excerpt": "Learn how to maximize your productivity in 2025 using ChatGPT prompts. This blog breaks down the structure, examples, and best practices to make ChatGPT your ultimate task partner.",
+    "file": "prompts/AITools/productivity.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Role-Based Prompt Frameworks",
+    "category": "Prompting",
+    "excerpt": "An extensive list of prompts designed to help users tackle tasks in various professional, creative, technical, and community-oriented roles.",
+    "file": "prompts/AITools/prompts.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Expanded Role-Based Prompts for Professionals",
+    "category": "Prompting",
+    "excerpt": "A detailed list of prompts designed for diverse professional roles, offering actionable tasks with structured formats for maximum clarity and impact.",
+    "file": "prompts/AITools/prompts1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered Prompt Refinement for Tone & Clarity",
+    "category": "Prompting",
+    "excerpt": "A structured collection of AI prompt frameworks designed to optimize clarity, specificity, and tone for tailored responses across multiple contexts.",
+    "file": "prompts/AITools/prompts10.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Leadership Development, Decision-Making Mastery & Risk-Taking Strategy",
+    "category": "Prompting",
+    "excerpt": "A structured collection of prompts designed to refine leadership skills, enhance decision-making precision, and optimize risk-taking for maximum success.",
+    "file": "prompts/AITools/prompts11.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Creative and Comprehensive Prompt Ideas",
+    "category": "Multi-Disciplinary Guidance",
+    "excerpt": "A detailed and diverse collection of prompts following the format \"Act as [Role], perform [Task] in [Format]\" to inspire creativity, utility, and practical execution across industries and professions.",
+    "file": "prompts/AITools/prompts2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Actionable Prompts for Government Officers and Auditors",
+    "category": "Office",
+    "excerpt": "A collection of role-based prompts designed to assist government officers and auditors in structured decision-making and effective task execution.",
+    "file": "prompts/AITools/prompts3.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Prompt Ideas for Productivity and Growth",
+    "category": "Productivity",
+    "excerpt": "A diverse list of prompts aimed at boosting productivity, mastering routines, and fostering healthy habits, tailored to creators, entrepreneurs, and lifelong learners.",
+    "file": "prompts/AITools/prompts4.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive AI Prompt Framework",
+    "category": "Prompting",
+    "excerpt": "A detailed and structured approach to crafting effective AI prompts for diverse tasks, ensuring thorough, insightful, and actionable responses.",
+    "file": "prompts/AITools/prompts5.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive and Inspired Prompts Across Themes",
+    "category": "Prompting",
+    "excerpt": "An array of prompts designed to inspire detailed and innovative responses, spanning development, finance, creative writing, and motivational guides.",
+    "file": "prompts/AITools/prompts6.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered Frameworks for Digital Product Launches, User Psychology in Branding & Cross-Platform Content Optimization",
+    "category": "Marketing",
+    "excerpt": "A refined collection of AI-driven frameworks designed to strengthen digital product launches, leverage user psychology in branding, and optimize content strategy across multiple platforms.",
+    "file": "prompts/AITools/prompts7.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered Prompt Engineering Framework",
+    "category": "Prompting",
+    "excerpt": "A structured process designed to refine AI prompts iteratively, ensuring clarity, specificity, and alignment with user objectives.",
+    "file": "prompts/AITools/prompts8.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered Productivity Prompts",
+    "category": "Prompting",
+    "excerpt": "A structured collection of AI-driven prompts designed to boost productivity, streamline work habits, and improve time management.",
+    "file": "prompts/AITools/prompts9.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Prompt for Maximizing Free AI Tools",
+    "category": "AI-Tools",
+    "excerpt": "A structured guide for effectively using free AI tools to achieve creative, professional, and research goals.",
+    "file": "prompts/AITools/tools.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Ethical AI Use in Academic Writing – Prompts & Guide",
+    "category": "Writing",
+    "excerpt": "A complete guide and prompt collection for using AI tools ethically in academic writing. Includes detailed steps, do’s and don’ts, and professional prompt templates.",
+    "file": "prompts/Academics/academics.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts for Crafting Audit Manuals and Guidelines",
+    "category": "Writing",
+    "excerpt": "A collection of focused and detailed prompts to assist in creating audit-focused ebooks across industries.",
+    "file": "prompts/Academics/audit-manuals.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts for Writing a Book",
+    "category": "Writing",
+    "excerpt": "A detailed framework for brainstorming, drafting, refining, and marketing books in various genres and styles.",
+    "file": "prompts/Academics/book.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Step-by-Step Book Writing Prompts",
+    "category": "Writing",
+    "excerpt": "A detailed set of prompts to assist with brainstorming, writing, refining, and marketing your book project.",
+    "file": "prompts/Academics/books.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Brainstorming Prompts",
+    "category": "Creativity",
+    "excerpt": "Detailed prompts to utilize brainstorming frameworks and techniques for generating innovative ideas.",
+    "file": "prompts/Academics/brainstorm.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Frequently Used Words in ChatGPT Conversations",
+    "category": "Writing",
+    "excerpt": "Categorized lists of commonly used words and phrases in ChatGPT interactions, with examples to illustrate their usage.",
+    "file": "prompts/Academics/chatgpt-words.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Imaginative Creative Writing Prompts",
+    "category": "Writing",
+    "excerpt": "A collection of 20 imaginative prompts to spark creativity, world-building, and futuristic storytelling.",
+    "file": "prompts/Academics/creative-writing.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts for Crafting Government Audit Manuals and Guidelines",
+    "category": "Writing",
+    "excerpt": "A detailed set of prompts to create structured and informative ebooks focused on government audits using acts and regulations.",
+    "file": "prompts/Academics/documents.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Educator's Prompt Guide for Classroom Excellence",
+    "category": "Education",
+    "excerpt": "A comprehensive list of prompts designed to inspire and empower educators in classroom management, lesson planning, student engagement, and progress monitoring.",
+    "file": "prompts/Academics/education.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts for Crafting Ebooks Focused on Manuals and Guidelines",
+    "category": "Writing",
+    "excerpt": "A collection of structured prompts for creating official documents, including manuals and guidelines for various industries.",
+    "file": "prompts/Academics/manuals.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Presentation Enhancement & Audience Engagement Prompts",
+    "category": "Academics",
+    "excerpt": "A structured collection of prompts designed to refine audience analysis, optimize slide design, incorporate feedback, and ensure impactful delivery.",
+    "file": "prompts/Academics/presentation.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "PowerPoint Presentation Planning & Design Prompts",
+    "category": "Academics",
+    "excerpt": "A structured collection of prompts designed to enhance PowerPoint presentations, refine storytelling, optimize design, and maximize audience engagement.",
+    "file": "prompts/Academics/pressentation1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts for Coding and Project Generation",
+    "category": "Programming",
+    "excerpt": "A collection of creative prompts to inspire app development, website creation, and GitHub project setups.",
+    "file": "prompts/Academics/projects.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Thesis Chapter Prompts",
+    "category": "Writing",
+    "excerpt": "Detailed prompts for guiding the creation of each thesis chapter, from introduction to references.",
+    "file": "prompts/Academics/research-academics.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Generate Research Papers",
+    "category": "Writing",
+    "excerpt": "A structured prompt for generating comprehensive research papers using provided content. Includes sections for literature review, findings, case studies, and recommendations—complete with citations and future exploration paths.",
+    "file": "prompts/Academics/research-papers.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts for Enhancing Productivity Across Fields",
+    "category": "Productivity",
+    "excerpt": "Practical prompts to streamline tasks and boost creativity in various fields like marketing, education, and technology.",
+    "file": "prompts/Academics/resume.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Resume Creation Prompts for Tailored Career Documents",
+    "category": "Career",
+    "excerpt": "A set of focused prompts to craft personalized, impactful resumes and other career-related materials.",
+    "file": "prompts/Academics/resumes.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompts for Teaching",
+    "category": "Education",
+    "excerpt": "A comprehensive collection of prompts to assist educators in lesson planning, classroom management, and student engagement.",
+    "file": "prompts/Academics/teaching.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Best ChatGPT Prompts for Writing",
+    "category": "Writing",
+    "excerpt": "A collection of structured prompts for generating high-quality writing across various formats, including blog posts, proposals, cover letters, and creative storytelling.",
+    "file": "prompts/Academics/writing.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Advanced Writing Optimization & Engagement Prompts",
+    "category": "Writing",
+    "excerpt": "A structured collection of prompts designed to refine writing clarity, enhance engagement, and optimize content for SEO and social media growth.",
+    "file": "prompts/Academics/writing1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "9 ChatGPT Prompts to Find Profitable Market Opportunities",
+    "category": "Business",
+    "excerpt": "Discover 9 powerful ChatGPT prompts to uncover hidden market opportunities, along with 3 real-world examples for each to help spark your next venture.",
+    "file": "prompts/Business/Market.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "18 ChatGPT Prompts for Advertising",
+    "category": "Marketing",
+    "excerpt": "A collection of prompts for crafting impactful advertising campaigns, scripts, and strategies tailored to any product or audience.",
+    "file": "prompts/Business/advertising.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Affiliate Marketing Prompts",
+    "category": "Marketing",
+    "excerpt": "A curated list of prompts designed for effective planning, campaign optimization, and compliance in affiliate marketing across various niches.",
+    "file": "prompts/Business/affiliate.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Advanced Affiliate Marketing, Brand Collaborations & YouTube Ads Optimization",
+    "category": "Marketing",
+    "excerpt": "A collection of structured prompts designed to help YouTube creators maximize earnings through affiliate marketing, brand partnerships, and ad revenue optimization.",
+    "file": "prompts/Business/affiliate1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Customer Journey Mapping, Influencer Affiliate Strategies & Subscription Model Growth",
+    "category": "Marketing",
+    "excerpt": "A structured collection of prompts designed to refine customer journey experiences, influencer-driven affiliate strategies, and recurring revenue through subscription models.",
+    "file": "prompts/Business/affiliate2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Viral Growth, Workflow Automation & Personal Branding Prompts",
+    "category": "Prompting",
+    "excerpt": "A structured collection of prompts designed to enhance content virality, automate workflows, optimize productivity, and develop personal brand growth strategies.",
+    "file": "prompts/Business/auto.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Fresh and Impactful Brand Content Prompts",
+    "category": "Content-Creation",
+    "excerpt": "Detailed prompts designed for creating effective content strategies, engaging audience interactions, and solving creative challenges.",
+    "file": "prompts/Business/branding.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Business Strategy Prompts",
+    "category": "Business",
+    "excerpt": "A refined collection of business strategy prompts designed to guide industry analysis, competitive differentiation, operational efficiency, and innovation.",
+    "file": "prompts/Business/business.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Structured AI Prompts for Business, Marketing & Technical Tasks",
+    "category": "Business",
+    "excerpt": "A refined collection of AI-driven prompts designed to streamline business workflows, enhance marketing strategies, optimize technical reviews, and improve data analysis efficiency.",
+    "file": "prompts/Business/business1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Business Strategy Prompts",
+    "category": "Business",
+    "excerpt": "A refined collection of business strategy prompts designed to guide industry analysis, competitive differentiation, operational efficiency, and innovation.",
+    "file": "prompts/Business/business2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Business Strategy Optimization & Growth Acceleration Prompts",
+    "category": "Business",
+    "excerpt": "A structured collection of AI-driven prompts designed to refine strategic planning, boost efficiency, and tackle core business challenges.",
+    "file": "prompts/Business/business3.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Business Strategy, Innovation & Compliance Optimization Prompts",
+    "category": "Business",
+    "excerpt": "A structured collection of prompts designed to optimize business strategy, enhance customer experience, drive innovation, and ensure regulatory compliance.",
+    "file": "prompts/Business/business4.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Competitive Analysis, Growth Strategy & Market Positioning Prompts",
+    "category": "Business",
+    "excerpt": "A structured collection of prompts designed to refine competitive analysis, enhance brand positioning, and optimize strategic decision-making for business growth.",
+    "file": "prompts/Business/business5.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Team Performance Maximization, Strategic Influence & Business Scaling Models",
+    "category": "Business",
+    "excerpt": "A structured collection of prompts designed to optimize team performance, strengthen strategic influence, and refine business scaling models for long-term success.",
+    "file": "prompts/Business/business6.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Organic Content Growth, Influencer Outreach & Customer Retention Strategies",
+    "category": "Marketing",
+    "excerpt": "A structured collection of prompts designed to enhance content visibility, influencer partnerships, and long-term customer engagement.",
+    "file": "prompts/Business/content.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Interactive Content Engagement, Influencer Marketing Events & Multi-Channel Conversion Tracking",
+    "category": "Marketing",
+    "excerpt": "A curated collection of prompts designed to optimize interactive content strategies, influencer-driven event marketing, and multi-channel conversion tracking for higher ROI.",
+    "file": "prompts/Business/content1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "18 ChatGPT Prompts for Digital Marketing",
+    "category": "Marketing",
+    "excerpt": "A curated collection of prompts to assist digital marketers in creating content for multiple platforms, from social media posts to email sequences.",
+    "file": "prompts/Business/digital-marketing.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Expanded AI Prompts for Digital Product Creation",
+    "category": "Business",
+    "excerpt": "A refined collection of prompts designed to streamline the digital product creation process, including ideation, validation, content generation, and sales strategy.",
+    "file": "prompts/Business/digital-product.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Crafting Captivating Product Descriptions for eCommerce",
+    "category": "Marketing",
+    "excerpt": "A step-by-step framework for creating persuasive product descriptions that resonate with customers and maximize conversions.",
+    "file": "prompts/Business/eCommerce.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Optimized Etsy Growth & Marketing Prompts",
+    "category": "Business",
+    "excerpt": "A structured collection of prompts designed to help Etsy sellers improve conversion rates, optimize listings, create strategic pricing models, and drive traffic through content marketing.",
+    "file": "prompts/Business/etsy.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Customer Acquisition, Content Funnel Automation & Influencer Branding Frameworks",
+    "category": "Marketing",
+    "excerpt": "A structured collection of AI prompt frameworks designed to refine customer acquisition techniques, automate content funnels, and elevate influencer-led branding strategies.",
+    "file": "prompts/Business/frameworks.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Marketing, Business Growth & Productivity Optimization Frameworks",
+    "category": "Marketing",
+    "excerpt": "A structured collection of AI prompt frameworks designed to refine marketing techniques, scale business growth, and enhance productivity efficiency.",
+    "file": "prompts/Business/frameworks1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Fundraising Strategies, Leadership Decision-Making & Global Market Entry Frameworks",
+    "category": "Business",
+    "excerpt": "A structured collection of prompts designed to optimize fundraising efforts, refine executive decision-making, and navigate global market expansion with precision.",
+    "file": "prompts/Business/funding.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Income-Generating AI Prompts Across Fields",
+    "category": "Creativity",
+    "excerpt": "Comprehensive prompts leveraging AI to generate income across content creation, e-commerce, finance, healthcare, education, and more.",
+    "file": "prompts/Business/income-generator.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Strategic Growth & Problem-Solving Prompts",
+    "category": "Business",
+    "excerpt": "A structured collection of prompts designed to refine strategic planning, generate creative ideas, simulate audience feedback, craft personalized learning paths, and solve challenges effectively.",
+    "file": "prompts/Business/innovation.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Lead Generation, Webinar Strategy & Paid Ad Campaigns",
+    "category": "Marketing",
+    "excerpt": "A structured collection of prompts designed to enhance lead generation, webinar execution, and paid advertising strategies for digital growth.",
+    "file": "prompts/Business/lead.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Community Building, Livestream Monetization & Brand Sponsorship Outreach",
+    "category": "Marketing",
+    "excerpt": "A collection of prompts designed to strengthen audience loyalty, optimize livestream monetization, and craft high-impact brand sponsorship outreach strategies.",
+    "file": "prompts/Business/live.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Marketing and Content Prompt Guide",
+    "category": "Marketing",
+    "excerpt": "A curated collection of 50 versatile prompts tailored for marketing campaigns and content creation, designed to enhance creativity and strategic execution.",
+    "file": "prompts/Business/marketing.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Merchandising, Course Creation & Crowdfunding Strategies",
+    "category": "Marketing",
+    "excerpt": "A collection of structured prompts designed to help YouTube creators maximize earnings through merchandise sales, digital courses, and crowdfunding campaigns.",
+    "file": "prompts/Business/marketing1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Marketing Prompts",
+    "category": "Marketing",
+    "excerpt": "A collection of versatile prompts for optimizing marketing efforts, from campaign planning to creative content generation.",
+    "file": "prompts/Business/marketing2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Email Marketing Funnels, Digital Product Launches & Influencer Sponsorship Strategies",
+    "category": "Marketing",
+    "excerpt": "A structured collection of prompts designed to help YouTube creators monetize through email marketing, digital product launches, and influencer brand partnerships.",
+    "file": "prompts/Business/marketing3.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Upsell Funnels, Referral Marketing & Event-Based Engagement Strategies",
+    "category": "Marketing",
+    "excerpt": "A structured collection of prompts designed to optimize upsell funnels, referral marketing campaigns, and audience engagement through event-based strategies.",
+    "file": "prompts/Business/marketing4.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "High-Impact Content Creation & Marketing Strategy Prompts",
+    "category": "Marketing",
+    "excerpt": "A structured collection of prompts designed to optimize content creation for various platforms, enhance engagement, and drive brand visibility.",
+    "file": "prompts/Business/marketing5.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Community-Driven Monetization, Influencer-Led AI Experiences & Referral-Based Business Scaling",
+    "category": "Marketing",
+    "excerpt": "A structured collection of prompts designed to optimize community-based monetization models, influencer-led AI experiences, and scalable referral-driven growth.",
+    "file": "prompts/Business/monet.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Growth Hacking, Product Development & Influencer Monetization Frameworks",
+    "category": "Marketing",
+    "excerpt": "A structured collection of AI prompt frameworks designed to accelerate growth hacking techniques, refine product development, and maximize influencer monetization.",
+    "file": "prompts/Business/monetization.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Scalable Passive Income Opportunities",
+    "category": "Business",
+    "excerpt": "A prompt framework for identifying hidden, scalable, and automated income streams with minimal capital investment.",
+    "file": "prompts/Business/passive-income.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Hidden Income Streams for Consistent and Scalable Passive Cash Flow",
+    "category": "Business",
+    "excerpt": "A comprehensive list of overlooked income opportunities requiring minimal startup capital, with actionable steps and detailed analysis for each method.",
+    "file": "prompts/Business/passive.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Premium Membership Models, AI-Driven Personalization & Strategic Partnership Growth",
+    "category": "Marketing",
+    "excerpt": "A curated collection of prompts designed to optimize premium membership models, leverage AI-driven personalization, and scale strategic business partnerships.",
+    "file": "prompts/Business/premium.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Freelance Pricing and Rate Calculation Prompts",
+    "category": "Business",
+    "excerpt": "A structured collection of prompts to help freelancers determine pricing, create value-based packages, and benchmark rates against industry standards.",
+    "file": "prompts/Business/pricing.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Structured Promotional Prompt Framework",
+    "category": "Business",
+    "excerpt": "A curated set of prompts designed to explore diverse roles, tasks, and output styles for effective promotional strategies.",
+    "file": "prompts/Business/promo.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered Brand Positioning, Audience Research & Long-Form Content Frameworks",
+    "category": "Marketing",
+    "excerpt": "A refined collection of AI-driven prompts designed to strengthen brand positioning, optimize audience research, and enhance long-form editorial content for thought leadership.",
+    "file": "prompts/Business/prompts.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered Writing Prompts for Press Releases, Thought Leadership & Social Media Storytelling",
+    "category": "Marketing",
+    "excerpt": "A structured collection of AI-driven prompts designed to enhance press release writing, establish thought leadership, and optimize storytelling for social media impact.",
+    "file": "prompts/Business/prompts1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered Writing Enhancement & Content Optimization Prompts",
+    "category": "Prompting",
+    "excerpt": "A structured collection of AI-driven prompts designed to refine writing, amplify emotional impact, reframe perspectives, and improve readability across various audiences.",
+    "file": "prompts/Business/prompts2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Sales & Marketing Prompt Guide",
+    "category": "Marketing",
+    "excerpt": "A collection of prompts to create impactful sales and marketing strategies, engaging content, and actionable plans to overcome challenges.",
+    "file": "prompts/Business/sales-strategy.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Detailed Prompts and AI Tools for Impactful Content and Problem Solving",
+    "category": "Marketing",
+    "excerpt": "A comprehensive guide to creating tailored prompts for diverse challenges, paired with AI tools to amplify results.",
+    "file": "prompts/Business/sales.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Website Conversion Optimization, Brand Storytelling & Advanced Audience Segmentation",
+    "category": "Marketing",
+    "excerpt": "A structured collection of prompts designed to refine website conversion tactics, craft compelling brand narratives, and implement advanced audience targeting strategies.",
+    "file": "prompts/Business/social.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Social Media Content Strategy & Engagement Prompts",
+    "category": "Marketing",
+    "excerpt": "A structured collection of prompts designed to enhance social media visibility, engagement, and brand storytelling across multiple platforms.",
+    "file": "prompts/Business/social1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Stock Trading & Investment Strategy Prompts",
+    "category": "Business",
+    "excerpt": "A structured collection of prompts designed to refine stock market analysis, risk management strategies, portfolio diversification, and fundamental investing insights.",
+    "file": "prompts/Business/stocks.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Membership Growth, Social Media Expansion & Personalized Branding",
+    "category": "Marketing",
+    "excerpt": "A structured collection of prompts designed to help YouTube creators expand memberships, grow social media influence, and refine their personal branding.",
+    "file": "prompts/Business/viral.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Viral Growth, Workflow Automation & Personal Branding Prompts",
+    "category": "Productivity",
+    "excerpt": "A structured collection of prompts designed to enhance content virality, automate workflows, optimize productivity, and develop personal brand growth strategies.",
+    "file": "prompts/Business/workflow.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Optimized YouTube Growth & Content Strategy Prompts",
+    "category": "Marketing",
+    "excerpt": "A curated list of prompts designed to enhance YouTube channel growth, improve video engagement, optimize SEO, and refine storytelling techniques.",
+    "file": "prompts/Business/youtube.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "YouTube Monetization & Revenue Growth Prompts",
+    "category": "Marketing",
+    "excerpt": "A curated list of prompts designed for YouTube Monetization & Revenue Growth.",
+    "file": "prompts/Business/youtube1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Advanced YouTube Growth & Monetization Strategy",
+    "category": "Marketing",
+    "excerpt": "A structured collection of prompts designed to optimize YouTube monetization, enhance branding, boost engagement, and refine audience growth strategies.",
+    "file": "prompts/Business/youtube2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Advanced YouTube Growth, Algorithm Hacking & Collaboration Strategies",
+    "category": "Content-Creation",
+    "excerpt": "A structured set of prompts designed to maximize audience engagement, optimize content for YouTube's algorithm, and build strategic collaborations with creators.",
+    "file": "prompts/Business/youtube3.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Mastering Common Interview Questions with ChatGPT",
+    "category": "Career",
+    "excerpt": "Learn how to master the most common interview questions using ChatGPT, with examples, prompts, pros, cons, and limitations for each. Perfect for job seekers who want to prepare smarter and faster.",
+    "file": "prompts/Career-Tips/Interview.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Career Development & Professional Growth Prompts",
+    "category": "Career",
+    "excerpt": "A structured collection of prompts designed to refine resumes, optimize cover letters, prepare for interviews, and strengthen networking strategies.",
+    "file": "prompts/Career-Tips/career.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Job Seeker Optimization & Resume Enhancement Prompts",
+    "category": "Career",
+    "excerpt": "A structured collection of prompts designed to refine job applications, highlight achievements, and enhance career storytelling for maximum impact.",
+    "file": "prompts/Career-Tips/career1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Career and Professional Development Prompts",
+    "category": "Career",
+    "excerpt": "A structured list of prompts designed to refine resumes, optimize cover letters, prepare for interviews, and strengthen career strategies.",
+    "file": "prompts/Career-Tips/career2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Job Seeker Optimization & Resume Enhancement Prompts",
+    "category": "Career",
+    "excerpt": "A structured collection of prompts designed to refine job applications, highlight achievements, and enhance career storytelling for maximum impact.",
+    "file": "prompts/Career-Tips/career3.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Practical and Versatile Prompts for Crafting Cover Letters",
+    "category": "Career",
+    "excerpt": "A collection of six tailored prompts to create, polish, and customize cover letters for job seekers.",
+    "file": "prompts/Career-Tips/coverletter.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Resume Optimization & Job Interview Prompts",
+    "category": "Career",
+    "excerpt": "A structured collection of prompts to refine resumes, enhance interview readiness, identify skills gaps, and frame weaknesses strategically.",
+    "file": "prompts/Career-Tips/resume.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Travel & Tourism Adventure Prompts",
+    "category": "Prompting",
+    "excerpt": "A structured collection of prompts designed to inspire unique travel experiences, maximize exploration, and optimize itineraries for global adventures.",
+    "file": "prompts/Career-Tips/tourism.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Example Prompts for Data Analysis with ChatGPT",
+    "category": "Data-Analysis",
+    "excerpt": "This document presents example prompts for utilizing ChatGPT to analyze research data effectively. Each prompt is tailored to specific data-related tasks, ensuring thorough and structured analysis.",
+    "file": "prompts/Data-analysis/chatgpt-data-analysis.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts for Research Data Analysis",
+    "category": "Data-Analysis",
+    "excerpt": "This document provides example prompts for utilizing ChatGPT to analyze research data effectively. Each prompt is tailored to specific data-related tasks, ensuring thorough and structured analysis.",
+    "file": "prompts/Data-analysis/data-analysis-research.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Boosting Productivity with ChatGPT",
+    "category": "Productivity",
+    "excerpt": "A curated collection of prompts and strategies to optimize productivity using ChatGPT for professionals, students, and entrepreneurs.",
+    "file": "prompts/Productivity/booster.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Formula for Crafting Effective ChatGPT Prompts",
+    "category": "Productivity",
+    "excerpt": "This document outlines a comprehensive formula for creating effective and precise ChatGPT prompts. By using structured components like roles, tasks, context, examples, and constraints, users can achieve highly relevant and actionable outputs.",
+    "file": "prompts/Productivity/chatgpt.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Advanced Content Optimization and Writing Prompts",
+    "category": "Writing",
+    "excerpt": "A curated list of refined prompts designed to enhance clarity, emotional resonance, audience engagement, and creative ideation for writing projects.",
+    "file": "prompts/Productivity/content.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Advanced Writing and Content Optimization Prompts",
+    "category": "Writing",
+    "excerpt": "A curated set of prompts designed to refine content, enhance emotional resonance, tailor messaging for specific audiences, and generate fresh ideas.",
+    "file": "prompts/Productivity/content1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Enhanced Productivity and Creativity Prompts with ChatGPT",
+    "category": "Productivity",
+    "excerpt": "A collection of practical and creative prompts tailored to boost productivity, streamline workflows, and unlock creativity using ChatGPT.",
+    "file": "prompts/Productivity/creative.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Expanded Writing and Content Optimization Prompts",
+    "category": "Creativity",
+    "excerpt": "A refined collection of prompts designed to enhance clarity, emotional resonance, audience engagement, and generate innovative content ideas.",
+    "file": "prompts/Productivity/creative1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts for Versatile Use Cases",
+    "category": "Productivity",
+    "excerpt": "A set of diverse ChatGPT prompts to enhance creativity, knowledge, and problem-solving across various tasks.",
+    "file": "prompts/Productivity/creativity.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Supercharge Your Creativity - Using AI to Brainstorm Like Never Before",
+    "category": "Writing",
+    "excerpt": "A structured guide to maximizing brainstorming potential using AI techniques for innovative solutions and unique perspectives.",
+    "file": "prompts/Productivity/creativity2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Mastering the Art of AI Prompts - A Guide to Unlocking Creative Potential",
+    "category": "Prompting",
+    "excerpt": "Explore a detailed guide to crafting tailored prompts for various domains—enhancing creativity, productivity, and problem-solving.",
+    "file": "prompts/Productivity/creativity3.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Learning Prompts",
+    "category": "Learning",
+    "excerpt": "A structured list of prompts for effective learning across various skills, tailored for coaching, resource curation, accelerated acquisition, and practical application.",
+    "file": "prompts/Productivity/learning.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered Learning Optimization & Skill Mastery Frameworks",
+    "category": "Learning",
+    "excerpt": "A refined collection of AI-driven learning prompts designed to accelerate mastery, deepen understanding, and optimize skill acquisition across various domains.",
+    "file": "prompts/Productivity/learning1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Boosting Productivity with ChatGPT",
+    "category": "Productivity",
+    "excerpt": "A curated collection of prompts and strategies to optimize productivity using ChatGPT for professionals, students, and entrepreneurs.",
+    "file": "prompts/Productivity/productivity-chatgpt.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Builder-to-Brand Gameplan - Brutal Focus Roadmap",
+    "category": "Productivity",
+    "excerpt": "A comprehensive 4-stage roadmap designed to align your multi-talented brain with ruthless execution, helping you transition from a \"Builder\" to a memorable \"Brand.\" This plan ensures clarity, focus, and scalable growth.",
+    "file": "prompts/Productivity/productivity.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Prompt Ideas for Productivity and Growth",
+    "category": "Productivity",
+    "excerpt": "A diverse list of prompts aimed at boosting productivity, mastering routines, and fostering healthy habits, tailored to creators, entrepreneurs, and lifelong learners.",
+    "file": "prompts/Productivity/productivity1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Maximizing ChatGPT with Structured Prompts Across Applications",
+    "category": "Productivity",
+    "excerpt": "A guide that categorizes and explains structured prompts for utilizing ChatGPT effectively. Includes examples and uses for business, content creation, learning, and personal development.",
+    "file": "prompts/Productivity/productivity2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Practical and Engaging Prompts for AI Productivity",
+    "category": "Creativity",
+    "excerpt": "A curated set of prompts designed to help users maximize AI capabilities for learning, creating, and achieving personal or professional goals.",
+    "file": "prompts/Productivity/productivity3.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI Productivity Prompts for Optimization & Efficiency",
+    "category": "Productivity",
+    "excerpt": "A structured collection of AI prompts designed to refine goal setting, time management, workflow automation, and problem-solving efficiency.",
+    "file": "prompts/Productivity/productivity4.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered Prompts for Daily Productivity & Task Optimization",
+    "category": "Productivity",
+    "excerpt": "A structured collection of AI-driven prompts designed to enhance productivity, improve decision-making, and streamline daily workflows.",
+    "file": "prompts/Productivity/productivity5.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts for Professional Productivity",
+    "category": "Productivity",
+    "excerpt": "A curated collection of practical prompts to optimize professional tasks and improve workflow efficiency.",
+    "file": "prompts/Productivity/professional.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompt Frameworks for Effective Task Structuring",
+    "category": "Productivity",
+    "excerpt": "This document outlines five structured frameworks to craft ChatGPT prompts for effective task execution. Each framework is explained with its structure, purpose, and practical examples for various use cases like business, content creation, education, and personal growth.",
+    "file": "prompts/Productivity/prompt-framework.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Expanded Skill-Specific Learning Prompts",
+    "category": "Learning",
+    "excerpt": "A structured list of prompts for effective learning across various skills, tailored for coaching, resource curation, accelerated acquisition, and practical application.",
+    "file": "prompts/Productivity/skills.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts for Specialized Tasks",
+    "category": "Career",
+    "excerpt": "A collection of tailored prompts to streamline writing, analysis, problem-solving, and tool learning for specific tasks.",
+    "file": "prompts/Productivity/tasks.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Cross-Platform Audit App Development Plan",
+    "category": "Programming",
+    "excerpt": "Prompt for generating a comprehensive development plan for a free, cross-platform mobile and web app for auditors using open-source tools and AI coding assistants.",
+    "file": "prompts/app-development/audit-app.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Ultimate Android Camera Text Scanner App – AI-Powered Document Scanner & OCR",
+    "category": "Programming",
+    "excerpt": "Build an advanced Android camera document scanning app with smart features, OCR, AI-enhanced image processing, and optimized performance.",
+    "file": "prompts/app-development/camscanner-app.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "50 Prompts for Extracting Text from PDF Tables Using Excel, Power Query, and Python",
+    "category": "Programming",
+    "excerpt": "A comprehensive guide with 50 prompts to extract text from tables in multiple PDF files using Excel, Power Query, and Python. This includes formula-based, automated, and code-driven approaches for handling complex data structures.",
+    "file": "prompts/app-development/data-extraction.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompts for Data Science",
+    "category": "Programming",
+    "excerpt": "A versatile set of prompts to tackle tasks in data science, including modeling, visualization, and cleaning.",
+    "file": "prompts/app-development/data-science.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Developer Prompts for Productivity and Clarity",
+    "category": "Programming",
+    "excerpt": "A set of detailed prompts to guide developers in specific scenarios, ensuring maximum efficiency and clear outcomes.",
+    "file": "prompts/app-development/software-development.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "10 Useful ChatGPT Prompts for Developers",
+    "category": "Programming",
+    "excerpt": "A detailed guide to 10 essential ChatGPT prompts designed to assist developers in various aspects of software development, including coding, debugging, API design, database management, and learning best practices.",
+    "file": "prompts/app-development/software-development2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompts for Software Development",
+    "category": "Programming",
+    "excerpt": "A versatile collection of prompts to assist with software development, from architecture and testing to documentation and code improvement.",
+    "file": "prompts/app-development/sw-develop.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompts for Building a GST Audit Tool",
+    "category": "Audit",
+    "excerpt": "Leverage ChatGPT to create tailored prompts for automating GST audit processes, analyzing data, detecting revenue leakages, and streamlining reporting. These prompts are categorized for different aspects of the development process.",
+    "file": "prompts/audit/gst-audit-tool.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "GST Data Analysis for Audit",
+    "category": "Audit",
+    "excerpt": "Analyzes GST data for audit compliance, focusing on turnover, ITC, and regulatory adherence",
+    "file": "prompts/audit/gst-data-anaylsis.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Universal Prompt for Drafting Official Notings",
+    "category": "Office",
+    "excerpt": "A structured and comprehensive prompt for drafting official notings in compliance with the Manual of Office Procedure (MOP), 2010, and Central Secretariat Manual of Office Procedure (CSMOP), 15th Edition, 2022.",
+    "file": "prompts/audit/noting.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Audit Observations",
+    "category": "Audit",
+    "excerpt": "Prompt for Writing Audit Observations",
+    "file": "prompts/audit/observations.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Blog Post Generator",
+    "category": "Content-Generation",
+    "excerpt": "Generates outlines and content for blog posts based on given topics",
+    "file": "prompts/content-generator/blog-post-generator.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompts for Writing a Book",
+    "category": "Writing",
+    "excerpt": "A detailed collection of ChatGPT prompts to assist authors in various stages of book writing, from outlining to character development and marketing strategies.",
+    "file": "prompts/content-generator/book-writer.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "18 ChatGPT Prompts for Content Creation",
+    "category": "Content-Creation",
+    "excerpt": "A versatile collection of ChatGPT prompts to help create compelling content for blogs, videos, emails, and more.",
+    "file": "prompts/content-generator/content-creation.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Enhanced Writing Prompts",
+    "category": "Content-Generation",
+    "excerpt": "A detailed and comprehensive set of prompts to elevate writing projects across various domains.",
+    "file": "prompts/content-generator/contents.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI Prompt Frameworks for Strategic Execution",
+    "category": "Content-Generation",
+    "excerpt": "A structured collection of AI-driven prompt frameworks designed to enhance goal-setting, content development, strategic planning, and problem-solving efficiency.",
+    "file": "prompts/content-generator/contents1.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered Content Creation & Brand Strategy Prompts",
+    "category": "Content-Creation",
+    "excerpt": "A structured collection of prompts designed to optimize content planning, repurposing, and audience engagement across multiple platforms.",
+    "file": "prompts/content-generator/contents2.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Prompts for Copilot Use Cases",
+    "category": "Productivity",
+    "excerpt": "Detailed prompts for leveraging Copilot features effectively, tailored to scenarios ranging from web browsing and mobile productivity to advanced data analysis and email assistance.",
+    "file": "prompts/content-generator/copilot.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Prompt Guide for Authors",
+    "category": "Writing",
+    "excerpt": "A versatile collection of prompts tailored for authors to enhance book outlining, character development, plot troubleshooting, and more.",
+    "file": "prompts/content-generator/ebook-writer.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Guide to Creating an eBook from Online Sources",
+    "category": "Content-Generation",
+    "excerpt": "This document provides a clear process for creating an engaging eBook by extracting information from a specified web URL. It focuses on structuring content, targeting specific audiences, and implementing cohesive design elements to ensure a seamless reading experience.",
+    "file": "prompts/content-generator/ebook.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "eBook Writing Prompts That Sell",
+    "category": "Writing",
+    "excerpt": "A set of tailored prompts to create captivating eBook titles, effective structures, and engaging chapters that resonate with readers.",
+    "file": "prompts/content-generator/ebooks-that-sell.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompts for Writing an Ebook",
+    "category": "Writing",
+    "excerpt": "A versatile collection of prompts that guide authors through the ebook writing process, from ideation to proofreading and marketing.",
+    "file": "prompts/content-generator/ebooks.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Fictional Character Technical Advisor Prompt",
+    "category": "Writing",
+    "excerpt": "A structured guide to assist fiction writers in crafting highly realistic and detailed technical achievements for their characters.",
+    "file": "prompts/content-generator/fiction.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive and Detailed Prompt Frameworks",
+    "category": "Prompting",
+    "excerpt": "A set of five step-by-step prompts tailored for specific fields, crafted to inspire precision, creativity, and actionable insights.",
+    "file": "prompts/content-generator/framework.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Trending Prompts for Stunning Image Generation",
+    "category": "Design",
+    "excerpt": "A curated collection of prompts to inspire visually captivating AI-generated images across diverse themes.",
+    "file": "prompts/content-generator/image-generation.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Effective ChatGPT Prompts for Creating User Manuals",
+    "category": "Writing",
+    "excerpt": "A guide with prompts and strategies to leverage ChatGPT for creating clear, user-friendly technical manuals.",
+    "file": "prompts/content-generator/manuals.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompts for Producing Your Ebook Manuscript",
+    "category": "Writing",
+    "excerpt": "A comprehensive guide to using ChatGPT for crafting an engaging and market-ready ebook, covering everything from back cover descriptions to manuscript creation and graphics.",
+    "file": "prompts/content-generator/manuscript.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts to Write a Nonfiction Ebook",
+    "category": "Writing",
+    "excerpt": "A collection of prompts to guide authors in every stage of nonfiction ebook creation, from ideation to marketing.",
+    "file": "prompts/content-generator/non-fiction.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Podcast Creation Comprehensive Prompt",
+    "category": "Content-Generation",
+    "excerpt": "A structured guide for creating podcasts that blend human creativity with AI tools for efficiency and quality.",
+    "file": "prompts/content-generator/podcast.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Tailored Prompts for Diverse Professional Needs",
+    "category": "Creativity",
+    "excerpt": "A collection of prompts designed for learning, design, development, marketing, and copywriting tasks, offering impactful and creative solutions.",
+    "file": "prompts/content-generator/professionals.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompt Guide",
+    "category": "Prompting",
+    "excerpt": "A comprehensive guide to crafting effective ChatGPT prompts for optimal outputs, including foundational strategies and advanced techniques.",
+    "file": "prompts/content-generator/prompts.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompt Engineering Guide for SaaS Product Development",
+    "category": "Prompting",
+    "excerpt": "A detailed guide to crafting effective prompts for building a successful SaaS product, with focus on technical, business, and implementation aspects.",
+    "file": "prompts/content-generator/saas.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Advanced SEO Strategies and Content Optimization Prompts",
+    "category": "SEO",
+    "excerpt": "A collection of actionable SEO prompts to enhance content strategy, search rankings, and overall site performance.",
+    "file": "prompts/content-generator/seo-prompt.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Prompts for Crafting Human-Like SEO Content",
+    "category": "SEO",
+    "excerpt": "A detailed prompt template guiding the creation of engaging, human-like SEO articles that balance technical precision and emotional relatability.",
+    "file": "prompts/content-generator/seo.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "18 ChatGPT Prompts for SEO",
+    "category": "SEO",
+    "excerpt": "A set of advanced prompts to streamline SEO tasks, from meta descriptions to content gap analysis and keyword research.",
+    "file": "prompts/content-generator/seos.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "18 ChatGPT Prompts for Social Media Marketing",
+    "category": "Marketing",
+    "excerpt": "A collection of expert prompts for creating engaging social media content across platforms and formats.",
+    "file": "prompts/content-generator/social-media.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Create a 3D Kawaii-Style Canvas with Chibi Stickers",
+    "category": "Design",
+    "excerpt": "A creative prompt to generate a 3D kawaii-style canvas in A4 size featuring chibi stickers with unique expressions and fun phrases.",
+    "file": "prompts/content-generator/stickers.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Tailoring AI Prompts for Different Target Audiences",
+    "category": "Content-Generation",
+    "excerpt": "A structured collection of prompts adapted for various audience segments, ensuring relevance, resonance, and maximum engagement across demographics.",
+    "file": "prompts/content-generator/targeting.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Essential ChatGPT Prompts for Technical Documentation",
+    "category": "Writing",
+    "excerpt": "A curated collection of prompts for creating comprehensive, user-friendly technical documents with ChatGPT.",
+    "file": "prompts/content-generator/technical-documentation.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Essential Travel Planning Prompts",
+    "category": "Content-Generation",
+    "excerpt": "A curated set of prompts designed for seamless trip planning, including flights, accommodations, itineraries, local transport, and must-try experiences.",
+    "file": "prompts/content-generator/travel.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "18 ChatGPT Prompts for User Experience",
+    "category": "Content-Generation",
+    "excerpt": "A curated set of prompts to enhance user experience design and research efforts for applications, websites, and platforms.",
+    "file": "prompts/content-generator/ux.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Viral Growth, Workflow Automation & Personal Branding Prompts",
+    "category": "Productivity",
+    "excerpt": "A structured collection of prompts designed to enhance content virality, automate workflows, optimize productivity, and develop personal brand growth strategies.",
+    "file": "prompts/content-generator/viral.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Trending Ebook Prompts for Your Next Writing Project",
+    "category": "Writing",
+    "excerpt": "A collection of detailed prompts to inspire creativity and craft engaging ebook stories or guides.",
+    "file": "prompts/content-generator/writing.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI-Powered YouTube Video Script Generator",
+    "category": "Content-Creation",
+    "excerpt": "This prompt is designed for content creators, marketers, and YouTubers who want to generate engaging and well-structured scripts for YouTube videos using AI.",
+    "file": "prompts/content-generator/youtube-script.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Deepseek prompts",
+    "category": "Deepseek",
+    "excerpt": "Collection of Deepseek prompts",
+    "file": "prompts/deepseek/2025.04.18.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Master Excel with DeepSeek",
+    "category": "Excel",
+    "excerpt": "Discover 10 advanced Excel prompts designed to help you master dashboards, automation, data filtering, array formulas, Solver, and more. Ideal for professionals looking to boost productivity with Excel.",
+    "file": "prompts/excel/excel-deepseek.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Advanced Excel Skill Mastery Using AI Prompts",
+    "category": "Excel",
+    "excerpt": "A curated list of prompts tailored to leverage AI tools for mastering Excel functionality, including formula creation, data cleaning, visualization, and automation.",
+    "file": "prompts/excel/excel.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Brutally Honest Advisor Framework",
+    "category": "Health",
+    "excerpt": "A structured collection of prompts designed to deliver unfiltered, high-level analysis to help founders, creators, and leaders break through stagnation and elevate their success.",
+    "file": "prompts/health-nutrition/advisor.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Mental Wellness & Performance Coaching Prompts",
+    "category": "Health",
+    "excerpt": "A structured collection of prompts designed to provide support, guidance, and psychological insights for cognitive therapy, emotional well-being, and personal growth.",
+    "file": "prompts/health-nutrition/mental.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Create a Comprehensive Healthy Meal Plan Guide",
+    "category": "Health",
+    "excerpt": "Acts as a nutrition expert to create a detailed, multi-diet meal planning guide with sample meals, tips, and substitutions.",
+    "file": "prompts/health-nutrition/nutrition-expert.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "10 Powerful AI-Based Learning Techniques",
+    "category": "Learning",
+    "excerpt": "Master any topic faster with these 10 optimized prompt templates designed to enhance understanding, retention, and motivation.",
+    "file": "prompts/learning/ai-based-learning.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "10 Powerful AI-Based Learning Techniques for Mastering Any Topic",
+    "category": "Learning",
+    "excerpt": "This guide explains 10 AI-based learning techniques to make mastering any topic faster and easier. Each technique includes use cases, examples, prompt templates, and optimized prompts for direct implementation.",
+    "file": "prompts/learning/ai-learning.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive Prompt Guide for Strategic and Creative Tasks",
+    "category": "Learning",
+    "excerpt": "A detailed collection of actionable prompts to support strategic analysis, marketing initiatives, project planning, content creation, and personal development.",
+    "file": "prompts/learning/creative.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Critical Thinking Prompt Template",
+    "category": "Learning",
+    "excerpt": "This template guides users in developing deeper understanding and applying higher-order thinking to analyze, evaluate, and create ideas based on specific topics. Organized into six distinct levels of thought, each section is designed to enhance learning and intellectual engagement.",
+    "file": "prompts/learning/critical-thinking.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Creative Prompts for Entertainment and Storytelling",
+    "category": "Fun",
+    "excerpt": "A diverse collection of prompts to inspire humor, storytelling, and imaginative activities across multiple themes.",
+    "file": "prompts/learning/fun.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "ChatGPT Prompts for Learning and Development",
+    "category": "Education",
+    "excerpt": "A versatile collection of prompts to enhance learning and development initiatives through creative instructional design, assessments, and engagement strategies.",
+    "file": "prompts/learning/learn-develop.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Learn Anything 5x Faster with These 9 Proven Methods",
+    "category": "Learning",
+    "excerpt": "A complete guide from beginner to expert on how to learn faster using 9 cognitive science-based frameworks. Includes explanations, use cases, and 27 actionable prompts.",
+    "file": "prompts/learning/learning-techniques.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Learning Acceleration & Deep Understanding Prompts",
+    "category": "Learning",
+    "excerpt": "A structured collection of prompts designed to simplify complex topics, reinforce understanding, and connect ideas for efficient learning.",
+    "file": "prompts/learning/learning.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "AI & Machine Learning Development Prompts",
+    "category": "Learning",
+    "excerpt": "A structured collection of prompts designed to enhance machine learning model training, data visualization, synthetic data generation, and predictive analytics.",
+    "file": "prompts/learning/llm.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "Comprehensive List of Prompt Types with Examples",
+    "category": "Learning",
+    "excerpt": "A categorized set of prompts to effectively guide conversations and outputs with AI across various contexts.",
+    "file": "prompts/learning/prompts.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
+    "views": 0
+  },
+  {
+    "title": "<Prompt Title Here>",
+    "category": "<category-name>",
+    "excerpt": "<Short one-line description of what this prompt helps with.>",
     "file": "prompts/template.md",
+    "date": "2025-05-16",
+    "author": "Unknown",
     "views": 0
   }
 ]

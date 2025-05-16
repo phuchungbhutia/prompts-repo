@@ -4,47 +4,69 @@ const path = require('path');
 
 const promptsDir = path.join(__dirname, 'prompts');
 
+function readFilesRecursively(dir) {
+  let results = [];
+  const list = fs.readdirSync(dir, { withFileTypes: true });
+
+  list.forEach(dirent => {
+    const fullPath = path.join(dir, dirent.name);
+    if (dirent.isDirectory()) {
+      results = results.concat(readFilesRecursively(fullPath));
+    } else if (dirent.isFile() && dirent.name.endsWith('.md')) {
+      results.push(fullPath);
+    }
+  });
+
+  return results;
+}
+
 function extractMetadata(content) {
-  const titleMatch = content.match(/^#\s+(.+)/m);
-  const categoryMatch = content.match(/^##\s*Category\s*\n(.+)/m);
-  const authorMatch = content.match(/^##\s*Author\s*\n(.+)/m);
-  const dateMatch = content.match(/^##\s*Created\s*\n(.+)/m);
+  // Use regex to capture metadata lines (title, category, description)
+  // Assumes metadata lines are at the top of the file, e.g.:
+  // title: Prompt Title
+  // category: Category Name
+  // description: Short description here
+
+  const titleMatch = content.match(/^title:\s*(.+)$/im);
+  const categoryMatch = content.match(/^category:\s*(.+)$/im);
+  const descriptionMatch = content.match(/^description:\s*(.+)$/im);
 
   return {
-    title: titleMatch ? titleMatch[1].trim() : "Untitled",
-    category: categoryMatch ? categoryMatch[1].trim() : "Uncategorized",
-    author: authorMatch ? authorMatch[1].trim() : "Unknown",
-    date: dateMatch ? new Date(dateMatch[1].trim()).toISOString().split('T')[0] : new Date().toISOString().split('T')[0]
+    title: titleMatch ? titleMatch[1].trim() : 'Untitled',
+    category: categoryMatch ? categoryMatch[1].trim() : 'Uncategorized',
+    excerpt: descriptionMatch ? descriptionMatch[1].trim() : '',
   };
 }
 
-function createExcerpt(content) {
-  const text = content
-    .replace(/^#.*$/gm, '')
-    .replace(/^##.*$/gm, '')
-    .replace(/!\[.*\]\(.*\)/gm, '')
-    .replace(/\[.*\]\(.*\)/gm, '')
-    .replace(/[`*>\-\+]/gm, '')
-    .replace(/\n/g, ' ')
+function createExcerptFromContent(content) {
+  // Fallback excerpt if description is missing - first 140 chars of content without metadata lines
+  const noMeta = content
+    .replace(/^title:.*$/gim, '')
+    .replace(/^category:.*$/gim, '')
+    .replace(/^description:.*$/gim, '')
+    .replace(/^\s*$/gm, '') // remove empty lines
     .trim();
-  return text.length > 140 ? text.slice(0, 140) + '...' : text;
+
+  return noMeta.length > 140 ? noMeta.slice(0, 140) + '...' : noMeta;
 }
 
 function main() {
-  const files = fs.readdirSync(promptsDir).filter(f => f.endsWith('.md'));
+  const files = readFilesRecursively(promptsDir);
 
-  const prompts = files.map(file => {
-    const filePath = path.join(promptsDir, file);
+  const prompts = files.map(filePath => {
     const content = fs.readFileSync(filePath, 'utf-8');
     const meta = extractMetadata(content);
+    const excerpt = meta.excerpt || createExcerptFromContent(content);
+    const stats = fs.statSync(filePath);
+    const date = stats.mtime.toISOString().split('T')[0]; // use last modified date
 
     return {
       title: meta.title,
-      date: meta.date,
-      author: meta.author,
-      excerpt: createExcerpt(content),
       category: meta.category,
-      file: `prompts/${file}`,
+      excerpt: excerpt,
+      file: path.relative(__dirname, filePath).replace(/\\/g, '/'), // for Windows fix
+      date: date,
+      author: "Unknown",  // Optional: you can add author metadata if you want
       views: 0
     };
   });

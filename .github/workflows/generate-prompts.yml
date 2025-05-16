@@ -1,0 +1,34 @@
+name: Generate prompts.json
+
+on:
+  push:
+    paths:
+      - 'prompts/**'
+      - 'generate-prompts-json.js'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Generate prompts.json
+        run: node generate-prompts-json.js
+
+      - name: Commit and push prompts.json
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add prompts.json
+          git diff --cached --quiet || git commit -m "Auto-update prompts.json"
+          git push
+        env:
+          # Needed if your repo is private or requires auth. For public repos, this might be unnecessary.
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

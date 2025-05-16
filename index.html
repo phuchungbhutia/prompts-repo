@@ -234,14 +234,21 @@
     }
 
     function loadPrompt(filepath) {
-      fetch(filepath)
-        .then(response => response.text())
-        .then(markdown => {
-          document.querySelector(".container").style.display = "none";
-          document.getElementById("prompt-viewer").style.display = "block";
-          document.getElementById("prompt-content").innerHTML = marked.parse(markdown);
-        });
-    }
+  fetch(filepath)
+    .then(response => {
+      if (!response.ok) throw new Error('File not found: ' + filepath);
+      return response.text();
+    })
+    .then(markdown => {
+      document.querySelector(".container").style.display = "none";
+      document.getElementById("prompt-viewer").style.display = "block";
+      document.getElementById("prompt-content").innerHTML = marked.parse(markdown);
+    })
+    .catch(error => {
+      alert(error.message);
+    });
+}
+
 
     function showIndex() {
       document.getElementById("prompt-viewer").style.display = "none";

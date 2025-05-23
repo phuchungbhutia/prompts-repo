@@ -42,6 +42,12 @@
     "file": "./prompts/AITools/chatgpt.md"
   },
   {
+    "title": "AI-Powered ChatGPT Prompt Templates",
+    "category": "Prompting",
+    "description": "A collection of customizable ChatGPT prompts designed for effective learning, writing, problem-solving, and content creation.",
+    "file": "./prompts/AITools/chatgpt1.md"
+  },
+  {
     "title": "ChatGPT Prompt Guide for Structured Usage",
     "category": "Prompting",
     "description": "This guide provides a comprehensive explanation and examples of structured prompts to use ChatGPT effectively. It covers various roles, techniques, and use cases to help users optimize their interactions and generate precise responses.",
@@ -120,6 +126,12 @@
     "file": "./prompts/AITools/frameworks7.md"
   },
   {
+    "title": "AI-Powered GPT-4.1 Prompt Templates",
+    "category": "Productivity",
+    "description": "A structured collection of AI-driven prompts designed to optimize efficiency, enhance technical workflows, automate tasks, and refine communication strategies.",
+    "file": "./prompts/AITools/gpt4.md"
+  },
+  {
     "title": "Grok 3 Prompting Master Cheat Sheet",
     "category": "Prompting",
     "description": "Unlock Grok 3's full potential with this master cheat sheet of expert-level prompts. Learn the perfect prompt formula, roles, tasks, formats, and real-world use cases to save hours daily.",
@@ -172,6 +184,18 @@
     "category": "Prompting",
     "description": "A structured collection of prompts designed to refine leadership skills, enhance decision-making precision, and optimize risk-taking for maximum success.",
     "file": "./prompts/AITools/prompts11.md"
+  },
+  {
+    "title": "AI-Powered Chat Model Prompt Engineering Template",
+    "category": "Prompting",
+    "description": "A refined prompt template designed to maximize the effectiveness of chat models, ensuring clarity, precision, and improved accuracy for various AI-generated outputs.",
+    "file": "./prompts/AITools/prompts12.md"
+  },
+  {
+    "title": "AI-Powered Reasoning Model Prompt Template",
+    "category": "Prompting",
+    "description": "A refined prompt template designed to maximize the effectiveness of reasoning models for complex tasks, ensuring detailed outputs with deep analysis and actionable insights.",
+    "file": "./prompts/AITools/prompts13.md"
   },
   {
     "title": "Creative and Comprehensive Prompt Ideas",

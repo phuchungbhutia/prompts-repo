@@ -144,6 +144,24 @@
     "file": "./prompts/AITools/learn-faster.md"
   },
   {
+    "title": "AI-Powered Legal Advisor Prompt Template",
+    "category": "Writing",
+    "description": "A structured prompt template designed to enable AI-driven legal analysis, contract drafting, litigation support, and compliance assessment for various legal matters.",
+    "file": "./prompts/AITools/legal.md"
+  },
+  {
+    "title": "AI-Powered Legal Advisor Prompt Template",
+    "category": "Writing",
+    "description": "A structured prompt template designed to enable AI-driven legal analysis, contract drafting, litigation support, and compliance assessment for various legal matters.",
+    "file": "./prompts/AITools/legal1.md"
+  },
+  {
+    "title": "AI-Powered Legal Advisor Prompt Template",
+    "category": "Writing",
+    "description": "A structured prompt template designed to enable AI-driven legal analysis, contract drafting, litigation support, and compliance assessment for various legal matters.",
+    "file": "./prompts/AITools/legal2.md"
+  },
+  {
     "title": "ChatGPT for Marketing",
     "category": "Prompting",
     "description": "A comprehensive guide to using ChatGPT for 10 powerful marketing tasks—from campaign planning to SEO content ideas—complete with optimized prompts, use cases, and real-world examples.",
@@ -154,6 +172,18 @@
     "category": "Creativity",
     "description": "A structured collection of AI-generated prompts designed for knowledge expansion, creative expression, problem-solving, and education.",
     "file": "./prompts/AITools/metaai.md"
+  },
+  {
+    "title": "General AI-Powered Template",
+    "category": "Problem-Solving",
+    "description": "A flexible and reusable template designed for AI-powered structured responses, including research, strategy, writing, and brainstorming tasks.",
+    "file": "./prompts/AITools/problemsolving.md"
+  },
+  {
+    "title": "AI-Powered Problem-Solving Prompt Template",
+    "category": "Problem-Solving",
+    "description": "A structured collection of AI-driven prompts designed to improve problem-solving using diverse analytical frameworks, from SWOT analysis to hypothesis testing.",
+    "file": "./prompts/AITools/probsolv.md"
   },
   {
     "title": "Boost Productivity with These Powerful ChatGPT Prompts",
@@ -196,6 +226,12 @@
     "category": "Prompting",
     "description": "A refined prompt template designed to maximize the effectiveness of reasoning models for complex tasks, ensuring detailed outputs with deep analysis and actionable insights.",
     "file": "./prompts/AITools/prompts13.md"
+  },
+  {
+    "title": "AI-Powered Productivity & Communication Prompt Template",
+    "category": "Prompting",
+    "description": "A structured collection of AI-driven prompts designed to enhance efficiency in document summarization, professional email crafting, data analysis, presentations, and legal drafting.",
+    "file": "./prompts/AITools/prompts14.md"
   },
   {
     "title": "Creative and Comprehensive Prompt Ideas",
@@ -252,6 +288,12 @@
     "file": "./prompts/AITools/tools.md"
   },
   {
+    "title": "AI-Powered Academic Research & Writing Prompt Template",
+    "category": "Writing",
+    "description": "A structured prompt template designed to assist with literature reviews, methodology exploration, citation formatting, thesis development, and hypothesis formulation.",
+    "file": "./prompts/Academics/academic.md"
+  },
+  {
     "title": "Ethical AI Use in Academic Writing – Prompts & Guide",
     "category": "Writing",
     "description": "A complete guide and prompt collection for using AI tools ethically in academic writing. Includes detailed steps, do’s and don’ts, and professional prompt templates.",
@@ -262,6 +304,12 @@
     "category": "Writing",
     "description": "A collection of focused and detailed prompts to assist in creating audit-focused ebooks across industries.",
     "file": "./prompts/Academics/audit-manuals.md"
+  },
+  {
+    "title": "Audit Report Generation Web Application",
+    "category": "Reporting",
+    "description": "A detailed prompt template for developing a robust web application designed to streamline audit report creation, data storage, retrieval, and management for local governing bodies (Panchayats and Municipalities).",
+    "file": "./prompts/Academics/auditreport.md"
   },
   {
     "title": "Prompts for Writing a Book",
@@ -306,6 +354,12 @@
     "file": "./prompts/Academics/education.md"
   },
   {
+    "title": "Act as a Professional Legal Advisor",
+    "category": "Writing",
+    "description": "A structured prompt template designed to enable AI-driven legal analysis, document drafting, litigation support, and compliance guidance for various legal matters.",
+    "file": "./prompts/Academics/legal.md"
+  },
+  {
     "title": "Prompts for Crafting Ebooks Focused on Manuals and Guidelines",
     "category": "Writing",
     "description": "A collection of structured prompts for creating official documents, including manuals and guidelines for various industries.",
@@ -328,6 +382,12 @@
     "category": "Programming",
     "description": "A collection of creative prompts to inspire app development, website creation, and GitHub project setups.",
     "file": "./prompts/Academics/projects.md"
+  },
+  {
+    "title": "AI-Powered Prompt Collection Template",
+    "category": "Prompting",
+    "description": "A reusable template for organizing and formatting AI prompts in a structured markdown file for efficiency and clarity.",
+    "file": "./prompts/Academics/prompts.md"
   },
   {
     "title": "Comprehensive Thesis Chapter Prompts",
@@ -534,6 +594,12 @@
     "file": "./prompts/Business/live.md"
   },
   {
+    "title": "AI-Powered Sales, Marketing & Financial Planning Prompt Template",
+    "category": "Business",
+    "description": "A structured collection of AI-driven prompts designed to optimize sales funnels, audience engagement, offer positioning, and financial planning strategies.",
+    "file": "./prompts/Business/market1.md"
+  },
+  {
     "title": "Comprehensive Marketing and Content Prompt Guide",
     "category": "Marketing",
     "description": "A curated collection of 50 versatile prompts tailored for marketing campaigns and content creation, designed to enhance creativity and strategic execution.",
@@ -660,6 +726,18 @@
     "file": "./prompts/Business/stocks.md"
   },
   {
+    "title": "AI-Powered Stock Trading Prompt Template",
+    "category": "Marketing",
+    "description": "A structured collection of AI-driven prompts designed to optimize investment strategies, analyze stock trends, and enhance trading decision-making.",
+    "file": "./prompts/Business/stocks1.md"
+  },
+  {
+    "title": "AI-Powered Superhuman Abilities Prompt Template",
+    "category": "Learning",
+    "description": "A structured collection of AI-driven prompts designed to help users simplify information, improve decision-making, memorize key facts, and accelerate skill learning.",
+    "file": "./prompts/Business/super.md"
+  },
+  {
     "title": "Membership Growth, Social Media Expansion & Personalized Branding",
     "category": "Marketing",
     "description": "A structured collection of prompts designed to help YouTube creators expand memberships, grow social media influence, and refine their personal branding.",
@@ -762,10 +840,22 @@
     "file": "./prompts/Productivity/booster.md"
   },
   {
+    "title": "AI-Powered Chatbot Applications & Mastery Prompt Template",
+    "category": "Prompting",
+    "description": "A structured prompt template designed to showcase the applications of AI chatbots in research, development, sales, and design, along with best practices for effective prompting.",
+    "file": "./prompts/Productivity/chatbot.md"
+  },
+  {
     "title": "Formula for Crafting Effective ChatGPT Prompts",
     "category": "Productivity",
     "description": "This document outlines a comprehensive formula for creating effective and precise ChatGPT prompts. By using structured components like roles, tasks, context, examples, and constraints, users can achieve highly relevant and actionable outputs.",
     "file": "./prompts/Productivity/chatgpt.md"
+  },
+  {
+    "title": "AI-Powered ChatGPT Prompt Templates for Power Users",
+    "category": "Productivity",
+    "description": "A structured collection of advanced AI-driven prompts designed to enhance negotiation, research, workflow automation, and interactive storytelling through ChatGPT.",
+    "file": "./prompts/Productivity/chatgpt1.md"
   },
   {
     "title": "Advanced Content Optimization and Writing Prompts",
@@ -810,6 +900,12 @@
     "file": "./prompts/Productivity/creativity3.md"
   },
   {
+    "title": "AI-Powered Personal Growth & Productivity Prompt Template",
+    "category": "Productivity",
+    "description": "A structured collection of AI-driven prompts designed to enhance productivity, financial planning, solo travel, and conversation strategy through actionable guidance.",
+    "file": "./prompts/Productivity/growth.md"
+  },
+  {
     "title": "Comprehensive Learning Prompts",
     "category": "Learning",
     "description": "A structured list of prompts for effective learning across various skills, tailored for coaching, resource curation, accelerated acquisition, and practical application.",
@@ -820,6 +916,18 @@
     "category": "Learning",
     "description": "A refined collection of AI-driven learning prompts designed to accelerate mastery, deepen understanding, and optimize skill acquisition across various domains.",
     "file": "./prompts/Productivity/learning1.md"
+  },
+  {
+    "title": "AI-Powered Legal Advisor Prompt Template",
+    "category": "Writing",
+    "description": "A detailed prompt template designed to enable AI-driven legal analysis, contract drafting, litigation support, and compliance assessment for various legal matters.",
+    "file": "./prompts/Productivity/legal.md"
+  },
+  {
+    "title": "AI-Powered Problem-Solving Prompt Template",
+    "category": "Prompting",
+    "description": "A structured collection of AI-driven prompts designed to enhance critical thinking, business strategy, and workflow efficiency using expert problem-solving frameworks.",
+    "file": "./prompts/Productivity/probsolv.md"
   },
   {
     "title": "Boosting Productivity with ChatGPT",
@@ -1138,6 +1246,12 @@
     "category": "Productivity",
     "description": "A structured collection of prompts designed to enhance content virality, automate workflows, optimize productivity, and develop personal brand growth strategies.",
     "file": "./prompts/content-generator/viral.md"
+  },
+  {
+    "title": "AI-Powered Workflow Optimization Prompt Template",
+    "category": "Content-Creation",
+    "description": "A structured collection of AI-driven prompts designed to streamline ideation, execution, automation, and content optimization through AI-powered workflows.",
+    "file": "./prompts/content-generator/workflow.md"
   },
   {
     "title": "Trending Ebook Prompts for Your Next Writing Project",
